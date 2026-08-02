@@ -46,8 +46,8 @@ function Assert-Completed($Messages, [string]$Action) {
 }
 
 $dependencies = (Invoke-NativeHost @{ action = "ensure-ffmpeg" })[-1]
-if (-not $dependencies.ok -or $dependencies.hostApiVersion -ne 3) {
-    throw "A verificacao do host API 3 falhou."
+if (-not $dependencies.ok -or $dependencies.hostApiVersion -ne 4) {
+    throw "A verificacao do host API 4 falhou."
 }
 $ffprobe = Join-Path (Split-Path -Parent $dependencies.ffmpegPath) "ffprobe.exe"
 $stamp = Get-Date -Format "yyyyMMddHHmmss"
@@ -93,7 +93,15 @@ try {
         }
     }
     $results | Format-Table -AutoSize
-    Write-Host "Host API 3, download direto e faixas separadas validados."
+    $missingFolder = (Invoke-NativeHost @{
+        action = "reveal-file"
+        path = "Z:\\dsl-video-downloader-test\\arquivo-inexistente.mp4"
+    })[-1]
+    if ($missingFolder.ok -or -not $missingFolder.error) {
+        throw "A validacao de caminho inexistente do Explorer falhou."
+    }
+
+    Write-Host "Host API 4, Explorer, download direto e faixas separadas validados."
 }
 finally {
     foreach ($path in $outputs) {

@@ -22,7 +22,8 @@ COMO BAIXAR VIDEOS
 2. Abra a extensao e, na aba Midias, clique no botao laranja de download.
 3. O botao virara um indicador giratorio e o progresso aparecera na propria lista.
 4. A aba Downloads mostra os downloads ativos, concluidos e com erro.
-5. Quando terminar, clique no botao circular de video para abrir o MP4 salvo.
+5. Quando terminar, clique no botao circular de video para abrir o MP4 salvo
+   ou no botao de pasta para mostrar o arquivo no Explorer do Windows.
 
 FLUXOS DISPONIVEIS
 

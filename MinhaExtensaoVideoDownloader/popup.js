@@ -396,9 +396,22 @@ function createProgress(job) {
       const response = await chrome.runtime.sendMessage({ type: "open-downloaded-file", path: job.outputPath });
       if (!response?.ok) play.title = response?.error || "Arquivo nao encontrado";
     });
+    const folder = document.createElement("button");
+    folder.className = "folder-open-button";
+    folder.type = "button";
+    folder.title = "Abrir pasta do arquivo";
+    folder.setAttribute("aria-label", "Abrir pasta do arquivo");
+    folder.disabled = !job.outputPath;
+    const folderIcon = document.createElement("span");
+    folderIcon.setAttribute("aria-hidden", "true");
+    folder.append(folderIcon);
+    folder.addEventListener("click", async () => {
+      const response = await chrome.runtime.sendMessage({ type: "reveal-downloaded-file", path: job.outputPath });
+      if (!response?.ok) folder.title = response?.error || "Pasta nao encontrada";
+    });
     const message = document.createElement("span");
     message.textContent = `${job.filename} salvo em Downloads`;
-    result.append(play, message);
+    result.append(play, folder, message);
     container.append(result);
   } else if (job.status === "error") {
     const result = document.createElement("div");

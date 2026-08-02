@@ -702,7 +702,8 @@ main {
   color: #ffae96;
 }
 
-.video-play-button {
+.video-play-button,
+.folder-open-button {
   display: grid;
   flex: 0 0 auto;
   width: 25px;
@@ -717,13 +718,15 @@ main {
   transition: border-color 150ms ease, background-color 150ms ease, transform 150ms ease;
 }
 
-.video-play-button:hover:not(:disabled) {
+.video-play-button:hover:not(:disabled),
+.folder-open-button:hover:not(:disabled) {
   border-color: var(--green);
   background: #194d30;
   transform: translateY(-1px);
 }
 
-.video-play-button:disabled {
+.video-play-button:disabled,
+.folder-open-button:disabled {
   cursor: not-allowed;
   opacity: 0.45;
 }
@@ -735,6 +738,28 @@ main {
   border-top: 4px solid transparent;
   border-bottom: 4px solid transparent;
   border-left: 6px solid currentColor;
+}
+
+.folder-open-button > span {
+  position: relative;
+  width: 13px;
+  height: 9px;
+  margin-top: 2px;
+  border: 1.5px solid currentColor;
+  border-radius: 2px;
+}
+
+.folder-open-button > span::before {
+  position: absolute;
+  top: -5px;
+  left: -1.5px;
+  width: 6px;
+  height: 4px;
+  box-sizing: border-box;
+  border: 1.5px solid currentColor;
+  border-bottom: 0;
+  border-radius: 2px 2px 0 0;
+  content: "";
 }
 
 .job-error-icon {
