@@ -16,7 +16,7 @@ using System.Web.Script.Serialization;
 
 internal static class DslVideoDownloaderHost
 {
-    private const int HostApiVersion = 3;
+    private const int HostApiVersion = 4;
     private const int DefaultParallelConnections = 4;
     private static readonly object OutputLock = new object();
     private static readonly JavaScriptSerializer Json = new JavaScriptSerializer
@@ -123,6 +123,12 @@ internal static class DslVideoDownloaderHost
             if (action == "open-file")
             {
                 SendMessage(OpenDownloadedFile(message));
+                return;
+            }
+
+            if (action == "reveal-file")
+            {
+                SendMessage(RevealDownloadedFile(message));
                 return;
             }
 
@@ -893,6 +899,45 @@ internal static class DslVideoDownloaderHost
         }
         Process.Start(new ProcessStartInfo { FileName = path, UseShellExecute = true });
         return new Dictionary<string, object> { { "ok", true } };
+    }
+
+    private static Dictionary<string, object> RevealDownloadedFile(Dictionary<string, object> message)
+    {
+        string path = GetString(message, "path");
+        if (String.IsNullOrWhiteSpace(path))
+        {
+            return ErrorResponse("O caminho do arquivo baixado nao foi informado.");
+        }
+
+        string fullPath;
+        try
+        {
+            fullPath = Path.GetFullPath(path);
+        }
+        catch
+        {
+            return ErrorResponse("O caminho do arquivo baixado e invalido.");
+        }
+
+        string directory = Path.GetDirectoryName(fullPath);
+        if (File.Exists(fullPath))
+        {
+            Process.Start(new ProcessStartInfo
+            {
+                FileName = "explorer.exe",
+                Arguments = "/select,\"" + fullPath + "\"",
+                UseShellExecute = true
+            });
+            return new Dictionary<string, object> { { "ok", true }, { "selected", true } };
+        }
+
+        if (!String.IsNullOrEmpty(directory) && Directory.Exists(directory))
+        {
+            Process.Start(new ProcessStartInfo { FileName = directory, UseShellExecute = true });
+            return new Dictionary<string, object> { { "ok", true }, { "selected", false } };
+        }
+
+        return ErrorResponse("A pasta do arquivo baixado nao foi encontrada.");
     }
 
     private static string FindFfmpeg()
