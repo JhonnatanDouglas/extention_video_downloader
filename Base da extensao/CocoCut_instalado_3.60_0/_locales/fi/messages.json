@@ -1,0 +1,1114 @@
+{
+   "Aria2Text": {
+      "message": "Aria2-muoto"
+   },
+   "DownText": {
+      "message": "Lataa tekstitedostona"
+   },
+   "Refresh": {
+      "message": "Nollaa"
+   },
+   "ResetExt": {
+      "message": "Nollaa"
+   },
+   "Resolution": {
+      "message": "Resoluutio"
+   },
+   "SaveExt": {
+      "message": "Tallenna kaikki asetukset"
+   },
+   "T2_advanceOptions": {
+      "message": "Kaappausasetukset"
+   },
+   "T2_audioBits": {
+      "message": "Äänen bittinopeus"
+   },
+   "T2_errMsgBegin": {
+      "message": "Virhe:"
+   },
+   "T2_maxCaputureTime": {
+      "message": "Valitettavasti suurin kaappausaika on saavutettu. Napsauta minua kirjautuaksesi sisään Pro-käyttäjänä rajoituksen poistamiseksi."
+   },
+   "T2_preview": {
+      "message": "Videon esikatselu"
+   },
+   "T2_recordEncoding": {
+      "message": "Videokoodaus"
+   },
+   "T2_selectVideo": {
+      "message": "Valitse video (esikatselu luodaan kaappauksen aloittamisen jälkeen, jotta voidaan varmistaa, onko se Pro-käyttäjien kohdevideo)."
+   },
+   "T2_startRecording": {
+      "message": "Käynnistä kaappaus"
+   },
+   "T2_stopRecording": {
+      "message": "Pysäytä kaappaus"
+   },
+   "T2_videoBits": {
+      "message": "Videon bittinopeus"
+   },
+   "TAudio": {
+      "message": "Ääni"
+   },
+   "TCloseBtn": {
+      "message": "Sulje"
+   },
+   "TContinueRec": {
+      "message": "Jatketaanko tallennustilaa?"
+   },
+   "TErrorNoAudio": {
+      "message": "Valitettavasti ääntä ei löytynyt."
+   },
+   "TErrorNoVideo": {
+      "message": "Valitettavasti videota ei löytynyt. Ehkä voit kokeilla tallennustilaa."
+   },
+   "TRecording": {
+      "message": "Tallennetaan."
+   },
+   "TbadgetTitle": {
+      "message": "Löytyi $MEDIA_COUNT$ mediatiedostoa.",
+      "placeholders": {
+         "MEDIA_COUNT": {
+            "content": "$1"
+         }
+      }
+   },
+   "TbgIsDownloading": {
+      "message": "Tämän sivun mediaa ladataan."
+   },
+   "TbgTryLater": {
+      "message": "Valitettavasti lataus ei ole tilapäisesti käytettävissä. Yritä myöhemmin uudelleen tai päivitä sivu ja yritä uudelleen."
+   },
+   "Tcopy": {
+      "message": "Kopioi URL-osoite"
+   },
+   "TcopySelected": {
+      "message": "Kopioi valitut"
+   },
+   "TcustomAdd": {
+      "message": "Lisää"
+   },
+   "TcustomAddMine": {
+      "message": "Lisää"
+   },
+   "TcustomBlockedDomainEmpty": {
+      "message": "Estettävä verkkotunnus ei voi olla tyhjä"
+   },
+   "TcustomBlockedDomainExample": {
+      "message": "Verkkotunnuksen muodon tulee olla seuraava:"
+   },
+   "TcustomBlockedDomainPlaceholder": {
+      "message": "Anna estettävä verkkotunnus"
+   },
+   "TcustomBlockedDomains": {
+      "message": "Estetyt verkkotunnukset"
+   },
+   "TcustomBlockedDomainsDec": {
+      "message": "Seuraavien verkkotunnusten tiedostoja ei näytetä latausluettelossa."
+   },
+   "TcustomComfirmRest": {
+      "message": "Vahvista nollaus? Menetät kaikki aiemmat asetuksesi nollauksen jälkeen!"
+   },
+   "TcustomCtDec": {
+      "message": "Jotkin mediatiedostot käyttävät epätavallisia päätteitä, ja ne on arvioitava MIME-tyypin perusteella. \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types/Complete_list_of_MIME_types\" target=\"_blank\">MIME-tyyppien luettelo.\u003C/a> Tukee jokerimerkkejä, jotka vastaavat ensin päätteitä."
+   },
+   "TcustomCtMIME": {
+      "message": "MIME"
+   },
+   "TcustomDebug": {
+      "message": "Vianetsintätila"
+   },
+   "TcustomExt": {
+      "message": "Mukautettu tiedostopääte"
+   },
+   "TcustomExtDec": {
+      "message": "Täytä pääte ilman \".\". \u003Cbr/>Tätä kokoa suuremmat tiedostot indeksoidaan. \u003Cbr/>Nollan täyttäminen indeksoi tiedostokoon koosta riippumatta.\u003Cbr/>Jos haluat ohittaa tietyntyyppisen tiedoston, poista valinta \"Päällä\".\u003Cbr/>Joitakin ei-mediaresurssitiedostoja ei indeksoida."
+   },
+   "TcustomExtName": {
+      "message": "Tiedostopääte"
+   },
+   "TcustomExtNameEmpty": {
+      "message": "Tiedostopääte ei voi olla tyhjä."
+   },
+   "TcustomExtSize": {
+      "message": "Kokorajoitus"
+   },
+   "TcustomMaxDisplayCount": {
+      "message": "Kuinka monta tiedostoa näytetään ponnahdusikkunassa"
+   },
+   "TcustomMineEmpty": {
+      "message": "MIME ei voi olla tyhjä."
+   },
+   "TcustomOt": {
+      "message": "Muut"
+   },
+   "TcustomOtFilename": {
+      "message": "Käytä sivun otsikkoa tiedostonimenä latauksen yhteydessä."
+   },
+   "TcustomOtIgnore": {
+      "message": "Ohita parametrit (vältä kaksoiskappaleita)"
+   },
+   "TcustomOtIgnoreDec": {
+      "message": "Jotkin mediatiedostot sisältävät parametreja. Valitse 'Ohita parametrit' suodattaaksesi päällekkäiset tiedot."
+   },
+   "TcustomOtReg": {
+      "message": "Säännöllinen lauseke, joka vastaa videoparametreja. Jos et ymmärrä säännöllisiä lausekkeita, vältä sen muokkaamista. Voit käyttää 'Nollaa' palauttaaksesi oletusasetukset."
+   },
+   "TcustomSaved": {
+      "message": "Tallennettu"
+   },
+   "TcustomSetting": {
+      "message": "CocoCut-asetukset"
+   },
+   "TcustomShowCountOnIcon": {
+      "message": "Näytä tiedostojen määrä CocoCut-laajennuskuvakkeessa"
+   },
+   "TcustomTypeIgn": {
+      "message": "Jos haluat ohittaa tietyntyyppisen tiedoston, poista valinta \"Päällä\"."
+   },
+   "TdlmDownload": {
+      "message": "Avaa uusi lataushallintasivu ladataksesi monisäikeisesti (ja aseta se oletuslatausmenetelmäksi)."
+   },
+   "Tdone": {
+      "message": "Valmis."
+   },
+   "TdownSelected": {
+      "message": "Lataa valitut"
+   },
+   "Tdownload": {
+      "message": "Lataa"
+   },
+   "TdownloadPlus": {
+      "message": "Edistynyt lataustila"
+   },
+   "TerrFailDownload": {
+      "message": "Tiedoston lataaminen epäonnistui."
+   },
+   "TerrItself": {
+      "message": "Virhe."
+   },
+   "TerrNoAvailableDownload": {
+      "message": "Valitettavasti emme löydä ladattavaa videota."
+   },
+   "TerrNoIndexFile": {
+      "message": "Valitettavasti emme voi ladata videotiedostojen hakemistotiedostoa."
+   },
+   "TerrTryToRec": {
+      "message": "Ehkä voit kokeilla \u003Ca href=\"javascript:void(0)\" id=\"errTryToRec\">Tallennustilaa\u003C/a>?"
+   },
+   "Text": {
+      "message": "Tekstimuoto"
+   },
+   "ThlsCloseVideoPageRetry": {
+      "message": "Ehkä sinun on suljettava videoverkkosivu, avattava se uudelleen ja yritettävä uudelleen."
+   },
+   "ThlsGoToMergeAV": {
+      "message": "Siirry sitten yhdistämään ääntä ja videota:"
+   },
+   "ThlsLiveDurationLimit": {
+      "message": "Hups! Olet ylittänyt enimmäiskeston. \u003Ca class='btn btn-primary up2pro-btn'>Päivitä Pro-versioon\u003C/a> nauttiaksesi rajoittamattomasta ajasta ja avataksesi lisää upeita ominaisuuksia!"
+   },
+   "ThlsNeedSelectAudio": {
+      "message": "Jos videossa ei ole ääntä, lataa:"
+   },
+   "ThlsSegmentsDlFaile": {
+      "message": "Ei voitu ladata $failedCount$ segmenttiä, napsauta yrittääksesi uudelleen",
+      "placeholders": {
+         "failedCount": {
+            "content": "$1",
+            "example": "8"
+         }
+      }
+   },
+   "Tloading": {
+      "message": "Ladataan."
+   },
+   "Tm3Des1": {
+      "message": "Jos jäsennettyä ts-tiedostoa ei voi ladata, kokeile UrlDecode-dekoodausta."
+   },
+   "Tm3Des2": {
+      "message": "Ffmpeg-yhdistämiskomento ts-tiedostoille: ffmpeg -i xxx.m3u8 -vcodec copy -acodec copy xxx.mp4"
+   },
+   "Tm3FileCount": {
+      "message": " tiedostoa"
+   },
+   "Tm3FileUri": {
+      "message": "M3u8-tiedoston URL-osoite"
+   },
+   "Tm3Key": {
+      "message": ", mediatiedosto on salattu, lataa avaintiedosto."
+   },
+   "Tm3Nexm3Des": {
+      "message": "Toinen m3u8-tiedosto on sisäkkäin m3u8-tiedostossa."
+   },
+   "Tm3Nextm3file": {
+      "message": "Valitse seuraavan tason m3u8-tiedosto"
+   },
+   "Tm3PageTile": {
+      "message": "Jäsennetään m3u8-tiedostoa"
+   },
+   "Tm3u8": {
+      "message": "Lataa m3u8"
+   },
+   "Tm3u8AdvancedParser": {
+      "message": "m3u8 edistynyt jäsennin"
+   },
+   "Tm3u8BeenSaved2HardDisk": {
+      "message": "Se on tallennettu kiintolevylle, tarkista ladattu sisältö selaimesta"
+   },
+   "Tm3u8Bitrate": {
+      "message": "Bittinopeus"
+   },
+   "Tm3u8CanNotDealSampleAES": {
+      "message": "SAMPLE-AES-CTR:llä salattuja resursseja ei voi tällä hetkellä käsitellä."
+   },
+   "Tm3u8CanNotModiSet": {
+      "message": "Transkoodaus on käytössä, tätä asetusta ei voi muuttaa"
+   },
+   "Tm3u8CustomKey": {
+      "message": "mukautettu avain"
+   },
+   "Tm3u8CustomKeyInputP": {
+      "message": "Mukautettu avain heksadesimaali- tai base64- tai avainosoite"
+   },
+   "Tm3u8CustomeKeyOffsetV": {
+      "message": "mukautettu siirtymä"
+   },
+   "Tm3u8DataBeingConvert": {
+      "message": "Tietoja muunnetaan muotoon..."
+   },
+   "Tm3u8DataIsBeMerged": {
+      "message": "Tietoja yhdistetään..."
+   },
+   "Tm3u8DlAndMerge": {
+      "message": "Lataa ja yhdistä"
+   },
+   "Tm3u8DlDescDlMpdQuik": {
+      "message": "Jäsennetty lataus-URL vanhenee pian, lataa mahdollisimman pian. Jos lataus epäonnistuu, palaa videon toistosivulle ja napsauta CocoCut-kuvaketta jäsentääksesi uudelleen."
+   },
+   "Tm3u8DlExistData": {
+      "message": "Lataa olemassa olevat tiedot"
+   },
+   "Tm3u8DlFailedTryAgain": {
+      "message": "Lataus epäonnistui...yritä uudelleen"
+   },
+   "Tm3u8DlRange": {
+      "message": "Latausalue"
+   },
+   "Tm3u8DlRec": {
+      "message": "Lataa tallennus"
+   },
+   "Tm3u8DlThreads": {
+      "message": "Lataussäikeiden määrä"
+   },
+   "Tm3u8Downloaded": {
+      "message": "Ladattu:"
+   },
+   "Tm3u8EncodedDoc": {
+      "message": "koodatut asiakirjat"
+   },
+   "Tm3u8Encrypted": {
+      "message": "Salattu"
+   },
+   "Tm3u8ErrInParseM3u8": {
+      "message": "M3u8-tiedoston jäsentämisessä tai toistamisessa on virhe"
+   },
+   "Tm3u8FailedDecrypt": {
+      "message": "Salauksen purku epäonnistui."
+   },
+   "Tm3u8FileLoading": {
+      "message": "Tiedostoa ladataan..."
+   },
+   "Tm3u8FormatErrCanclemp4": {
+      "message": "Muotomuunnosvirhe, peruuta mp4-muunnos, lataa uudelleen."
+   },
+   "Tm3u8HttpNotAllow": {
+      "message": "Tämä ominaisuus vaatii https:n"
+   },
+   "Tm3u8ImcompleteData": {
+      "message": "Epätäydelliset tiedot... Jotkin tiedostot ovat edelleen lataamatta."
+   },
+   "Tm3u8IncorrKey": {
+      "message": "Virheellinen avain"
+   },
+   "Tm3u8InitFrag": {
+      "message": "Alustusfragmentti"
+   },
+   "Tm3u8KeyDlFail": {
+      "message": "Avaimen lataus epäonnistui"
+   },
+   "Tm3u8KeyErr": {
+      "message": "Tiedosto on virheellinen:"
+   },
+   "Tm3u8LiveStream": {
+      "message": "Suoratoisto"
+   },
+   "Tm3u8M3u8FileAddr": {
+      "message": "m3u8-tiedoston osoite"
+   },
+   "Tm3u8MergeCheckStEnd": {
+      "message": "Aloitusjärjestysnumero ei voi olla suurempi kuin loppujärjestysnumero"
+   },
+   "Tm3u8MergeCompleteWait": {
+      "message": "Yhdistäminen on valmis, odotetaan selaimen latauksen päättymistä...(Kiinnitä huomiota selaimen latausprosessiin)"
+   },
+   "Tm3u8MergeSeqExceed": {
+      "message": "Järjestysnumero ei voi ylittää"
+   },
+   "Tm3u8NestMultSubs": {
+      "message": "Sisäkkäin useita tekstityksiä"
+   },
+   "Tm3u8NestMultSubsDesc": {
+      "message": "Useita tekstityksiä on sisäkkäin m3u8-tiedostossa"
+   },
+   "Tm3u8NestMultipleaudio": {
+      "message": "Sisäkkäin useita ääniä"
+   },
+   "Tm3u8NestMultipleaudioDesc": {
+      "message": "Useita ääniä on sisäkkäin m3u8-tiedostossa"
+   },
+   "Tm3u8Nestedfiles": {
+      "message": "Sisäkkäiset tiedostot"
+   },
+   "Tm3u8NestedfilesDesc": {
+      "message": "Useita m3u8-tiedostoja sisäkkäin kyseisessä m3u8-tiedostossa"
+   },
+   "Tm3u8NoAudio": {
+      "message": "Ei ääntä"
+   },
+   "Tm3u8NoSupport": {
+      "message": "Ei tue"
+   },
+   "Tm3u8NoVideo": {
+      "message": "Ei videota"
+   },
+   "Tm3u8OpenDlDir": {
+      "message": "Avaa latauskansio"
+   },
+   "Tm3u8PlayList": {
+      "message": "m3u8-soittolista"
+   },
+   "Tm3u8PushingStream": {
+      "message": "Suoratoistoa lähetetään, lataus pysähtyy sulkemisen jälkeen..."
+   },
+   "Tm3u8RangeEnd": {
+      "message": "Alueen loppu"
+   },
+   "Tm3u8RangeStart": {
+      "message": "Alueen alku"
+   },
+   "Tm3u8ReDlErr": {
+      "message": "Yritä uudelleen latausvirheen sattuessa"
+   },
+   "Tm3u8ReDling": {
+      "message": "Ladataan uudelleen..."
+   },
+   "Tm3u8RecLive": {
+      "message": "Tallenna live-video"
+   },
+   "Tm3u8RecLiveVideo": {
+      "message": "Tallenna live-video"
+   },
+   "Tm3u8RecordingTime": {
+      "message": "Tallennusaika:"
+   },
+   "Tm3u8Redownload": {
+      "message": "Lataa uudelleen"
+   },
+   "Tm3u8RefererAdd": {
+      "message": "Lisää"
+   },
+   "Tm3u8RefererDelete": {
+      "message": "Poista"
+   },
+   "Tm3u8RefererRetry": {
+      "message": "yritä sitten uudelleen"
+   },
+   "Tm3u8ReqFfmpegTrans": {
+      "message": "Vaatii ffmpeg-transkoodauksen"
+   },
+   "Tm3u8Resolution": {
+      "message": "Resoluutio"
+   },
+   "Tm3u8RetryDlErr": {
+      "message": "Yritä kaikkia epäonnistuneita kohteita uudelleen"
+   },
+   "Tm3u8SaveAs": {
+      "message": "Tallenna nimellä"
+   },
+   "Tm3u8SaveAsMp4": {
+      "message": "Tallenna mp4-muodossa"
+   },
+   "Tm3u8SaveCusName": {
+      "message": "Tallenna mukautetulla tiedostonimellä"
+   },
+   "Tm3u8SaveOnlyAudio": {
+      "message": "Tallenna vain äänimuoto"
+   },
+   "Tm3u8StopDl": {
+      "message": "Pysäytä lataus"
+   },
+   "Tm3u8StopDlStream": {
+      "message": "Pysäytä latausvirta"
+   },
+   "Tm3u8StopRec": {
+      "message": "Pysäytä tallennus"
+   },
+   "Tm3u8StreamSave": {
+      "message": "Tallenna kiintolevylle latauksen aikana"
+   },
+   "Tm3u8TotalFragCount": {
+      "message": "Tiedostofragmenttien kokonaismäärä:"
+   },
+   "Tm3u8TotalTime": {
+      "message": "Kokonaisaika:"
+   },
+   "Tm3u8Upload": {
+      "message": "Tai, Lataa"
+   },
+   "Tm3u8VideoResolution": {
+      "message": "Resoluutio"
+   },
+   "Tm3u8VideoTime": {
+      "message": "Kesto"
+   },
+   "Tm3u8WaitLiveData": {
+      "message": "Odotetaan live-dataa..."
+   },
+   "Tm3u8WrongKeyType": {
+      "message": "Väärä avaintyyppi"
+   },
+   "Tm3u8downloadOptions": {
+      "message": "Latausasetukset"
+   },
+   "Tm3u8skipDecryption": {
+      "message": "Ohita salauksen purku"
+   },
+   "Tm3u8stopDl": {
+      "message": "Pysäytä lataus"
+   },
+   "TmediaCNormalspeed": {
+      "message": "Normaali nopeus"
+   },
+   "TmediaCSelWebpage": {
+      "message": "Valitse verkkosivu"
+   },
+   "TmediaCfullscreen": {
+      "message": "Koko näyttö"
+   },
+   "TmediaCpause": {
+      "message": "Keskeytä"
+   },
+   "TmediaCpip": {
+      "message": "Kuva kuvassa"
+   },
+   "TmediaCpipQuit": {
+      "message": "Lopeta kuva kuvassa"
+   },
+   "TmediaCplay": {
+      "message": "Toista"
+   },
+   "TmediaCplayTime": {
+      "message": "Toistoaika"
+   },
+   "TmediaCscreenshot": {
+      "message": "Näyttökuva"
+   },
+   "TmediaCselMedia": {
+      "message": "Valitse video"
+   },
+   "TmediaCspeed": {
+      "message": "Toista omalla nopeudellasi"
+   },
+   "TmediaCvolumn": {
+      "message": "Äänenvoimakkuus"
+   },
+   "TmediaLoop": {
+      "message": "Silmukka"
+   },
+   "TmedianCMuted": {
+      "message": "Mykistä"
+   },
+   "TmpdDrmProtect": {
+      "message": "Media on suojattu DRM:llä, eikä sitä ehkä voi ladata ja toistaa. Sille ei ole salausanalyysi- ja salauksenpurkutoimintoa, kopioi mpd-tiedoston osoite ja käytä kolmannen osapuolen työkalua lataamiseen."
+   },
+   "TmpdInitSeg": {
+      "message": "alustussegmentti"
+   },
+   "TmpdMPdFileAddr": {
+      "message": "tiedoston osoite"
+   },
+   "TmpdParser": {
+      "message": "Jäsennin"
+   },
+   "TmpdSelectAudio": {
+      "message": "Valitse ääni"
+   },
+   "TmpdSelectVideo": {
+      "message": "Valitse video"
+   },
+   "TmpdTotalFilesCount": {
+      "message": "Tiedostojen kokonaismäärä"
+   },
+   "TmpdVideo": {
+      "message": "Video"
+   },
+   "TnoResource": {
+      "message": "Tiedostoa ei havaittu!"
+   },
+   "TopenAdvanceModalDesc": {
+      "message": "On suositeltavaa käyttää tätä tilaa, kun lataus epäonnistuu, ladattu tiedosto on virheellinen tai tiedostokoko ylittää 2 Gt."
+   },
+   "TopenAdvanceModeBtn": {
+      "message": "Avaa edistynyt lataustila"
+   },
+   "Tplay": {
+      "message": "Toista"
+   },
+   "TpopBlockDomain": {
+      "message": "Estä tämän verkkotunnuksen tiedostojen näyttäminen latausluettelossa"
+   },
+   "TpopBlockedDomainNotify": {
+      "message": "Alla olevan verkkotunnuksen tiedostoja ei näytetä latausluettelossa."
+   },
+   "TpopDlDash": {
+      "message": "Lataa DASH/MPD"
+   },
+   "TpopGetProBtn": {
+      "message": "Hanki edistyneitä toimintoja, kuten \"nopeutettu lataus\"."
+   },
+   "TpopHomePageBtn": {
+      "message": "CocoCut-kotisivu"
+   },
+   "TpopM3u8Des": {
+      "message": "Suoratoisto"
+   },
+   "TpopNeedPlayit": {
+      "message": " Sinun on ehkä toistettava video ensin, jotta CocoCut löytää sen."
+   },
+   "TpopNeedPlayit2": {
+      "message": "Jotkin videot on aloitettava toistamaan, ennen kuin ne voidaan ladata. Tai voit napsauttaa \"Pakota lataus\" -painiketta."
+   },
+   "TpopNotSuppWhy": {
+      "message": "Napsauta minua nähdäksesi miksi ja mahdollisen ratkaisun."
+   },
+   "TpopNotSupport": {
+      "message": "Valitettavasti tätä verkkosivua ei tueta."
+   },
+   "TpopOptionBtn": {
+      "message": "Latausasetukset"
+   },
+   "TpopQuestionBtn": {
+      "message": "Palaute ja usein kysytyt kysymykset"
+   },
+   "TpopRealDlAddr": {
+      "message": "Napsauta minua tullaksesi Pro-jäseneksi saadaksesi latauslinkin."
+   },
+   "TpopTab2Desc": {
+      "message": "Videoille ja äänille, jotka eivät noudata verkkostandardeja, ne voidaan havaita joillakin muilla menetelmillä, kuten \"Emuloi matkapuhelinta\", \"Syvä haku\" ja niin edelleen."
+   },
+   "TpopTooManyFiles": {
+      "message": "Liian monta tiedostoa näytettäväksi. Voit asettaa, kuinka monta tiedostoa näytetään:"
+   },
+   "TpopYTDLdesc": {
+      "message": "Jos olet YouTube-katselusivulla, voit yrittää ladata YouTube-videon."
+   },
+   "TpopYTDLdlIt": {
+      "message": "Yritä ladata YouTube-video"
+   },
+   "TpopdeepSearch": {
+      "message": "Syvä haku"
+   },
+   "TpopdeepSearchOff": {
+      "message": "Poista syvä haku käytöstä"
+   },
+   "TpopdeepSearch_TT": {
+      "message": "Syvä haku epästandardeille mediatiedostoille, mikä lisää huomattavasti havaitsemisen todennäköisyyttä."
+   },
+   "TpopemulateCellphone": {
+      "message": "Emuloi matkapuhelinta"
+   },
+   "TpopemulateCellphone_TT": {
+      "message": "Jotkin verkkosivustot tarjoavat verkkoyhteensopivia mediatiedostoja mobiililaitteille."
+   },
+   "TpoprecordScreen": {
+      "message": "Näytön tallennin"
+   },
+   "TpoprecordScreenOff": {
+      "message": "Poista Näytön tallennin käytöstä"
+   },
+   "TpoprecordScreen_TT": {
+      "message": "Näytön suora tallennus, samanlainen kuin videokamera, joka tallentaa näyttöä."
+   },
+   "TpopupTab1": {
+      "message": "Latausluettelo"
+   },
+   "TpopupTab2": {
+      "message": "Pro-ominaisuudet"
+   },
+   "TpopupTab3": {
+      "message": "Videon hallinta"
+   },
+   "TrevSelected": {
+      "message": "Käänteinen valinta"
+   },
+   "TryHlsDesc": {
+      "message": "CocoCut yrittää ladata tai tallentaa videon. Jos nykyisen verkkosivun videota ei voida havaita tai sitä on vaikea ladata, napsauta tätä yrittääksesi."
+   },
+   "TselectAll": {
+      "message": "Valitse kaikki"
+   },
+   "TssCloseRecArea": {
+      "message": "Poista Näytön tallennin käytöstä"
+   },
+   "TssDrapRecArea": {
+      "message": "Siirretään tallennusaluetta"
+   },
+   "TssNotAllowShare": {
+      "message": "Nykyinen sivu ei tue näytön jakamista"
+   },
+   "TssStartRec": {
+      "message": "Aloita tallennus"
+   },
+   "TssStartRecord": {
+      "message": "Aloita tallennus"
+   },
+   "TssStopRec": {
+      "message": "Pysäytä tallennus"
+   },
+   "TswichtRecMode": {
+      "message": "Vaihda videotallennustilaan"
+   },
+   "TtempntcInfoCopied": {
+      "message": "Kopioitu!"
+   },
+   "TtoFaq": {
+      "message": "Siirry usein kysyttyihin kysymyksiin nähdäksesi, voidaanko ongelma korjata."
+   },
+   "TtryHls": {
+      "message": "Pakota lataus"
+   },
+   "TtryHlsLabel": {
+      "message": "Onko sinulla ongelmia lataamisessa tai tiedostoa ei havaittu?"
+   },
+   "TtryPlay": {
+      "message": "Yritä toistaa"
+   },
+   "TtryRecMode": {
+      "message": "Videota ei löydy ladattavaksi, ehkä voit kokeilla sitä tallennustilassa?"
+   },
+   "UrlDecode": {
+      "message": "UrlDecode-dekoodaus"
+   },
+   "WgetText": {
+      "message": "Wget-muoto"
+   },
+   "customNavIEbtns": {
+      "message": "Tuo/vie asetuksia"
+   },
+   "exportSettingBtn": {
+      "message": "Vie paikalliseen tiedostoon"
+   },
+   "extDescription": {
+      "message": "Paras videonlatausohjelma Chrome-laajennus, tämä videonlatausohjelma Chrome:lle voi ladata videoita, musiikkia ilmaiseksi ja turv..."
+   },
+   "extName": {
+      "message": "videonlatausohjelma - CocoCut"
+   },
+   "importSettingBtn": {
+      "message": "Tuo paikallisesta tiedostosta"
+   },
+   "importSettingsCancelBtn": {
+      "message": "Peruuta"
+   },
+   "importSettingsFilelabel": {
+      "message": "Valitse CocoCut-asetustiedosto…"
+   },
+   "importSettingsFilename": {
+      "message": "Tiedostoa ei ole valittu"
+   },
+   "importSettingsOkBtn": {
+      "message": "OK"
+   },
+   "importSettingsWarning": {
+      "message": "Varoitus: tämä korvaa kaikki nykyiset asetukset."
+   },
+   "modalCancelBtn": {
+      "message": "Peruuta"
+   },
+   "modalOkBtn": {
+      "message": "OK"
+   },
+   "popemulateCellphoneOff": {
+      "message": "Poista Emuloi matkapuhelinta käytöstä"
+   },
+   "subtitle": {
+      "message": "Tekstitys"
+   },
+   "t2_Loading": {
+      "message": "Ladataan..."
+   },
+   "t2_captureStoped": {
+      "message": "Kaappaus pysäytetty"
+   },
+   "t2_captureStreamFailed": {
+      "message": "Video saattaa olla tekijänoikeuksilla suojattu ja lataaminen on kielletty."
+   },
+   "t2_clickToStartRecording": {
+      "message": "Valitse kohdevideo ja napsauta sitten: Käynnistä kaappaus."
+   },
+   "t2_detectingVideo": {
+      "message": "Etsitään videoita... (Voi olla tarpeen aloittaa videoiden toistaminen ensin, jotta ne voidaan havaita.)"
+   },
+   "t2_dlM3U8_err": {
+      "message": "virhe, sulje tämä videosivu, avaa se uudelleen ja yritä uudelleen."
+   },
+   "t2_formatNotSupported": {
+      "message": "Videomuotoa ei tueta"
+   },
+   "t2_frameRate": {
+      "message": "Kuvataajuus"
+   },
+   "t2_ifCanNotPlay": {
+      "message": "Jos et voi toistaa ladattua videota, napsauta tätä käyttääksesi MP4-tiedoston korjaustyökalua sen korjaamiseen."
+   },
+   "t2_maxTried": {
+      "message": "Video löytyi, mutta sitä ei voitu kaapata. Sulje tämä sivu, siirry videosivulle ja yritä uudelleen."
+   },
+   "t2_noVideoDetected": {
+      "message": "Videota ei havaittu. Sinun on ehkä toistettava video ensin, jotta videon löytäminen onnistuu."
+   },
+   "t2_noVideoFound": {
+      "message": "Videota ei havaittu. Sinun on ehkä toistettava video ensin, jotta videon löytäminen onnistuu."
+   },
+   "t2_recordeModeTip": {
+      "message": "\u003Cstrong>Tallennustila\u003C/strong> antaa sinun tallentaa suoraan videosivulle välimuistiin tallennettuja videoita. \u003Ch4>Hyödyt\u003C/h4> \u003Cul>\u003Cli>Nopea tallennusnopeus.\u003C/li>\u003Cli>Tukee pikakelausta eteenpäin tallennuksen aikana.\u003C/li>\u003C/ul> \u003Ch4>Haitat\u003C/h4> \u003Cul>\u003Cli>Joitakin videoita ei voi tallentaa.\u003C/li>\u003Cli>Satunnaisia ongelmia puuttuvien video- tai äänisegmenttien kanssa.\u003C/li>\u003C/ul>"
+   },
+   "t2_recording": {
+      "message": "Kaappaus käynnissä"
+   },
+   "t2_recordingChangeEncoding": {
+      "message": "Videokoodausta ei voi muuttaa kaappauksen aikana."
+   },
+   "t2_recordingFailed": {
+      "message": "Kaappaus epäonnistui"
+   },
+   "t2_recordingNotSupported": {
+      "message": "Kaappausta ei tueta"
+   },
+   "t2_showSuperRecorderContainerBtn": {
+      "message": "Kun lataus- tai tallennustila epäonnistuu, voit yrittää käyttää kaappaustilaa:"
+   },
+   "t2_stopRecording": {
+      "message": "Pysäytä kaappaus"
+   },
+   "t2_superRecorderInjectJsBtn": {
+      "message": "Kaappaustila"
+   },
+   "t2_superRecorderInjectJsBtnTip": {
+      "message": "\u003Cstrong>Kaappaustila\u003C/strong> antaa sinun kaapata videoita verkkosivuilta, mikä helpottaa suosikkiesi tallentamista. \u003Ch4>Hyödyt\u003C/h4> \u003Cul>\u003Cli>Kaappaa useimmat videot (lukuun ottamatta tekijänoikeuksilla suojattuja videoita).\u003C/li>\u003C/ul> \u003Ch4>Haitat\u003C/h4> \u003Cul>\u003Cli>Suuret tiedostokoot.\u003C/li>\u003Cli>Ei pikakelausta eteenpäin kaappauksen aikana.\u003C/li>\u003Cli>Suhteellisen korkeat laitteistovaatimukset, saattaa esiintyä viivettä. (Voit vähentää tallennettavan kohdevideon resoluutiota viiveen vähentämiseksi.)\u003C/li>\u003C/ul>"
+   },
+   "t2_video": {
+      "message": "Video"
+   },
+   "t2_webrtcStream": {
+      "message": "WebRTC-videovirta"
+   },
+   "t3_LimitCaptureDurationNotice": {
+      "message": "Ei-Pro-versiossa on tallennusaikaraja. Päivitä Pro-versioon rajoittamattoman tallennusajan saamiseksi. Napsauta tästä päivittääksesi Pro-versioon."
+   },
+   "t3_LimitSuperRecordDurationNotice": {
+      "message": "Ei-Pro-versiossa on kaappausaika. Päivitä Pro-versioon rajoittamattoman kaappausajan saamiseksi. Napsauta tästä päivittääksesi Pro-versioon."
+   },
+   "t3_alt_downloader_desc": {
+      "message": "Jos lataus epäonnistuu, yritä käyttää tätä vaihtoehtoista medianlatausohjelmaa ladataksesi uudelleen."
+   },
+   "t3_alt_media_downloader": {
+      "message": "Vaihtoehtoinen medianlatausohjelma"
+   },
+   "t3_closeAndRetry": {
+      "message": "Sulje tämä sivu, palaa videon toistosivulle ja yritä uudelleen."
+   },
+   "t3_dlSpeedNotice": {
+      "message": "\u003Ch4>Haluatko nopeuttaa latauksia? \u003C/h4>On suositeltavaa aloittaa CocoCutin edistyneen monisäikeisen nopean lataustekniikan käyttö, joka voi lisätä nopeutta jopa 6 kertaa."
+   },
+   "t3_dlSpeedNoticeBtn": {
+      "message": "Ota nopea lataus käyttöön"
+   },
+   "t3_dlVaccelerateNotPro": {
+      "message": "Käytetäänkö monisäikeistystä latausnopeuden nopeuttamiseksi?"
+   },
+   "t3_dlVforceSaveBtn": {
+      "message": "Tallenna puskuroidut osat suoraan"
+   },
+   "t3_dlVsaveBtn": {
+      "message": "Tallenna"
+   },
+   "t3_dlVstartBtn": {
+      "message": "Jatka"
+   },
+   "t3_dlVstopAndSaveBtn": {
+      "message": "Pysäytä lataus ja tallenna"
+   },
+   "t3_dlVstopBtn": {
+      "message": "Keskeytä"
+   },
+   "t3_download_complete": {
+      "message": "Lataus valmis"
+   },
+   "t3_downloading": {
+      "message": "Ladataan..."
+   },
+   "t3_failed_download": {
+      "message": "Tiedoston lataaminen epäonnistui:"
+   },
+   "t3_failed_get_info": {
+      "message": "Videotietojen noutaminen epäonnistui."
+   },
+   "t3_file_name": {
+      "message": "Tiedostonimi:"
+   },
+   "t3_file_size": {
+      "message": "Tiedostokoko:"
+   },
+   "t3_loginBtn": {
+      "message": "Kirjaudu sisään"
+   },
+   "t3_proLogined": {
+      "message": "Olet jo kirjautunut sisään Pro-jäsenenä, joten jotta et keskeyttäisi edistymistäsi tässä latauksessa, Pro-ominaisuutesi otetaan käyttöön seuraavassa latauksessasi."
+   },
+   "t3_proNoticeContent": {
+      "message": "\u003Cp>Hei, sinun on kirjauduttava sisään Pro-käyttäjänä käyttääksesi tätä ominaisuutta.\u003C/p>\u003Cp>(Jos olet jo kirjautunut sisään Pro-käyttäjänä, voit aloittaa sen käytön seuraavan kerran.)\u003C/p>"
+   },
+   "t3_proNoticeTitle": {
+      "message": "Tämä on Pro-ominaisuus"
+   },
+   "t3_ready_to_download": {
+      "message": "Valmis ladattavaksi"
+   },
+   "t3_save2gdrive": {
+      "message": "Tallenna Google Driveen"
+   },
+   "t3_start_download": {
+      "message": "Aloita lataus"
+   },
+   "t3_triedSpeedo": {
+      "message": "Pro-käyttäjän nopean latauksen kokeilujakson loppu."
+   },
+   "t3_tringSpeedo": {
+      "message": "Kokeillaan nopeaa latausta Pro-käyttäjälle"
+   },
+   "t3_tringSpeedyTech": {
+      "message": "Yritetään käyttää nopeaa lataustekniikkaa latauksen nopeuttamiseksi!"
+   },
+   "t3_trySpeedo": {
+      "message": "Napsauta tästä kokeillaksesi"
+   },
+   "t3_webpage_title": {
+      "message": "Verkkosivun otsikko:"
+   },
+   "t4_Cached": {
+      "message": "Välimuistissa"
+   },
+   "t4_Downloaded": {
+      "message": "Ladattu!"
+   },
+   "t4_Fetching": {
+      "message": "Haetaan tiedostotietoja ..."
+   },
+   "t4_ProThreads": {
+      "message": "Käytetään enimmäismäärää säikeitä Pro-käyttäjälle"
+   },
+   "t4_Profile": {
+      "message": "Profiili"
+   },
+   "t4_Retries": {
+      "message": "Uudelleenyritykset"
+   },
+   "t4_Size": {
+      "message": "Koko"
+   },
+   "t4_Speed": {
+      "message": "Nopeus"
+   },
+   "t4_Threads": {
+      "message": "Säikeet"
+   },
+   "t4_Timeleft": {
+      "message": "Aikaa jäljellä"
+   },
+   "t4_askReviewTitle": {
+      "message": "Jos pidät tästä laajennuksesta, anna meille 5 tähden äänestys laajennuskaupassa auttaaksesi meitä tekemään paremmin :), se auttaa meitä paljon!"
+   },
+   "t4_askShare": {
+      "message": "Jos pidät tästä laajennuksesta, jaa se ystävillesi ja kollegoillesi!"
+   },
+   "t4_autoSaveLabel": {
+      "message": "Tallenna automaattisesti"
+   },
+   "t4_autoSaveTitle": {
+      "message": "Tallenna automaattisesti, kun puskurointi on valmis"
+   },
+   "t4_btnClose": {
+      "message": "Sulje"
+   },
+   "t4_bufferedLabel": {
+      "message": "Puskuroidut osat (Napsauta \"Tallenna\" puskuroinnin päätyttyä tallentaaksesi levylle):"
+   },
+   "t4_cachedone": {
+      "message": "Välimuisti valmis, napsauta \"tallenna\"-painiketta tallentaaksesi välimuistiin tallennetun tiedoston kiintolevylle."
+   },
+   "t4_cancelBtn": {
+      "message": "Peruuta"
+   },
+   "t4_directDlLable": {
+      "message": "Lataa seuraavan kerran suoraan selaimella"
+   },
+   "t4_disclaimDesc": {
+      "message": "CocoCut on tarkoitettu vain henkilökohtaiseen käyttöön, eikä se ole vastuussa käyttäjien lataamista tiedostoista. Suosittelemme vahvistamaan tekijänoikeudet ennen käyttöä."
+   },
+   "t4_dlHlsInfo": {
+      "message": "Yritetään hakea ts-tiedostohakemistoa. Jos tämä tila jatkuu pitkään, yritä käyttää: "
+   },
+   "t4_dlVaccelerate": {
+      "message": "Yritetään nopeuttaa latausta Pro-käyttäjälle."
+   },
+   "t4_failedDlModalContent": {
+      "message": "\u003Cp>Joitakin ladatun videon segmenttejä ei voi ladata normaalisti tai yhdistää, mikä saattaa aiheuttaa sen, että Cococut ei pysty lataamaan nykyistä videota.\u003C/p>\u003Cp>Voit silti kokeilla \"Tallennustilaa\" verkkosivun oikeassa yläkulmassa, mutta se ei takaa onnistumista.\u003C/p>"
+   },
+   "t4_failedDlModalTitle": {
+      "message": "Latauksessasi on ongelma."
+   },
+   "t4_filesaved": {
+      "message": "Tiedosto on tallennettu levylle, poistaa välimuistiin tallennetut tiedot."
+   },
+   "t4_goToIndexShare": {
+      "message": "Jaa se nyt."
+   },
+   "t4_hlsBottomVote": {
+      "message": "Jos pidät tästä sovelluksesta, anna meille 5 tähden äänestys laajennuskaupassa auttaaksesi meitä tekemään paremmin :)"
+   },
+   "t4_hlsBottomVoteBtn": {
+      "message": "Äänestä nyt"
+   },
+   "t4_hlsBottomeShare": {
+      "message": "Jos pidät tästä sovelluksesta, jaa se ystävillesi :) "
+   },
+   "t4_important": {
+      "message": "Tärkeää"
+   },
+   "t4_importantDesc": {
+      "message": "Älä sulje tätä sivua latauksen aikana."
+   },
+   "t4_importantDesc2": {
+      "message": "Videon tallennus on alkanut, älä sulje videon toistosivua ja pidä video toistumassa."
+   },
+   "t4_incache": {
+      "message": "Välimuistiin tallentaminen"
+   },
+   "t4_loadingNotice": {
+      "message": "ladataan..."
+   },
+   "t4_maxRecTimeLimit": {
+      "message": "Valitettavasti suurin tallennusaika on saavutettu. Napsauta minua kirjautuaksesi sisään Pro-käyttäjänä rajoituksen poistamiseksi."
+   },
+   "t4_maxRecTimeLimitAware": {
+      "message": "Huomaa, että ei-Pro-käyttäjillä on rajoitettu tallennusaika."
+   },
+   "t4_nxtTReview": {
+      "message": "Ehkä ensi kerralla"
+   },
+   "t4_oauth2gDrive": {
+      "message": "Google Drive -valtuutus"
+   },
+   "t4_oauth2gDriveContent": {
+      "message": "Jotta voit tallentaa ladatun videon Google Driveen, sinun on valtuutettava laajennus käyttämään Google Drive -tiliäsi. "
+   },
+   "t4_oauth2gDriveNote": {
+      "message": "Varmista, että verkkosi voi käyttää Google Driven palvelua."
+   },
+   "t4_okBtn": {
+      "message": "OK"
+   },
+   "t4_okReview": {
+      "message": "Tottakai!"
+   },
+   "t4_recModeForProAware": {
+      "message": "Tallennustila on Pro-ominaisuus, jota voi kokeilla ilmaiseksi rajoitetun ajan."
+   },
+   "t4_recordCached": {
+      "message": "Tallennustilassa kaikki videon puskuroidut osat on tallennettu, voit yrittää kelata eteenpäin videon toistosivulla tai vetää edistymispalkin puskurin loppuun nopeuttaaksesi tallennusta."
+   },
+   "t4_recordInfo": {
+      "message": "Yritetään tallentaa, mutta videotietoja ei ole vielä vastaanotettu. Ehkä on odotettava videon alkamista."
+   },
+   "t4_recordingMode": {
+      "message": "Tallennustila"
+   },
+   "t4_removeAds": {
+      "message": "En halua nähdä mainosta"
+   },
+   "t4_save2diskLabel": {
+      "message": "Tallenna suoraan kiintolevylle"
+   },
+   "t4_save2diskTitle": {
+      "message": "Latauksen aikana tiedosto tallennetaan suoraan kiintolevylle, se ei vie muistia ja ohittaa selaimen 2 Gt:n muistirajoituksen. Se soveltuu suurten tiedostojen tai suoratoistovideoiden lataamiseen."
+   },
+   "t4_setAutoFixMp4": {
+      "message": "Korjaa videotiedosto automaattisesti"
+   },
+   "t4_setAutoFixMp4Div": {
+      "message": "Korjaa automaattisesti videotiedostot, joita ei voi toistaa/kelata eteenpäin"
+   },
+   "t4_speedUpLabel": {
+      "message": "Nopeuta tallennusta"
+   },
+   "t4_speedUpTitle": {
+      "message": "Nopeuta videota tallennustilassa, kun mahdollista, nopeuttaaksesi tallennusta. Näppäimistön 'Ctr + >' ja 'Ctr + \u003C' videon toistosivulla muuttavat toistonopeutta"
+   },
+   "t4_switchRecMode": {
+      "message": "Vaihda videon lataustilaa"
+   },
+   "t4_switchRecModeContent": {
+      "message": "\u003Cp>Napsauta OK vaihtaaksesi tallennustilaan.\u003C/p>\u003Cp> Huomautus: 1. Pidä tämä sivu auki. 2 pidä videosivusi auki ja video toistumassa.\u003C/p>"
+   },
+   "t4_title": {
+      "message": "CocoCut-latauslaajennus"
+   },
+   "t4_vSavedToLoc": {
+      "message": "Videotiedosto on tallennettu selaimesi oletuslatauskansioon."
+   },
+   "t5_ConfirmSelectAudio": {
+      "message": "Videota ei ole vielä tallennettu. Haluatko varmasti ladata äänen ensin?"
+   },
+   "t5_Tm3u8EstimateSize": {
+      "message": "Arvioitu koko"
+   },
+   "t5_allocateErrorContent": {
+      "message": "Selain ei voi varata tarpeeksi tilaa sisäisestä tallennustilasta tiedoston tallentamiseksi. Yritä vapauttaa tilaa kiintolevyltä ja käynnistä lataus uudelleen."
+   },
+   "t5_allocateErrorTitle": {
+      "message": "Tilaa ei voi varata sisäisestä tallennustilasta"
+   },
+   "t5_highestResSelected": {
+      "message": "Korkeimman resoluution video on valittu automaattisesti."
+   },
+   "t5_needUseHighDlBtn": {
+      "message": "Tehosta latausnopeutta"
+   },
+   "t5_over2g": {
+      "message": "Tiedosto ylittää 2 Gt. Selaimen muistirajoitukset voivat aiheuttaa epätäydellisiä tai epäonnistuneita latauksia. Yritä: $1. Koska tämä on selaimen asettama rajoitus, jota ei voi ohittaa, harkitse vaihtoehtoisia menetelmiä, jos ongelma jatkuu."
+   },
+   "t5_selectHighestResAuto": {
+      "message": "Lataa oletusarvoisesti korkeimman resoluution video"
+   },
+   "t5_streamDownloader_failed": {
+      "message": "Kiintolevylle tallentaminen epäonnistui. Virheilmoitus: $1. Päivitä tämä verkkosivu ja yritä uudelleen."
+   },
+   "videoIndexTips": {
+      "message": "Ei valittua käsiteltävää videota"
+   },
+   "videoTabTips": {
+      "message": "Verkkosivuja, joissa on video, ei havaittu"
+   }
+}

@@ -1,0 +1,65 @@
+{
+  "manifest_version": 3,
+  "name": "DSL - Video Downloader Extension",
+  "description": "Detector pessoal de midia com download HLS, midia direta e faixas separadas de video e audio.",
+  "version": "1.5.7",
+  "minimum_chrome_version": "122",
+  "icons": {
+    "16": "icon-extension.png",
+    "32": "icon-extension.png",
+    "48": "icon-extension.png",
+    "128": "icon-extension.png"
+  },
+  "action": {
+    "default_title": "DSL - Video Downloader Extension",
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon-extension.png",
+      "32": "icon-extension.png"
+    }
+  },
+  "background": {
+    "service_worker": "background.js",
+    "type": "module"
+  },
+  "permissions": [
+    "activeTab",
+    "cookies",
+    "downloads",
+    "downloads.open",
+    "declarativeNetRequest",
+    "nativeMessaging",
+    "scripting",
+    "storage",
+    "tabs",
+    "webRequest"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "js": [
+        "content.js"
+      ],
+      "all_frames": true,
+      "run_at": "document_start"
+    },
+    {
+      "matches": [
+        "*://*.facebook.com/*",
+        "*://*.instagram.com/*"
+      ],
+      "js": [
+        "deepSearchMain.js"
+      ],
+      "all_frames": true,
+      "run_at": "document_start",
+      "world": "MAIN"
+    }
+  ],
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0x+D/Hw0iMXGuvP2mtW7TW/21eWeS0S9+T4wyMc0ss8/8H9rh5GecCgH4QksXuOFpb93u23JhriGQZobsX+CeUQwKu6AXWIV59U9gFk1EZE5XZoudw58NQX1+ii3kSYtgNGGgxO1gA+dq56Lk8OSEYtylklk50nWQRXx/SKc2ft+fCOFDHYiI5CxB1MS2xUiOaO/+lsvus2qE3+Qua4FRRjDURCDifVeiXDkFd4lgYfGbcPteJC2oEmJ0bF3f7Oq990hzzF/NYzLFAxdHs+KkwIH99Wj36sOc7sAmjcJcHtQJSbGmfkHd/0mnbIYtZzlM2p53BLeDoeuG3bqqYPUOwIDAQAB"
+}

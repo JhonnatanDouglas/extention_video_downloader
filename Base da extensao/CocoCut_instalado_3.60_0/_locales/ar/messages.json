@@ -1,0 +1,1114 @@
+{
+   "Aria2Text": {
+      "message": "تنسيق Aria2"
+   },
+   "DownText": {
+      "message": "تحميل بتنسيق نصي"
+   },
+   "Refresh": {
+      "message": "إعادة تعيين"
+   },
+   "ResetExt": {
+      "message": "إعادة تعيين"
+   },
+   "Resolution": {
+      "message": "الدقة"
+   },
+   "SaveExt": {
+      "message": "حفظ جميع الإعدادات"
+   },
+   "T2_advanceOptions": {
+      "message": "خيارات الالتقاط"
+   },
+   "T2_audioBits": {
+      "message": "معدل بت الصوت"
+   },
+   "T2_errMsgBegin": {
+      "message": "خطأ:"
+   },
+   "T2_maxCaputureTime": {
+      "message": "عذرًا، تم الوصول إلى الحد الأقصى لوقت الالتقاط. يرجى النقر هنا لتسجيل الدخول كمستخدم محترف لإزالة الحد."
+   },
+   "T2_preview": {
+      "message": "معاينة الفيديو"
+   },
+   "T2_recordEncoding": {
+      "message": "ترميز الفيديو"
+   },
+   "T2_selectVideo": {
+      "message": "اختر الفيديو (سيتم إنشاء معاينة بعد بدء الالتقاط للتأكد مما إذا كان الفيديو هو الفيديو المستهدف للمستخدمين المحترفين)."
+   },
+   "T2_startRecording": {
+      "message": "ابدأ الالتقاط"
+   },
+   "T2_stopRecording": {
+      "message": "أوقف الالتقاط"
+   },
+   "T2_videoBits": {
+      "message": "معدل بت الفيديو"
+   },
+   "TAudio": {
+      "message": "صوت"
+   },
+   "TCloseBtn": {
+      "message": "إغلاق"
+   },
+   "TContinueRec": {
+      "message": "هل تريد متابعة وضع التسجيل؟"
+   },
+   "TErrorNoAudio": {
+      "message": "عذرًا، لم يتم العثور على صوت."
+   },
+   "TErrorNoVideo": {
+      "message": "عذرًا، لم يتم العثور على فيديو. ربما يمكنك تجربة وضع التسجيل."
+   },
+   "TRecording": {
+      "message": "جاري التسجيل."
+   },
+   "TbadgetTitle": {
+      "message": "تم العثور على $MEDIA_COUNT$ ملف وسائط.",
+      "placeholders": {
+         "MEDIA_COUNT": {
+            "content": "$1"
+         }
+      }
+   },
+   "TbgIsDownloading": {
+      "message": "وسائط هذه الصفحة قيد التحميل."
+   },
+   "TbgTryLater": {
+      "message": "عذرًا، التحميل غير متاح مؤقتًا. يرجى المحاولة لاحقًا أو تحديث الصفحة والمحاولة مرة أخرى."
+   },
+   "Tcopy": {
+      "message": "نسخ الرابط"
+   },
+   "TcopySelected": {
+      "message": "نسخ المحدد"
+   },
+   "TcustomAdd": {
+      "message": "إضافة المزيد"
+   },
+   "TcustomAddMine": {
+      "message": "إضافة المزيد"
+   },
+   "TcustomBlockedDomainEmpty": {
+      "message": "اسم النطاق الذي سيتم حظره لا يمكن أن يكون فارغًا"
+   },
+   "TcustomBlockedDomainExample": {
+      "message": "يجب أن يكون تنسيق اسم النطاق كما يلي:"
+   },
+   "TcustomBlockedDomainPlaceholder": {
+      "message": "أدخل اسم النطاق الذي ترغب في حظره"
+   },
+   "TcustomBlockedDomains": {
+      "message": "النطاقات المحظورة"
+   },
+   "TcustomBlockedDomainsDec": {
+      "message": "الملفات من النطاقات التالية لن تظهر في قائمة التحميل."
+   },
+   "TcustomComfirmRest": {
+      "message": "هل أنت متأكد من أنك تريد إعادة التعيين؟ ستفقد جميع إعداداتك السابقة بعد إعادة التعيين!"
+   },
+   "TcustomCtDec": {
+      "message": "بعض الملفات الإعلامية تستخدم امتدادات غير معتادة ويجب تحديدها بناءً على MIME. \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types/Complete_list_of_MIME_types\" target=\"_blank\">قائمة أنواع MIME.\u003C/a> تدعم الرموز العامة، وتطابق الامتدادات أولاً."
+   },
+   "TcustomCtMIME": {
+      "message": "MIME"
+   },
+   "TcustomDebug": {
+      "message": "وضع التصحيح"
+   },
+   "TcustomExt": {
+      "message": "امتداد الملف المخصص"
+   },
+   "TcustomExtDec": {
+      "message": "أدخل الامتداد دون \".\". \u003Cbr/>سيتم التقاط الملفات الأكبر من هذا الحجم.\u003Cbr/>إذا أدخلت 0، فسيتم التقاط الملفات بغض النظر عن الحجم.\u003Cbr/>إذا كنت ترغب في تجاهل نوع معين من الملفات، قم بإلغاء تحديد \"تشغيل\".\u003Cbr/>بعض ملفات الموارد غير الإعلامية قد لا يتم التقاطها."
+   },
+   "TcustomExtName": {
+      "message": "امتداد الملف"
+   },
+   "TcustomExtNameEmpty": {
+      "message": "امتداد الملف لا يمكن أن يكون فارغًا."
+   },
+   "TcustomExtSize": {
+      "message": "حجم الملف المحدد"
+   },
+   "TcustomMaxDisplayCount": {
+      "message": "عدد الملفات المعروضة في صفحة المنبثقة من امتداد CocoCut"
+   },
+   "TcustomMineEmpty": {
+      "message": "MIME لا يمكن أن يكون فارغًا."
+   },
+   "TcustomOt": {
+      "message": "خيارات أخرى"
+   },
+   "TcustomOtFilename": {
+      "message": "استخدم عنوان الصفحة كاسم الملف عند التحميل."
+   },
+   "TcustomOtIgnore": {
+      "message": "تجاهل المعلمات (لتجنب التكرار)"
+   },
+   "TcustomOtIgnoreDec": {
+      "message": "بعض ملفات الوسائط على المواقع تتضمن معلمات. حدد \"تجاهل المعلمات\" لتصفية البيانات المكررة."
+   },
+   "TcustomOtReg": {
+      "message": "تعبير منتظم يتطابق مع معلمات الفيديو. إذا لم تكن تفهم التعبيرات المنتظمة، تجنب تعديلها. يمكنك استخدام \"إعادة تعيين\" لاستعادة الإعدادات الافتراضية."
+   },
+   "TcustomSaved": {
+      "message": "تم الحفظ"
+   },
+   "TcustomSetting": {
+      "message": "إعدادات CocoCut"
+   },
+   "TcustomShowCountOnIcon": {
+      "message": "عرض عدد الملفات على أيقونة امتداد CocoCut"
+   },
+   "TcustomTypeIgn": {
+      "message": "إذا كنت ترغب في تجاهل نوع معين من الملفات، قم بإلغاء تحديد \"تشغيل\"."
+   },
+   "TdlmDownload": {
+      "message": "افتح صفحة إدارة التحميل الجديدة لتحميل باستخدام تعدد الخيوط (وتعيينها كطريقة التحميل الافتراضية)."
+   },
+   "Tdone": {
+      "message": "تم."
+   },
+   "TdownSelected": {
+      "message": "تحميل المحدد"
+   },
+   "Tdownload": {
+      "message": "تحميل"
+   },
+   "TdownloadPlus": {
+      "message": "وضع التنزيل المتقدم"
+   },
+   "TerrFailDownload": {
+      "message": "فشل في تحميل الملف."
+   },
+   "TerrItself": {
+      "message": "خطأ."
+   },
+   "TerrNoAvailableDownload": {
+      "message": "عذرًا، لا يمكننا العثور على أي فيديو متاح للتحميل."
+   },
+   "TerrNoIndexFile": {
+      "message": "عذرًا، لا يمكننا تحميل ملف الفهرس لملفات الفيديو."
+   },
+   "TerrTryToRec": {
+      "message": "ربما يمكنك تجربة \u003Ca href=\"javascript:void(0)\" id=\"errTryToRec\">وضع التسجيل\u003C/a>؟"
+   },
+   "Text": {
+      "message": "تنسيق نصي"
+   },
+   "ThlsCloseVideoPageRetry": {
+      "message": "ربما تحتاج إلى إغلاق صفحة الفيديو، وإعادة فتحها وإعادة المحاولة."
+   },
+   "ThlsGoToMergeAV": {
+      "message": "ثم اذهب لدمج الصوت والفيديو:"
+   },
+   "ThlsLiveDurationLimit": {
+      "message": "عذرًا! لقد تجاوزت الحد الأقصى للمدة. \u003Ca class='btn btn-primary up2pro-btn'>ترقية إلى Pro\u003C/a> للاستمتاع بمدة غير محدودة وفتح المزيد من الميزات الرائعة!"
+   },
+   "ThlsNeedSelectAudio": {
+      "message": "إذا لم يكن هناك صوت في الفيديو، يرجى تنزيل:"
+   },
+   "ThlsSegmentsDlFaile": {
+      "message": "فشل في تنزيل $failedCount$ جزءًا، اضغط لإعادة المحاولة",
+      "placeholders": {
+         "failedCount": {
+            "content": "$1",
+            "example": "8"
+         }
+      }
+   },
+   "Tloading": {
+      "message": "جاري التحميل."
+   },
+   "Tm3Des1": {
+      "message": "إذا تعذر تحميل ملف ts المحلل، يرجى محاولة فك تشفير UrlDecode."
+   },
+   "Tm3Des2": {
+      "message": "أمر دمج ملفات ts باستخدام ffmpeg: ffmpeg -i xxx.m3u8 -vcodec copy -acodec copy xxx.mp4"
+   },
+   "Tm3FileCount": {
+      "message": " ملف"
+   },
+   "Tm3FileUri": {
+      "message": "رابط ملف m3u8"
+   },
+   "Tm3Key": {
+      "message": " ،الملف الإعلامي مشفر، يرجى تنزيل ملف المفتاح."
+   },
+   "Tm3Nexm3Des": {
+      "message": "يحتوي ملف m3u8 هذا على ملف m3u8 آخر مدمج."
+   },
+   "Tm3Nextm3file": {
+      "message": "اختر ملف m3u8 من المستوى التالي"
+   },
+   "Tm3PageTile": {
+      "message": "تحليل ملف m3u8"
+   },
+   "Tm3u8": {
+      "message": "تحميل m3u8"
+   },
+   "Tm3u8AdvancedParser": {
+      "message": "محلل m3u8 المتقدم"
+   },
+   "Tm3u8BeenSaved2HardDisk": {
+      "message": "تم حفظه على القرص الصلب، يرجى التحقق من المحتوى المحمل في المتصفح"
+   },
+   "Tm3u8Bitrate": {
+      "message": "معدل البت"
+   },
+   "Tm3u8CanNotDealSampleAES": {
+      "message": "لا يمكن معالجة الموارد المشفرة باستخدام SAMPLE-AES-CTR حاليًا."
+   },
+   "Tm3u8CanNotModiSet": {
+      "message": "تم تمكين التحويل، لا يمكن تغيير هذا الإعداد"
+   },
+   "Tm3u8CustomKey": {
+      "message": "مفتاح مخصص"
+   },
+   "Tm3u8CustomKeyInputP": {
+      "message": "مفتاح مخصص (بالترميز السداسي العشري أو Base64 أو عنوان المفتاح)"
+   },
+   "Tm3u8CustomeKeyOffsetV": {
+      "message": "إزاحة مخصصة"
+   },
+   "Tm3u8DataBeingConvert": {
+      "message": "البيانات يتم تحويلها إلى صيغة..."
+   },
+   "Tm3u8DataIsBeMerged": {
+      "message": "البيانات قيد الدمج..."
+   },
+   "Tm3u8DlAndMerge": {
+      "message": "تنزيل ودمج"
+   },
+   "Tm3u8DlDescDlMpdQuik": {
+      "message": "رابط التنزيل الذي تم تحليله سيتوقف عن العمل قريبًا، يرجى التنزيل في أقرب وقت ممكن. إذا فشل التنزيل، يرجى العودة إلى صفحة تشغيل الفيديو والنقر على أيقونة CocoCut لإعادة التحليل."
+   },
+   "Tm3u8DlExistData": {
+      "message": "تنزيل البيانات الموجودة"
+   },
+   "Tm3u8DlFailedTryAgain": {
+      "message": "فشل التنزيل... يرجى المحاولة مرة أخرى"
+   },
+   "Tm3u8DlRange": {
+      "message": "نطاق التنزيل"
+   },
+   "Tm3u8DlRec": {
+      "message": "تنزيل التسجيل"
+   },
+   "Tm3u8DlThreads": {
+      "message": "عدد خيوط التنزيل"
+   },
+   "Tm3u8Downloaded": {
+      "message": "تم التحميل:"
+   },
+   "Tm3u8EncodedDoc": {
+      "message": "وثائق مشفرة"
+   },
+   "Tm3u8Encrypted": {
+      "message": "مشفّر"
+   },
+   "Tm3u8ErrInParseM3u8": {
+      "message": "حدث خطأ أثناء تحليل أو تشغيل ملف m3u8"
+   },
+   "Tm3u8FailedDecrypt": {
+      "message": "فشل فك التشفير"
+   },
+   "Tm3u8FileLoading": {
+      "message": "الملف جاري تحميله..."
+   },
+   "Tm3u8FormatErrCanclemp4": {
+      "message": "خطأ في تحويل التنسيق، يرجى إلغاء تحويل mp4 وإعادة التنزيل."
+   },
+   "Tm3u8HttpNotAllow": {
+      "message": "تحتاج هذه الميزة إلى https"
+   },
+   "Tm3u8ImcompleteData": {
+      "message": "بيانات غير مكتملة... بعض الملفات لم تُحمل"
+   },
+   "Tm3u8IncorrKey": {
+      "message": "مفتاح غير صحيح"
+   },
+   "Tm3u8InitFrag": {
+      "message": "جزء التهيئة"
+   },
+   "Tm3u8KeyDlFail": {
+      "message": "فشل تنزيل المفتاح"
+   },
+   "Tm3u8KeyErr": {
+      "message": "الملف غير صحيح:"
+   },
+   "Tm3u8LiveStream": {
+      "message": "البث المباشر"
+   },
+   "Tm3u8M3u8FileAddr": {
+      "message": "عنوان ملف m3u8"
+   },
+   "Tm3u8MergeCheckStEnd": {
+      "message": "لا يمكن أن يكون رقم التسلسل الأول أكبر من رقم التسلسل الأخير"
+   },
+   "Tm3u8MergeCompleteWait": {
+      "message": "اكتمل الدمج، في انتظار المتصفح لإتمام التنزيل... (يرجى متابعة عملية التنزيل في المتصفح)"
+   },
+   "Tm3u8MergeSeqExceed": {
+      "message": "لا يمكن أن يتجاوز رقم التسلسل"
+   },
+   "Tm3u8NestMultSubs": {
+      "message": "دمج عدة ترجمات"
+   },
+   "Tm3u8NestMultSubsDesc": {
+      "message": "عدة ترجمات مدمجة في ملف m3u8"
+   },
+   "Tm3u8NestMultipleaudio": {
+      "message": "دمج عدة أصوات"
+   },
+   "Tm3u8NestMultipleaudioDesc": {
+      "message": "عدة أصوات مدمجة في ملف m3u8"
+   },
+   "Tm3u8Nestedfiles": {
+      "message": "ملفات مدمجة"
+   },
+   "Tm3u8NestedfilesDesc": {
+      "message": "عدة ملفات m3u8 مدمجة داخل هذا الملف m3u8"
+   },
+   "Tm3u8NoAudio": {
+      "message": "لا يوجد صوت"
+   },
+   "Tm3u8NoSupport": {
+      "message": "غير مدعوم"
+   },
+   "Tm3u8NoVideo": {
+      "message": "لا يوجد فيديو"
+   },
+   "Tm3u8OpenDlDir": {
+      "message": "فتح دليل التنزيل"
+   },
+   "Tm3u8PlayList": {
+      "message": "قائمة تشغيل m3u8"
+   },
+   "Tm3u8PushingStream": {
+      "message": "يتم دفع البث، سيتوقف التنزيل بعد الإغلاق..."
+   },
+   "Tm3u8RangeEnd": {
+      "message": "نهاية النطاق"
+   },
+   "Tm3u8RangeStart": {
+      "message": "بداية النطاق"
+   },
+   "Tm3u8ReDlErr": {
+      "message": "إعادة المحاولة عند حدوث خطأ في التنزيل"
+   },
+   "Tm3u8ReDling": {
+      "message": "جاري إعادة التنزيل..."
+   },
+   "Tm3u8RecLive": {
+      "message": "تسجيل الفيديو المباشر"
+   },
+   "Tm3u8RecLiveVideo": {
+      "message": "تسجيل الفيديو المباشر"
+   },
+   "Tm3u8RecordingTime": {
+      "message": "وقت التسجيل:"
+   },
+   "Tm3u8Redownload": {
+      "message": "إعادة التنزيل"
+   },
+   "Tm3u8RefererAdd": {
+      "message": "إضافة"
+   },
+   "Tm3u8RefererDelete": {
+      "message": "حذف"
+   },
+   "Tm3u8RefererRetry": {
+      "message": "ثم حاول مرة أخرى"
+   },
+   "Tm3u8ReqFfmpegTrans": {
+      "message": "يتطلب التحويل باستخدام ffmpeg"
+   },
+   "Tm3u8Resolution": {
+      "message": "الدقة"
+   },
+   "Tm3u8RetryDlErr": {
+      "message": "إعادة محاولة جميع العناصر الفاشلة"
+   },
+   "Tm3u8SaveAs": {
+      "message": "حفظ باسم"
+   },
+   "Tm3u8SaveAsMp4": {
+      "message": "حفظ بتنسيق mp4"
+   },
+   "Tm3u8SaveCusName": {
+      "message": "حفظ باسم مخصص"
+   },
+   "Tm3u8SaveOnlyAudio": {
+      "message": "حفظ بتنسيق صوتي فقط"
+   },
+   "Tm3u8StopDl": {
+      "message": "إيقاف التنزيل"
+   },
+   "Tm3u8StopDlStream": {
+      "message": "إيقاف تنزيل البث"
+   },
+   "Tm3u8StopRec": {
+      "message": "إيقاف التسجيل"
+   },
+   "Tm3u8StreamSave": {
+      "message": "حفظ إلى القرص الصلب أثناء التنزيل"
+   },
+   "Tm3u8TotalFragCount": {
+      "message": "إجمالي عدد أجزاء الملفات:"
+   },
+   "Tm3u8TotalTime": {
+      "message": "إجمالي الوقت:"
+   },
+   "Tm3u8Upload": {
+      "message": "أو، رفع"
+   },
+   "Tm3u8VideoResolution": {
+      "message": "الدقة"
+   },
+   "Tm3u8VideoTime": {
+      "message": "المدة"
+   },
+   "Tm3u8WaitLiveData": {
+      "message": "انتظار بيانات البث المباشر..."
+   },
+   "Tm3u8WrongKeyType": {
+      "message": "نوع المفتاح خاطئ"
+   },
+   "Tm3u8downloadOptions": {
+      "message": "خيارات التنزيل"
+   },
+   "Tm3u8skipDecryption": {
+      "message": "تخطي فك التشفير"
+   },
+   "Tm3u8stopDl": {
+      "message": "إيقاف التنزيل"
+   },
+   "TmediaCNormalspeed": {
+      "message": "السرعة العادية"
+   },
+   "TmediaCSelWebpage": {
+      "message": "اختيار الصفحة"
+   },
+   "TmediaCfullscreen": {
+      "message": "شاشة كاملة"
+   },
+   "TmediaCpause": {
+      "message": "إيقاف"
+   },
+   "TmediaCpip": {
+      "message": "صورة داخل صورة"
+   },
+   "TmediaCpipQuit": {
+      "message": "الخروج من صورة داخل صورة"
+   },
+   "TmediaCplay": {
+      "message": "تشغيل"
+   },
+   "TmediaCplayTime": {
+      "message": "وقت التشغيل"
+   },
+   "TmediaCscreenshot": {
+      "message": "لقطة شاشة"
+   },
+   "TmediaCselMedia": {
+      "message": "اختيار الفيديو"
+   },
+   "TmediaCspeed": {
+      "message": "تشغيل بالسرعة الخاصة بك"
+   },
+   "TmediaCvolumn": {
+      "message": "الصوت"
+   },
+   "TmediaLoop": {
+      "message": "تكرار"
+   },
+   "TmedianCMuted": {
+      "message": "كتم الصوت"
+   },
+   "TmpdDrmProtect": {
+      "message": "المحتوى محمي بواسطة DRM، وقد لا يمكن تنزيله وتشغيله. لا توجد وظيفة لتحليل وفك تشفيره، يرجى نسخ عنوان ملف mpd واستخدام أداة طرف ثالث للتنزيل."
+   },
+   "TmpdInitSeg": {
+      "message": "جزء التهيئة"
+   },
+   "TmpdMPdFileAddr": {
+      "message": "عنوان الملف"
+   },
+   "TmpdParser": {
+      "message": "المحلل"
+   },
+   "TmpdSelectAudio": {
+      "message": "اختيار الصوت"
+   },
+   "TmpdSelectVideo": {
+      "message": "اختيار الفيديو"
+   },
+   "TmpdTotalFilesCount": {
+      "message": "إجمالي عدد الملفات"
+   },
+   "TmpdVideo": {
+      "message": "فيديو"
+   },
+   "TnoResource": {
+      "message": "لم يتم العثور على الملف!"
+   },
+   "TopenAdvanceModalDesc": {
+      "message": "يُنصح باستخدام هذا الوضع عندما يفشل التنزيل، أو إذا كان الملف المحمّل غير صحيح، أو إذا كان حجم الملف يتجاوز 2 جيجابايت."
+   },
+   "TopenAdvanceModeBtn": {
+      "message": "فتح وضع التنزيل المتقدم"
+   },
+   "Tplay": {
+      "message": "تشغيل"
+   },
+   "TpopBlockDomain": {
+      "message": "حظر الملفات من هذا النطاق من الظهور في قائمة التحميل"
+   },
+   "TpopBlockedDomainNotify": {
+      "message": "الملفات من النطاق التالي لن تظهر في قائمة التحميل."
+   },
+   "TpopDlDash": {
+      "message": "تنزيل DASH/MPD"
+   },
+   "TpopGetProBtn": {
+      "message": "احصل على ميزات متقدمة مثل 'التنزيل المعجل'."
+   },
+   "TpopHomePageBtn": {
+      "message": "الصفحة الرئيسية لـ CocoCut"
+   },
+   "TpopM3u8Des": {
+      "message": "بث"
+   },
+   "TpopNeedPlayit": {
+      "message": "قد تحتاج إلى تشغيل الفيديو أولاً لمساعدة CocoCut في اكتشافه."
+   },
+   "TpopNeedPlayit2": {
+      "message": "بعض الفيديوهات تحتاج إلى أن تبدأ في التشغيل أولاً حتى يتم تحميلها. أو يمكنك النقر على زر \"تحميل بالقوة\"."
+   },
+   "TpopNotSuppWhy": {
+      "message": "انقر هنا لمعرفة السبب والحل الممكن."
+   },
+   "TpopNotSupport": {
+      "message": "عذرًا، هذه الصفحة غير مدعومة."
+   },
+   "TpopOptionBtn": {
+      "message": "إعدادات التحميل"
+   },
+   "TpopQuestionBtn": {
+      "message": "التعليقات والأسئلة الشائعة"
+   },
+   "TpopRealDlAddr": {
+      "message": "انقر هنا لتصبح عضوًا مميزًا للحصول على رابط التحميل."
+   },
+   "TpopTab2Desc": {
+      "message": "للفيديو والصوت الذي لا يتوافق مع معايير الويب، يمكن اكتشافه بطرق أخرى مثل 'محاكاة الهاتف المحمول'، 'البحث العميق' وغيرها."
+   },
+   "TpopTooManyFiles": {
+      "message": "هناك العديد من الملفات لعرضها. يمكنك ضبط عدد الملفات التي تريد عرضها:"
+   },
+   "TpopYTDLdesc": {
+      "message": "إذا كنت في صفحة مشاهدة فيديو على يوتيوب، يمكنك تجربة تحميل فيديو يوتيوب."
+   },
+   "TpopYTDLdlIt": {
+      "message": "جرب تحميل فيديو يوتيوب"
+   },
+   "TpopdeepSearch": {
+      "message": "بحث عميق"
+   },
+   "TpopdeepSearchOff": {
+      "message": "إيقاف البحث العميق"
+   },
+   "TpopdeepSearch_TT": {
+      "message": "بحث عميق عن ملفات الوسائط غير القياسية، مما يزيد بشكل كبير من احتمالية الاكتشاف."
+   },
+   "TpopemulateCellphone": {
+      "message": "محاكاة الهاتف المحمول"
+   },
+   "TpopemulateCellphone_TT": {
+      "message": "تقدم بعض المواقع ملفات وسائط متوافقة مع الويب للأجهزة المحمولة."
+   },
+   "TpoprecordScreen": {
+      "message": "تسجيل الشاشة"
+   },
+   "TpoprecordScreenOff": {
+      "message": "إيقاف تسجيل الشاشة"
+   },
+   "TpoprecordScreen_TT": {
+      "message": "تسجيل الشاشة مباشرة، مشابه لكاميرا الفيديو التي تلتقط الشاشة."
+   },
+   "TpopupTab1": {
+      "message": "قائمة التنزيل"
+   },
+   "TpopupTab2": {
+      "message": "الميزات الاحترافية"
+   },
+   "TpopupTab3": {
+      "message": "تحكم الفيديو"
+   },
+   "TrevSelected": {
+      "message": "عكس التحديد"
+   },
+   "TryHlsDesc": {
+      "message": "CocoCut ستقوم بمحاولة تحميل أو تسجيل الفيديو. إذا كان الفيديو في الصفحة الحالية غير قابل للاكتشاف أو صعب التحميل، انقر هنا لتجربة التحميل."
+   },
+   "TselectAll": {
+      "message": "تحديد الكل"
+   },
+   "TssCloseRecArea": {
+      "message": "إيقاف تسجيل الشاشة"
+   },
+   "TssDrapRecArea": {
+      "message": "تحريك منطقة التسجيل"
+   },
+   "TssNotAllowShare": {
+      "message": "الصفحة الحالية لا تدعم مشاركة الشاشة"
+   },
+   "TssStartRec": {
+      "message": "بدء التسجيل"
+   },
+   "TssStartRecord": {
+      "message": "بدء التسجيل"
+   },
+   "TssStopRec": {
+      "message": "إيقاف التسجيل"
+   },
+   "TswichtRecMode": {
+      "message": "الانتقال إلى وضع تسجيل الفيديو"
+   },
+   "TtempntcInfoCopied": {
+      "message": "تم النسخ!"
+   },
+   "TtoFaq": {
+      "message": "اذهب إلى الأسئلة الشائعة لمعرفة ما إذا كان يمكن حل المشكلة."
+   },
+   "TtryHls": {
+      "message": "تحميل بالقوة"
+   },
+   "TtryHlsLabel": {
+      "message": "هل تواجه مشكلة في تحميل الفيديو أو لم يتم العثور على الملف؟"
+   },
+   "TtryPlay": {
+      "message": "جرب التشغيل"
+   },
+   "TtryRecMode": {
+      "message": "لا يمكن العثور على فيديو للتنزيل، ربما يمكنك تجربته في وضع التسجيل؟"
+   },
+   "UrlDecode": {
+      "message": "فك تشفير UrlDecode"
+   },
+   "WgetText": {
+      "message": "تنسيق Wget"
+   },
+   "customNavIEbtns": {
+      "message": "استيراد/تصدير الإعدادات"
+   },
+   "exportSettingBtn": {
+      "message": "تصدير إلى ملف محلي"
+   },
+   "extDescription": {
+      "message": "أفضل إضافة تحميل فيديوهات Chrome، هذه الإضافة الخاصة بـ Chrome تمكنك من تحميل الفيديوهات والموسيقى مجاناً وبأمان بنقرة واحدة."
+   },
+   "extName": {
+      "message": "محمل الفيديو - CocoCut"
+   },
+   "importSettingBtn": {
+      "message": "استيراد من ملف محلي"
+   },
+   "importSettingsCancelBtn": {
+      "message": "إلغاء"
+   },
+   "importSettingsFilelabel": {
+      "message": "اختر ملف إعدادات CocoCut..."
+   },
+   "importSettingsFilename": {
+      "message": "لم يتم اختيار ملف"
+   },
+   "importSettingsOkBtn": {
+      "message": "موافق"
+   },
+   "importSettingsWarning": {
+      "message": "تحذير: سيؤدي هذا إلى استبدال جميع الإعدادات الحالية."
+   },
+   "modalCancelBtn": {
+      "message": "إلغاء"
+   },
+   "modalOkBtn": {
+      "message": "موافق"
+   },
+   "popemulateCellphoneOff": {
+      "message": "إيقاف محاكاة الهاتف المحمول"
+   },
+   "subtitle": {
+      "message": "ترجمة"
+   },
+   "t2_Loading": {
+      "message": "جارٍ التحميل..."
+   },
+   "t2_captureStoped": {
+      "message": "تم إيقاف الالتقاط"
+   },
+   "t2_captureStreamFailed": {
+      "message": "قد يكون الفيديو محميًا بحقوق الطبع والنشر ويمنع تنزيله."
+   },
+   "t2_clickToStartRecording": {
+      "message": "يرجى اختيار الفيديو المستهدف أولاً ثم النقر على: ابدأ الالتقاط."
+   },
+   "t2_detectingVideo": {
+      "message": "جارٍ البحث عن الفيديوهات... (قد تحتاج إلى تشغيل الفيديو أولاً لاكتشافه.)"
+   },
+   "t2_dlM3U8_err": {
+      "message": "خطأ، يرجى إغلاق صفحة الفيديو هذه، وإعادة فتحها، ثم المحاولة مرة أخرى."
+   },
+   "t2_formatNotSupported": {
+      "message": "تنسيق الفيديو غير مدعوم"
+   },
+   "t2_frameRate": {
+      "message": "معدل الإطارات"
+   },
+   "t2_ifCanNotPlay": {
+      "message": "إذا كنت غير قادر على تشغيل الفيديو الذي تم تنزيله، انقر هنا لاستخدام أداة إصلاح ملفات MP4 لإصلاحه."
+   },
+   "t2_maxTried": {
+      "message": "تم العثور على فيديو، ولكن لم يمكن التقاطه. يرجى إغلاق هذه الصفحة، والانتقال إلى صفحة الفيديو، ثم المحاولة مرة أخرى."
+   },
+   "t2_noVideoDetected": {
+      "message": "لم يتم اكتشاف فيديو. قد تحتاج إلى تشغيل الفيديو أولاً للمساعدة في اكتشافه."
+   },
+   "t2_noVideoFound": {
+      "message": "لم يتم اكتشاف فيديو. قد تحتاج إلى تشغيل الفيديو أولاً للمساعدة في اكتشافه."
+   },
+   "t2_recordeModeTip": {
+      "message": "\u003Cstrong>وضع التسجيل\u003C/strong> يتيح لك تسجيل الفيديوهات المخزنة مؤقتًا على صفحة الفيديو مباشرة. \u003Ch4>الإيجابيات\u003C/h4> \u003Cul>\u003Cli>سرعة التسجيل عالية.\u003C/li>\u003Cli>يدعم التقديم السريع أثناء التسجيل.\u003C/li>\u003C/ul> \u003Ch4>السلبيات\u003C/h4> \u003Cul>\u003Cli>بعض الفيديوهات لا يمكن تسجيلها.\u003C/li>\u003Cli>قد تحدث مشاكل مع فقدان أجزاء من الفيديو أو الصوت.\u003C/li>\u003C/ul>"
+   },
+   "t2_recording": {
+      "message": "الالتقاط جارٍ"
+   },
+   "t2_recordingChangeEncoding": {
+      "message": "لا يمكن تغيير ترميز الفيديو أثناء الالتقاط."
+   },
+   "t2_recordingFailed": {
+      "message": "فشل الالتقاط"
+   },
+   "t2_recordingNotSupported": {
+      "message": "الالتقاط غير مدعوم"
+   },
+   "t2_showSuperRecorderContainerBtn": {
+      "message": "عند فشل وضع التحميل أو التسجيل، يمكنك محاولة استخدام وضع الالتقاط:"
+   },
+   "t2_stopRecording": {
+      "message": "أوقف الالتقاط"
+   },
+   "t2_superRecorderInjectJsBtn": {
+      "message": "وضع الالتقاط"
+   },
+   "t2_superRecorderInjectJsBtnTip": {
+      "message": "\u003Cstrong>وضع الالتقاط\u003C/strong> يتيح لك التقاط الفيديوهات من الصفحات الويب، مما يسهل عليك حفظ المفضلات. \u003Ch4>الإيجابيات\u003C/h4> \u003Cul>\u003Cli>يتم التقاط معظم الفيديوهات (باستثناء الفيديوهات المحمية بحقوق الطبع والنشر).\u003C/li>\u003C/ul> \u003Ch4>السلبيات\u003C/h4> \u003Cul>\u003Cli>حجم الملفات كبير.\u003C/li>\u003Cli>لا يمكن التقديم السريع أثناء الالتقاط.\u003C/li>\u003Cli>متطلبات الأجهزة مرتفعة، قد تواجه تأخيرات. (يمكنك تقليل دقة الفيديو المستهدف لتقليل التأخير.)\u003C/li>\u003C/ul>"
+   },
+   "t2_video": {
+      "message": "فيديو"
+   },
+   "t2_webrtcStream": {
+      "message": "دفق فيديو WebRTC"
+   },
+   "t3_LimitCaptureDurationNotice": {
+      "message": "إصدار غير Pro لديه حد زمني للتسجيل. قم بالترقية إلى إصدار Pro للحصول على تسجيل غير محدود. انقر هنا للترقية إلى إصدار Pro."
+   },
+   "t3_LimitSuperRecordDurationNotice": {
+      "message": "إصدار غير Pro لديه حد زمني للالتقاط. قم بالترقية إلى إصدار Pro للحصول على وقت التقاط غير محدود. انقر هنا للترقية إلى إصدار Pro."
+   },
+   "t3_alt_downloader_desc": {
+      "message": "إذا فشل التنزيل، جرب استخدام أداة تنزيل الوسائط البديلة لإعادة التنزيل."
+   },
+   "t3_alt_media_downloader": {
+      "message": "أداة تنزيل الوسائط البديلة"
+   },
+   "t3_closeAndRetry": {
+      "message": "يرجى إغلاق هذه الصفحة، والعودة إلى صفحة تشغيل الفيديو والمحاولة مرة أخرى."
+   },
+   "t3_dlSpeedNotice": {
+      "message": "\u003Ch4>هل تريد تسريع التنزيل؟ \u003C/h4>يُوصى ببدء استخدام تقنية التنزيل المتقدمة متعددة الخيوط من CocoCut، والتي قد تزيد السرعة حتى 6 مرات."
+   },
+   "t3_dlSpeedNoticeBtn": {
+      "message": "تشغيل التنزيل عالي السرعة"
+   },
+   "t3_dlVaccelerateNotPro": {
+      "message": "هل ترغب في استخدام تقنية متعددة الخيوط لتسريع التنزيل؟"
+   },
+   "t3_dlVforceSaveBtn": {
+      "message": "حفظ الأجزاء المخبأة مباشرة"
+   },
+   "t3_dlVsaveBtn": {
+      "message": "حفظ"
+   },
+   "t3_dlVstartBtn": {
+      "message": "استئناف"
+   },
+   "t3_dlVstopAndSaveBtn": {
+      "message": "إيقاف التنزيل وحفظ"
+   },
+   "t3_dlVstopBtn": {
+      "message": "إيقاف مؤقت"
+   },
+   "t3_download_complete": {
+      "message": "اكتمل التنزيل"
+   },
+   "t3_downloading": {
+      "message": "جاري التنزيل..."
+   },
+   "t3_failed_download": {
+      "message": "فشل تنزيل الملف:"
+   },
+   "t3_failed_get_info": {
+      "message": "فشل الحصول على معلومات الفيديو."
+   },
+   "t3_file_name": {
+      "message": "اسم الملف:"
+   },
+   "t3_file_size": {
+      "message": "حجم الملف:"
+   },
+   "t3_loginBtn": {
+      "message": "تسجيل الدخول"
+   },
+   "t3_proLogined": {
+      "message": "أنت مسجل بالفعل كعضو Pro، ولضمان عدم انقطاع تقدم التنزيل، سيتم تفعيل ميزات Pro في التنزيل التالي."
+   },
+   "t3_proNoticeContent": {
+      "message": "\u003Cp>مرحبًا، تحتاج إلى تسجيل الدخول كمستخدم Pro لاستخدام هذه الميزة.\u003C/p>\u003Cp>(إذا كنت مسجلًا بالفعل كمستخدم Pro، يمكنك البدء باستخدامها في المرة القادمة.)\u003C/p>"
+   },
+   "t3_proNoticeTitle": {
+      "message": "هذه ميزة Pro"
+   },
+   "t3_ready_to_download": {
+      "message": "جاهز للتنزيل"
+   },
+   "t3_save2gdrive": {
+      "message": "حفظ إلى Google Drive"
+   },
+   "t3_start_download": {
+      "message": "ابدأ التنزيل"
+   },
+   "t3_triedSpeedo": {
+      "message": "انتهت تجربة التنزيل عالي السرعة لمستخدمي Pro."
+   },
+   "t3_tringSpeedo": {
+      "message": "محاولة التنزيل عالي السرعة لمستخدمي Pro"
+   },
+   "t3_tringSpeedyTech": {
+      "message": "محاولة استخدام تقنية التنزيل عالية السرعة لتسريع التنزيل!"
+   },
+   "t3_trySpeedo": {
+      "message": "انقر هنا للتجربة"
+   },
+   "t3_webpage_title": {
+      "message": "عنوان الصفحة:"
+   },
+   "t4_Cached": {
+      "message": "تم التخزين المؤقت"
+   },
+   "t4_Downloaded": {
+      "message": "تم التنزيل!"
+   },
+   "t4_Fetching": {
+      "message": "جارٍ استرداد معلومات الملف ..."
+   },
+   "t4_ProThreads": {
+      "message": "استخدام الحد الأقصى من الخيوط لمستخدمي Pro"
+   },
+   "t4_Profile": {
+      "message": "الملف الشخصي"
+   },
+   "t4_Retries": {
+      "message": "إعادة المحاولات"
+   },
+   "t4_Size": {
+      "message": "الحجم"
+   },
+   "t4_Speed": {
+      "message": "السرعة"
+   },
+   "t4_Threads": {
+      "message": "الخيوط"
+   },
+   "t4_Timeleft": {
+      "message": "الوقت المتبقي"
+   },
+   "t4_askReviewTitle": {
+      "message": "إذا أعجبك هذا الملحق، يرجى إعطائنا تصويتًا بخمس نجوم في متجر الإضافات لمساعدتنا على تحسين أدائنا :)، سيساعدنا ذلك كثيرًا!"
+   },
+   "t4_askShare": {
+      "message": "إذا أعجبك هذا الملحق، يرجى مشاركته مع أصدقائك وزملائك!"
+   },
+   "t4_autoSaveLabel": {
+      "message": "حفظ تلقائي"
+   },
+   "t4_autoSaveTitle": {
+      "message": "الحفظ التلقائي عند انتهاء التخزين المؤقت"
+   },
+   "t4_btnClose": {
+      "message": "إغلاق"
+   },
+   "t4_bufferedLabel": {
+      "message": "الأجزاء المؤقتة (انقر \"حفظ\" بعد انتهاء التخزين المؤقت لحفظها على القرص الخاص بك):"
+   },
+   "t4_cachedone": {
+      "message": "تم الانتهاء من التخزين المؤقت، يرجى النقر على زر \"حفظ\" لحفظ الملف المؤقت على القرص الصلب الخاص بك."
+   },
+   "t4_cancelBtn": {
+      "message": "إلغاء"
+   },
+   "t4_directDlLable": {
+      "message": "في المرة القادمة قم بالتنزيل مباشرة باستخدام المتصفح"
+   },
+   "t4_disclaimDesc": {
+      "message": "CocoCut مخصص للاستخدام الشخصي فقط ولا يتحمل مسؤولية الملفات التي يقوم المستخدمون بتنزيلها. ننصح بالتحقق من حقوق الطبع والنشر قبل الاستخدام."
+   },
+   "t4_dlHlsInfo": {
+      "message": "جارٍ محاولة الحصول على فهرس ملفات ts. إذا استمر هذا الوضع لفترة طويلة، يرجى محاولة استخدام: "
+   },
+   "t4_dlVaccelerate": {
+      "message": "جارٍ محاولة تسريع التنزيل لمستخدمي Pro."
+   },
+   "t4_failedDlModalContent": {
+      "message": "\u003Cp>لا يمكن تنزيل أو دمج بعض مقاطع الفيديو الحالية بشكل طبيعي، مما قد يؤدي إلى فشل CocoCut في تنزيل الفيديو الحالي.\u003C/p>\u003Cp>لا يزال بإمكانك تجربة \"وضع التسجيل\" في الزاوية اليمنى العليا من الصفحة، ولكن لا يمكن ضمان النجاح.\u003C/p>"
+   },
+   "t4_failedDlModalTitle": {
+      "message": "هناك مشكلة في التنزيل الخاص بك."
+   },
+   "t4_filesaved": {
+      "message": "تم حفظ الملف على القرص الخاص بك، سيتم حذف البيانات المخزنة مؤقتًا."
+   },
+   "t4_goToIndexShare": {
+      "message": "شارك الآن."
+   },
+   "t4_hlsBottomVote": {
+      "message": "إذا أعجبك هذا التطبيق، يرجى منحنا تقييم 5 نجوم في متجر الإضافات لمساعدتنا على تحسينه :)"
+   },
+   "t4_hlsBottomVoteBtn": {
+      "message": "قيّم الآن"
+   },
+   "t4_hlsBottomeShare": {
+      "message": "إذا أعجبك هذا التطبيق، شاركه مع أصدقائك :)"
+   },
+   "t4_important": {
+      "message": "مهم!"
+   },
+   "t4_importantDesc": {
+      "message": "يرجى عدم إغلاق هذه الصفحة أثناء التنزيل."
+   },
+   "t4_importantDesc2": {
+      "message": "تم بدء تسجيل الفيديو، يرجى عدم إغلاق صفحة تشغيل الفيديو والحفاظ على تشغيل الفيديو."
+   },
+   "t4_incache": {
+      "message": "جارٍ التخزين المؤقت"
+   },
+   "t4_loadingNotice": {
+      "message": "جارٍ التحميل..."
+   },
+   "t4_maxRecTimeLimit": {
+      "message": "عذرًا، ولكن تم الوصول إلى الحد الأقصى لمدة التسجيل. يرجى النقر هنا لتسجيل الدخول كمستخدم Pro لإزالة الحد."
+   },
+   "t4_maxRecTimeLimitAware": {
+      "message": "يرجى ملاحظة أن هناك حدًا زمنيًا للتسجيل للمستخدمين غير Pro."
+   },
+   "t4_nxtTReview": {
+      "message": "ربما في المرة القادمة"
+   },
+   "t4_oauth2gDrive": {
+      "message": "تفويض Google Drive"
+   },
+   "t4_oauth2gDriveContent": {
+      "message": "لحفظ الفيديو الذي تم تنزيله إلى Google Drive الخاص بك، تحتاج إلى تفويض الملحق للوصول إلى حساب Google Drive الخاص بك."
+   },
+   "t4_oauth2gDriveNote": {
+      "message": "يرجى التأكد من أن شبكتك يمكنها الوصول إلى خدمة Google Drive."
+   },
+   "t4_okBtn": {
+      "message": "موافق"
+   },
+   "t4_okReview": {
+      "message": "بالتأكيد!"
+   },
+   "t4_recModeForProAware": {
+      "message": "وضع التسجيل هو ميزة Pro يمكن تجربتها مجانًا لفترة محدودة."
+   },
+   "t4_recordCached": {
+      "message": "في وضع التسجيل، يتم تسجيل جميع الأجزاء المؤقتة من الفيديو. يمكنك محاولة التقديم السريع في صفحة تشغيل الفيديو أو سحب شريط التقدم إلى نهاية التخزين المؤقت لتسريع التسجيل."
+   },
+   "t4_recordInfo": {
+      "message": "جارٍ محاولة التسجيل، لكن لم يتم استلام بيانات الفيديو بعد. ربما تحتاج إلى انتظار بدء تشغيل الفيديو."
+   },
+   "t4_recordingMode": {
+      "message": "وضع التسجيل"
+   },
+   "t4_removeAds": {
+      "message": "لا أريد رؤية الإعلانات"
+   },
+   "t4_save2diskLabel": {
+      "message": "حفظ مباشرة على القرص الصلب"
+   },
+   "t4_save2diskTitle": {
+      "message": "أثناء التنزيل، يتم حفظ الملف مباشرة على القرص الصلب الخاص بك، دون استخدام الذاكرة، مما يتجاوز حد ذاكرة المتصفح البالغ 2 جيجابايت. وهو مناسب لتنزيل الملفات الكبيرة أو مقاطع الفيديو المباشرة."
+   },
+   "t4_setAutoFixMp4": {
+      "message": "إصلاح ملف الفيديو تلقائيًا"
+   },
+   "t4_setAutoFixMp4Div": {
+      "message": "إصلاح تلقائي لملفات الفيديو التي \"لا يمكن تشغيلها/التقديم السريع\""
+   },
+   "t4_speedUpLabel": {
+      "message": "تسريع التسجيل"
+   },
+   "t4_speedUpTitle": {
+      "message": "تسريع الفيديو في وضع التسجيل عند الإمكان لتسريع التسجيل. يمكن استخدام لوحة المفاتيح 'Ctr + >' و 'Ctr + \u003C' في صفحة تشغيل الفيديو لتغيير سرعة التشغيل."
+   },
+   "t4_switchRecMode": {
+      "message": "تبديل وضع تنزيل الفيديو"
+   },
+   "t4_switchRecModeContent": {
+      "message": "\u003Cp>انقر على \"موافق\" للتبديل إلى وضع التسجيل.\u003C/p>\u003Cp>ملاحظة: 1. ابقَ هذه الصفحة مفتوحة. 2. حافظ على صفحة الفيديو مفتوحة والفيديو قيد التشغيل.\u003C/p>"
+   },
+   "t4_title": {
+      "message": "ملحق CocoCut لتنزيل الفيديوهات"
+   },
+   "t4_vSavedToLoc": {
+      "message": "تم حفظ ملف الفيديو في موقع التنزيل الافتراضي للمتصفح الخاص بك."
+   },
+   "t5_ConfirmSelectAudio": {
+      "message": "لم يتم حفظ الفيديو بعد. هل أنت متأكد أنك تريد تنزيل الصوت أولاً؟"
+   },
+   "t5_Tm3u8EstimateSize": {
+      "message": "تقدير الحجم"
+   },
+   "t5_allocateErrorContent": {
+      "message": "لا يمكن للمتصفح تخصيص مساحة كافية في وحدة التخزين الداخلية لحفظ الملف. يرجى محاولة تحرير بعض المساحة على القرص الصلب وإعادة تشغيل التنزيل."
+   },
+   "t5_allocateErrorTitle": {
+      "message": "لا يمكن تخصيص مساحة في وحدة التخزين الداخلية"
+   },
+   "t5_highestResSelected": {
+      "message": "تم تحديد الفيديو بأعلى دقة تلقائيًا."
+   },
+   "t5_needUseHighDlBtn": {
+      "message": "تسريع سرعة التنزيل"
+   },
+   "t5_over2g": {
+      "message": "يتجاوز الملف 2GB. قد تؤدي قيود ذاكرة المتصفح إلى تنزيل غير مكتمل أو فشل. يرجى المحاولة: $1. نظرًا لأن هذا القيد تفرضه المتصفحات ولا يمكن تجاوزه، إذا استمرت المشكلة، ففكر في استخدام طرق بديلة."
+   },
+   "t5_selectHighestResAuto": {
+      "message": "تنزيل الفيديو بأعلى دقة افتراضيًا"
+   },
+   "t5_streamDownloader_failed": {
+      "message": "فشل في الحفظ على القرص الصلب. رسالة الخطأ: $1. يرجى تحديث هذه الصفحة والمحاولة مرة أخرى."
+   },
+   "videoIndexTips": {
+      "message": "لم يتم اختيار فيديو قابل للتعديل"
+   },
+   "videoTabTips": {
+      "message": "لم يتم اكتشاف صفحات ويب تحتوي على فيديو"
+   }
+}

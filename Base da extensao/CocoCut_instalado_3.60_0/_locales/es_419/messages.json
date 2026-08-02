@@ -1,0 +1,1114 @@
+{
+   "Aria2Text": {
+      "message": "Formato aria2"
+   },
+   "DownText": {
+      "message": "Descargar como archivo de texto"
+   },
+   "Refresh": {
+      "message": "Restablecer"
+   },
+   "ResetExt": {
+      "message": "Restablecer"
+   },
+   "Resolution": {
+      "message": "Resolución"
+   },
+   "SaveExt": {
+      "message": "Guardar todos los ajustes"
+   },
+   "T2_advanceOptions": {
+      "message": "Opciones de captura"
+   },
+   "T2_audioBits": {
+      "message": "Tasa de bits de audio"
+   },
+   "T2_errMsgBegin": {
+      "message": "Error:"
+   },
+   "T2_maxCaputureTime": {
+      "message": "Lo siento, se ha alcanzado el límite máximo de tiempo de captura. Haga clic aquí para iniciar sesión como usuario Pro y eliminar el límite."
+   },
+   "T2_preview": {
+      "message": "Vista previa de video"
+   },
+   "T2_recordEncoding": {
+      "message": "Codificación de video"
+   },
+   "T2_selectVideo": {
+      "message": "Seleccione el video (Se generará una vista previa después de iniciar la captura para confirmar si es el video objetivo para usuarios Pro)."
+   },
+   "T2_startRecording": {
+      "message": "Iniciar captura"
+   },
+   "T2_stopRecording": {
+      "message": "Detener captura"
+   },
+   "T2_videoBits": {
+      "message": "Tasa de bits de video"
+   },
+   "TAudio": {
+      "message": "Audio"
+   },
+   "TCloseBtn": {
+      "message": "Cerrar"
+   },
+   "TContinueRec": {
+      "message": "¿Continuar en modo grabación?"
+   },
+   "TErrorNoAudio": {
+      "message": "Lo siento, no se encontró audio."
+   },
+   "TErrorNoVideo": {
+      "message": "Lo siento, no se encontró video. Tal vez puedas intentar el modo de grabación."
+   },
+   "TRecording": {
+      "message": "Grabando."
+   },
+   "TbadgetTitle": {
+      "message": "Se encontraron $MEDIA_COUNT$ archivos multimedia.",
+      "placeholders": {
+         "MEDIA_COUNT": {
+            "content": "$1"
+         }
+      }
+   },
+   "TbgIsDownloading": {
+      "message": "Los medios de esta página se están descargando."
+   },
+   "TbgTryLater": {
+      "message": "Lo siento, la descarga está temporalmente no disponible. Por favor, inténtalo nuevamente más tarde o refresca la página e inténtalo de nuevo."
+   },
+   "Tcopy": {
+      "message": "Copiar url"
+   },
+   "TcopySelected": {
+      "message": "Copiar seleccionado"
+   },
+   "TcustomAdd": {
+      "message": "Añadir más"
+   },
+   "TcustomAddMine": {
+      "message": "Añadir más"
+   },
+   "TcustomBlockedDomainEmpty": {
+      "message": "El nombre de dominio a bloquear no puede estar vacío"
+   },
+   "TcustomBlockedDomainExample": {
+      "message": "El formato del nombre de dominio debe ser el siguiente:"
+   },
+   "TcustomBlockedDomainPlaceholder": {
+      "message": "Introduce el nombre de dominio a bloquear"
+   },
+   "TcustomBlockedDomains": {
+      "message": "Dominios bloqueados"
+   },
+   "TcustomBlockedDomainsDec": {
+      "message": "Los archivos de los siguientes dominios no aparecerán en la lista de descargas."
+   },
+   "TcustomComfirmRest": {
+      "message": "¿Confirmar restablecer? ¡Perderás todas tus configuraciones anteriores después de restablecer!"
+   },
+   "TcustomCtDec": {
+      "message": "Algunos archivos multimedia usan extensiones inusuales y deben ser evaluados por MIME. \u003Ca href=\"https://developer.mozilla.org/es/docs/Web/HTTP/Basics_of_HTTP/MIME_types/Complete_list_of_MIME_types\"target=\"_blank\">Lista completa de tipos MIME.\u003C/a> Soporta comodines, primero coincide con la extensión."
+   },
+   "TcustomCtMIME": {
+      "message": "MIME"
+   },
+   "TcustomDebug": {
+      "message": "Modo de depuración"
+   },
+   "TcustomExt": {
+      "message": "Extensión de archivo personalizada"
+   },
+   "TcustomExtDec": {
+      "message": "Rellena la extensión sin el\".\". \u003Cbr/>Los archivos más grandes que este tamaño serán rastreados. \u003Cbr/>Si llenas 0, se rastrearán independientemente del tamaño del archivo.\u003Cbr/>Si deseas ignorar cierto tipo de archivo, desmarcar 'On'.\u003Cbr/>Algunos archivos de recursos no multimedia no serán rastreados."
+   },
+   "TcustomExtName": {
+      "message": "Extensión de archivo"
+   },
+   "TcustomExtNameEmpty": {
+      "message": "La extensión de archivo no puede estar vacía"
+   },
+   "TcustomExtSize": {
+      "message": "Límite de tamaño"
+   },
+   "TcustomMaxDisplayCount": {
+      "message": "Cuántos archivos se muestran en la página emergente del ícono de CocoCut"
+   },
+   "TcustomMineEmpty": {
+      "message": "MIME no puede estar vacío"
+   },
+   "TcustomOt": {
+      "message": "Otros"
+   },
+   "TcustomOtFilename": {
+      "message": "Usar el título de la página como nombre del archivo al descargar."
+   },
+   "TcustomOtIgnore": {
+      "message": "Ignorar parámetros (evitar duplicados)"
+   },
+   "TcustomOtIgnoreDec": {
+      "message": "Algunos archivos multimedia tienen parámetros. Marca 'Ignorar parámetros' para filtrar los datos duplicados."
+   },
+   "TcustomOtReg": {
+      "message": "Una expresión regular que coincide con los parámetros del video. Si no entiendes la expresión regular, evita modificarla. Puedes usar 'Restablecer' para restaurar la configuración predeterminada."
+   },
+   "TcustomSaved": {
+      "message": "Guardado"
+   },
+   "TcustomSetting": {
+      "message": "Configuración de CocoCut"
+   },
+   "TcustomShowCountOnIcon": {
+      "message": "Mostrar el número de archivos en el ícono de la extensión CocoCut"
+   },
+   "TcustomTypeIgn": {
+      "message": "Si deseas ignorar cierto tipo de archivo, desmarcar 'On'."
+   },
+   "TdlmDownload": {
+      "message": "Abrir la nueva página de gestión de descargas para descargar con múltiples hilos (y configurarlo como el método de descarga predeterminado)."
+   },
+   "Tdone": {
+      "message": "Hecho."
+   },
+   "TdownSelected": {
+      "message": "Descargar seleccionado"
+   },
+   "Tdownload": {
+      "message": "Descargar"
+   },
+   "TdownloadPlus": {
+      "message": "Modo de descarga avanzada"
+   },
+   "TerrFailDownload": {
+      "message": "No se pudo descargar el archivo."
+   },
+   "TerrItself": {
+      "message": "Error."
+   },
+   "TerrNoAvailableDownload": {
+      "message": "Lo siento, no podemos encontrar ningún video disponible para descargar."
+   },
+   "TerrNoIndexFile": {
+      "message": "Lo siento, no podemos descargar el archivo índice para los archivos de video."
+   },
+   "TerrTryToRec": {
+      "message": "Tal vez puedas intentar \u003Ca href=\"javascript:void(0)\"id=\"errTryToRec\">Modo de grabación\u003C/a>?"
+   },
+   "Text": {
+      "message": "Formato de texto"
+   },
+   "ThlsCloseVideoPageRetry": {
+      "message": "Tal vez necesite cerrar la página del video, volver a abrirla y reintentar."
+   },
+   "ThlsGoToMergeAV": {
+      "message": "Luego vaya a fusionar audio y video:"
+   },
+   "ThlsLiveDurationLimit": {
+      "message": "¡Vaya! Ha superado el límite de duración máxima. \u003Ca class='btn btn-primary up2pro-btn'>Actualícese a Pro\u003C/a> para disfrutar de tiempo ilimitado y desbloquear más funciones sorprendentes."
+   },
+   "ThlsNeedSelectAudio": {
+      "message": "Si no hay sonido en el video, descargue:"
+   },
+   "ThlsSegmentsDlFaile": {
+      "message": "Fallo al descargar$failedCount$ segmentos, haga clic para intentar de nuevo",
+      "placeholders": {
+         "failedCount": {
+            "content": "$1",
+            "example": "8"
+         }
+      }
+   },
+   "Tloading": {
+      "message": "Cargando."
+   },
+   "Tm3Des1": {
+      "message": "Si el archivo ts analizado no se puede descargar, intenta decodificarlo con UrlDecode."
+   },
+   "Tm3Des2": {
+      "message": "Comando para fusionar archivos ts con ffmpeg: ffmpeg -i xxx.m3u8 -vcodec copy -acodec copy xxx.mp4"
+   },
+   "Tm3FileCount": {
+      "message": " archivos"
+   },
+   "Tm3FileUri": {
+      "message": "URL del archivo m3u8"
+   },
+   "Tm3Key": {
+      "message": ", el archivo multimedia está cifrado, por favor descarga el archivo de clave."
+   },
+   "Tm3Nexm3Des": {
+      "message": "Otro archivo m3u8 está anidado en el archivo m3u8."
+   },
+   "Tm3Nextm3file": {
+      "message": "Seleccionar el siguiente archivo m3u8"
+   },
+   "Tm3PageTile": {
+      "message": "Analizando archivo m3u8"
+   },
+   "Tm3u8": {
+      "message": "Descargar m3u8"
+   },
+   "Tm3u8AdvancedParser": {
+      "message": "Parser avanzado m3u8"
+   },
+   "Tm3u8BeenSaved2HardDisk": {
+      "message": "Se ha guardado en el disco duro, por favor verifica el contenido descargado en el navegador"
+   },
+   "Tm3u8Bitrate": {
+      "message": "Tasa de bits"
+   },
+   "Tm3u8CanNotDealSampleAES": {
+      "message": "Actualmente no se pueden procesar los recursos cifrados con SAMPLE-AES-CTR."
+   },
+   "Tm3u8CanNotModiSet": {
+      "message": "La transcodificación está habilitada, no se puede cambiar esta configuración"
+   },
+   "Tm3u8CustomKey": {
+      "message": "Clave personalizada"
+   },
+   "Tm3u8CustomKeyInputP": {
+      "message": "Clave personalizada en hexadecimal, base64 o dirección de clave"
+   },
+   "Tm3u8CustomeKeyOffsetV": {
+      "message": "Desplazamiento personalizado"
+   },
+   "Tm3u8DataBeingConvert": {
+      "message": "Los datos se están convirtiendo a un formato..."
+   },
+   "Tm3u8DataIsBeMerged": {
+      "message": "Los datos se están fusionando..."
+   },
+   "Tm3u8DlAndMerge": {
+      "message": "Descargar y fusionar"
+   },
+   "Tm3u8DlDescDlMpdQuik": {
+      "message": "La URL de descarga parseada pronto quedará inválida, por favor descargue lo antes posible. Si la descarga falla, regrese a la página de reproducción del video y haga clic en el ícono de CocoCut para parsear nuevamente."
+   },
+   "Tm3u8DlExistData": {
+      "message": "Descargar datos existentes"
+   },
+   "Tm3u8DlFailedTryAgain": {
+      "message": "Descarga fallida... intente de nuevo"
+   },
+   "Tm3u8DlRange": {
+      "message": "Rango de descarga"
+   },
+   "Tm3u8DlRec": {
+      "message": "Descargar grabación"
+   },
+   "Tm3u8DlThreads": {
+      "message": "Número de hilos de descarga"
+   },
+   "Tm3u8Downloaded": {
+      "message": "Descargado:"
+   },
+   "Tm3u8EncodedDoc": {
+      "message": "Documentos codificados"
+   },
+   "Tm3u8Encrypted": {
+      "message": "Cifrado"
+   },
+   "Tm3u8ErrInParseM3u8": {
+      "message": "Hubo un error al analizar o reproducir el archivo m3u8"
+   },
+   "Tm3u8FailedDecrypt": {
+      "message": "Falló la descifrado"
+   },
+   "Tm3u8FileLoading": {
+      "message": "El archivo se está cargando..."
+   },
+   "Tm3u8FormatErrCanclemp4": {
+      "message": "Error en la conversión de formato, por favor cancele la conversión a mp4 y descargue de nuevo."
+   },
+   "Tm3u8HttpNotAllow": {
+      "message": "Esta función requiere https"
+   },
+   "Tm3u8ImcompleteData": {
+      "message": "Datos incompletos... Quedan archivos sin descargar."
+   },
+   "Tm3u8IncorrKey": {
+      "message": "Clave incorrecta"
+   },
+   "Tm3u8InitFrag": {
+      "message": "Fragmento de inicialización"
+   },
+   "Tm3u8KeyDlFail": {
+      "message": "Falló la descarga de la clave"
+   },
+   "Tm3u8KeyErr": {
+      "message": "El archivo no es correcto:"
+   },
+   "Tm3u8LiveStream": {
+      "message": "Transmisión en vivo"
+   },
+   "Tm3u8M3u8FileAddr": {
+      "message": "Dirección del archivo m3u8"
+   },
+   "Tm3u8MergeCheckStEnd": {
+      "message": "El número de secuencia de inicio no puede ser mayor que el número de secuencia final"
+   },
+   "Tm3u8MergeCompleteWait": {
+      "message": "La fusión está completa, esperando que el navegador termine de descargar...(Por favor, preste atención al proceso de descarga en el navegador)"
+   },
+   "Tm3u8MergeSeqExceed": {
+      "message": "El número de secuencia no puede exceder"
+   },
+   "Tm3u8NestMultSubs": {
+      "message": "Anidar múltiples subtítulos"
+   },
+   "Tm3u8NestMultSubsDesc": {
+      "message": "Varios subtítulos están anidados en el archivo m3u8"
+   },
+   "Tm3u8NestMultipleaudio": {
+      "message": "Anidar múltiples audios"
+   },
+   "Tm3u8NestMultipleaudioDesc": {
+      "message": "Varios audios están anidados en el archivo m3u8"
+   },
+   "Tm3u8Nestedfiles": {
+      "message": "Archivos anidados"
+   },
+   "Tm3u8NestedfilesDesc": {
+      "message": "Varios archivos m3u8 anidados dentro de ese archivo m3u8"
+   },
+   "Tm3u8NoAudio": {
+      "message": "Sin audio"
+   },
+   "Tm3u8NoSupport": {
+      "message": "No soportado"
+   },
+   "Tm3u8NoVideo": {
+      "message": "Sin video"
+   },
+   "Tm3u8OpenDlDir": {
+      "message": "Abrir el directorio de descargas"
+   },
+   "Tm3u8PlayList": {
+      "message": "Lista de reproducción m3u8"
+   },
+   "Tm3u8PushingStream": {
+      "message": "Transmitiendo el flujo, se detendrá la descarga después de cerrar..."
+   },
+   "Tm3u8RangeEnd": {
+      "message": "Fin del rango"
+   },
+   "Tm3u8RangeStart": {
+      "message": "Inicio del rango"
+   },
+   "Tm3u8ReDlErr": {
+      "message": "Reintentar cuando haya un error de descarga"
+   },
+   "Tm3u8ReDling": {
+      "message": "Redescargando..."
+   },
+   "Tm3u8RecLive": {
+      "message": "Grabar video en vivo"
+   },
+   "Tm3u8RecLiveVideo": {
+      "message": "Grabar video en vivo"
+   },
+   "Tm3u8RecordingTime": {
+      "message": "Tiempo de grabación:"
+   },
+   "Tm3u8Redownload": {
+      "message": "Volver a descargar"
+   },
+   "Tm3u8RefererAdd": {
+      "message": "Agregar"
+   },
+   "Tm3u8RefererDelete": {
+      "message": "Eliminar"
+   },
+   "Tm3u8RefererRetry": {
+      "message": "y luego intentar nuevamente"
+   },
+   "Tm3u8ReqFfmpegTrans": {
+      "message": "Requiere transcodificación con ffmpeg"
+   },
+   "Tm3u8Resolution": {
+      "message": "Resolución"
+   },
+   "Tm3u8RetryDlErr": {
+      "message": "Reintentar todos los elementos fallidos"
+   },
+   "Tm3u8SaveAs": {
+      "message": "Guardar como"
+   },
+   "Tm3u8SaveAsMp4": {
+      "message": "Guardar como formato mp4"
+   },
+   "Tm3u8SaveCusName": {
+      "message": "Guardar con nombre de archivo personalizado"
+   },
+   "Tm3u8SaveOnlyAudio": {
+      "message": "Guardar solo en formato de audio"
+   },
+   "Tm3u8StopDl": {
+      "message": "Detener descarga"
+   },
+   "Tm3u8StopDlStream": {
+      "message": "Detener descarga del flujo"
+   },
+   "Tm3u8StopRec": {
+      "message": "Detener grabación"
+   },
+   "Tm3u8StreamSave": {
+      "message": "Guardar en el disco duro mientras se descarga"
+   },
+   "Tm3u8TotalFragCount": {
+      "message": "Total de fragmentos de archivo:"
+   },
+   "Tm3u8TotalTime": {
+      "message": "Tiempo total:"
+   },
+   "Tm3u8Upload": {
+      "message": "O, cargar"
+   },
+   "Tm3u8VideoResolution": {
+      "message": "Resolución"
+   },
+   "Tm3u8VideoTime": {
+      "message": "Duración"
+   },
+   "Tm3u8WaitLiveData": {
+      "message": "Esperando datos en vivo..."
+   },
+   "Tm3u8WrongKeyType": {
+      "message": "Tipo de clave incorrecto"
+   },
+   "Tm3u8downloadOptions": {
+      "message": "Opciones de descarga"
+   },
+   "Tm3u8skipDecryption": {
+      "message": "Saltar descifrado"
+   },
+   "Tm3u8stopDl": {
+      "message": "Detener descarga"
+   },
+   "TmediaCNormalspeed": {
+      "message": "Velocidad normal"
+   },
+   "TmediaCSelWebpage": {
+      "message": "Seleccionar página web"
+   },
+   "TmediaCfullscreen": {
+      "message": "Pantalla completa"
+   },
+   "TmediaCpause": {
+      "message": "Pausar"
+   },
+   "TmediaCpip": {
+      "message": "Imagen en imagen"
+   },
+   "TmediaCpipQuit": {
+      "message": "Salir de la imagen en imagen"
+   },
+   "TmediaCplay": {
+      "message": "Reproducir"
+   },
+   "TmediaCplayTime": {
+      "message": "Tiempo de reproducción"
+   },
+   "TmediaCscreenshot": {
+      "message": "Captura de pantalla"
+   },
+   "TmediaCselMedia": {
+      "message": "Seleccionar video"
+   },
+   "TmediaCspeed": {
+      "message": "Reproducir a tu velocidad"
+   },
+   "TmediaCvolumn": {
+      "message": "Volumen"
+   },
+   "TmediaLoop": {
+      "message": "Repetir"
+   },
+   "TmedianCMuted": {
+      "message": "Silenciar"
+   },
+   "TmpdDrmProtect": {
+      "message": "El medio está protegido por DRM y puede que no pueda descargarse ni reproducirse. No hay función de análisis de cifrado y descifrado para ello, por favor copie la dirección del archivo mpd y use una herramienta de terceros para descargar."
+   },
+   "TmpdInitSeg": {
+      "message": "Fragmento de inicialización"
+   },
+   "TmpdMPdFileAddr": {
+      "message": "Dirección del archivo"
+   },
+   "TmpdParser": {
+      "message": "Parser"
+   },
+   "TmpdSelectAudio": {
+      "message": "Seleccionar audio"
+   },
+   "TmpdSelectVideo": {
+      "message": "Seleccionar video"
+   },
+   "TmpdTotalFilesCount": {
+      "message": "Número total de archivos"
+   },
+   "TmpdVideo": {
+      "message": "Video"
+   },
+   "TnoResource": {
+      "message": "¡No se detectó ningún archivo!"
+   },
+   "TopenAdvanceModalDesc": {
+      "message": "Se recomienda usar este modo cuando la descarga falle, el archivo descargado sea incorrecto o el tamaño del archivo supere los 2 GB."
+   },
+   "TopenAdvanceModeBtn": {
+      "message": "Abrir modo de descarga avanzada"
+   },
+   "Tplay": {
+      "message": "Reproducir"
+   },
+   "TpopBlockDomain": {
+      "message": "Bloquear archivos de este dominio de aparecer en la lista de descargas"
+   },
+   "TpopBlockedDomainNotify": {
+      "message": "Los archivos del siguiente dominio no aparecerán en la lista de descargas."
+   },
+   "TpopDlDash": {
+      "message": "Descargar DASH/MPD"
+   },
+   "TpopGetProBtn": {
+      "message": "Obtenga funciones avanzadas como 'descarga acelerada'."
+   },
+   "TpopHomePageBtn": {
+      "message": "Página de inicio de CocoCut"
+   },
+   "TpopM3u8Des": {
+      "message": "Transmisión en vivo"
+   },
+   "TpopNeedPlayit": {
+      "message": "Puede que necesites reproducir el video primero para ayudar a CocoCut a encontrarlo."
+   },
+   "TpopNeedPlayit2": {
+      "message": "Algunos videos necesitan comenzar a reproducirse antes de poder descargarse. O puedes hacer clic en el botón 'Forzar descarga'."
+   },
+   "TpopNotSuppWhy": {
+      "message": "Haz clic aquí para ver por qué y posibles soluciones."
+   },
+   "TpopNotSupport": {
+      "message": "Lo siento, esta página no es compatible."
+   },
+   "TpopOptionBtn": {
+      "message": "Configuración de descarga"
+   },
+   "TpopQuestionBtn": {
+      "message": "Comentarios y preguntas frecuentes"
+   },
+   "TpopRealDlAddr": {
+      "message": "Haz clic aquí para convertirte en miembro Pro y obtener el enlace de descarga."
+   },
+   "TpopTab2Desc": {
+      "message": "Para videos y audios que no cumplen con los estándares web, pueden detectarse mediante otros métodos, como 'Emular teléfono móvil', 'Búsqueda profunda', entre otros."
+   },
+   "TpopTooManyFiles": {
+      "message": "Demasiados archivos para mostrar. Puedes configurar cuántos archivos mostrar con:"
+   },
+   "TpopYTDLdesc": {
+      "message": "Si estás en una página de YouTube, puedes intentar descargar el video de YouTube."
+   },
+   "TpopYTDLdlIt": {
+      "message": "Intentar descargar video de YouTube"
+   },
+   "TpopdeepSearch": {
+      "message": "Búsqueda profunda"
+   },
+   "TpopdeepSearchOff": {
+      "message": "Apagar búsqueda profunda"
+   },
+   "TpopdeepSearch_TT": {
+      "message": "Búsqueda profunda de archivos multimedia no estándar, aumentando considerablemente la probabilidad de detección."
+   },
+   "TpopemulateCellphone": {
+      "message": "Emular teléfono móvil"
+   },
+   "TpopemulateCellphone_TT": {
+      "message": "Algunos sitios web proporcionan archivos multimedia compatibles con la web para dispositivos móviles."
+   },
+   "TpoprecordScreen": {
+      "message": "Grabadora de pantalla"
+   },
+   "TpoprecordScreenOff": {
+      "message": "Apagar grabadora de pantalla"
+   },
+   "TpoprecordScreen_TT": {
+      "message": "Grabación directa de la pantalla, similar a una cámara grabando la pantalla."
+   },
+   "TpopupTab1": {
+      "message": "Lista de descargas"
+   },
+   "TpopupTab2": {
+      "message": "Funciones Pro"
+   },
+   "TpopupTab3": {
+      "message": "Control de video"
+   },
+   "TrevSelected": {
+      "message": "Invertir selección"
+   },
+   "TryHlsDesc": {
+      "message": "CocoCut intentará descargar o grabar el video. Si el video de la página actual no se puede detectar o es difícil de descargar, haz clic aquí para intentarlo."
+   },
+   "TselectAll": {
+      "message": "Seleccionar todo"
+   },
+   "TssCloseRecArea": {
+      "message": "Apagar grabadora de pantalla"
+   },
+   "TssDrapRecArea": {
+      "message": "Mover área de grabación"
+   },
+   "TssNotAllowShare": {
+      "message": "La página actual no soporta compartir pantalla"
+   },
+   "TssStartRec": {
+      "message": "Comenzar grabación"
+   },
+   "TssStartRecord": {
+      "message": "Comenzar grabación"
+   },
+   "TssStopRec": {
+      "message": "Detener grabación"
+   },
+   "TswichtRecMode": {
+      "message": "Cambiar al modo de grabación de video"
+   },
+   "TtempntcInfoCopied": {
+      "message": "¡Copiado!"
+   },
+   "TtoFaq": {
+      "message": "Ve a la sección de Preguntas frecuentes para ver si el problema puede solucionarse."
+   },
+   "TtryHls": {
+      "message": "Forzar descarga"
+   },
+   "TtryHlsLabel": {
+      "message": "¿Tienes problemas para descargar o no se detectó el archivo?"
+   },
+   "TtryPlay": {
+      "message": "Intentar reproducir"
+   },
+   "TtryRecMode": {
+      "message": "No se puede encontrar el video para descargar, ¿quizás puedes intentarlo en modo grabación?"
+   },
+   "UrlDecode": {
+      "message": "Decodificación UrlDecode"
+   },
+   "WgetText": {
+      "message": "Formato wget"
+   },
+   "customNavIEbtns": {
+      "message": "Importar/Exportar configuraciones"
+   },
+   "exportSettingBtn": {
+      "message": "Exportar a archivo local"
+   },
+   "extDescription": {
+      "message": "El mejor complemento de descargador de videos Chrome, este descargador de videos para Chrome puede descargar videos y música de m..."
+   },
+   "extName": {
+      "message": "descargador de videos - CocoCut"
+   },
+   "importSettingBtn": {
+      "message": "Importar desde archivo local"
+   },
+   "importSettingsCancelBtn": {
+      "message": "Cancelar"
+   },
+   "importSettingsFilelabel": {
+      "message": "Seleccionar un archivo de configuración de CocoCut..."
+   },
+   "importSettingsFilename": {
+      "message": "No se ha seleccionado ningún archivo"
+   },
+   "importSettingsOkBtn": {
+      "message": "Aceptar"
+   },
+   "importSettingsWarning": {
+      "message": "Advertencia: esto reemplazará todas las configuraciones actuales."
+   },
+   "modalCancelBtn": {
+      "message": "Cancelar"
+   },
+   "modalOkBtn": {
+      "message": "Aceptar"
+   },
+   "popemulateCellphoneOff": {
+      "message": "Apagar emulación de teléfono móvil"
+   },
+   "subtitle": {
+      "message": "Subtítulos"
+   },
+   "t2_Loading": {
+      "message": "Cargando..."
+   },
+   "t2_captureStoped": {
+      "message": "Captura detenida"
+   },
+   "t2_captureStreamFailed": {
+      "message": "El video puede estar protegido por derechos de autor y la descarga está prohibida."
+   },
+   "t2_clickToStartRecording": {
+      "message": "Seleccione el video objetivo y luego haga clic en: Iniciar captura."
+   },
+   "t2_detectingVideo": {
+      "message": "Buscando videos... (Puede ser necesario comenzar a reproducir los videos primero para detectarlos.)"
+   },
+   "t2_dlM3U8_err": {
+      "message": "Error, cierre esta página de video, vuelva a abrirla y vuelva a intentarlo."
+   },
+   "t2_formatNotSupported": {
+      "message": "Formato de video no soportado"
+   },
+   "t2_frameRate": {
+      "message": "Tasa de cuadros"
+   },
+   "t2_ifCanNotPlay": {
+      "message": "Si no puede reproducir el video descargado, haga clic aquí para usar la herramienta de reparación de archivos MP4."
+   },
+   "t2_maxTried": {
+      "message": "Se encontró el video, pero no se pudo capturar. Cierre esta página, vaya a la página del video y vuelva a intentarlo."
+   },
+   "t2_noVideoDetected": {
+      "message": "No se detectó ningún video. Puede que sea necesario reproducir el video primero para ayudar a detectarlo."
+   },
+   "t2_noVideoFound": {
+      "message": "No se detectó ningún video. Puede que sea necesario reproducir el video primero para ayudar a detectarlo."
+   },
+   "t2_recordeModeTip": {
+      "message": "\u003Cstrong>Modo de grabación\u003C/strong> le permite grabar directamente los videos almacenados en caché en una página de video. \u003Ch4>Ventajas\u003C/h4> \u003Cul>\u003Cli>Velocidad de grabación rápida.\u003C/li>\u003Cli>Permite avanzar rápidamente durante la grabación.\u003C/li>\u003C/ul> \u003Ch4>Desventajas\u003C/h4> \u003Cul>\u003Cli>Algunos videos no se pueden grabar.\u003C/li>\u003Cli>Puede haber problemas de segmentos de video o audio perdidos.\u003C/li>\u003C/ul>"
+   },
+   "t2_recording": {
+      "message": "Captura en progreso"
+   },
+   "t2_recordingChangeEncoding": {
+      "message": "La codificación de video no se puede cambiar durante la captura."
+   },
+   "t2_recordingFailed": {
+      "message": "Captura fallida"
+   },
+   "t2_recordingNotSupported": {
+      "message": "Captura no soportada"
+   },
+   "t2_showSuperRecorderContainerBtn": {
+      "message": "Cuando la descarga o grabación falle, puede intentar usar el modo de captura:"
+   },
+   "t2_stopRecording": {
+      "message": "Detener captura"
+   },
+   "t2_superRecorderInjectJsBtn": {
+      "message": "Modo de captura"
+   },
+   "t2_superRecorderInjectJsBtnTip": {
+      "message": "\u003Cstrong>Modo de captura\u003C/strong> le permite capturar videos desde páginas web, facilitando la conservación de sus favoritos. \u003Ch4>Ventajas\u003C/h4> \u003Cul>\u003Cli>Captura la mayoría de los videos (excepto los protegidos por derechos de autor).\u003C/li>\u003C/ul> \u003Ch4>Desventajas\u003C/h4> \u003Cul>\u003Cli>Tamaños de archivo grandes.\u003C/li>\u003Cli>No permite avanzar rápidamente durante la captura.\u003C/li>\u003Cli>Requiere hardware relativamente potente, puede haber retrasos. (Puede reducir la resolución del video objetivo grabado para disminuir el retraso.)\u003C/li>\u003C/ul>"
+   },
+   "t2_video": {
+      "message": "Video"
+   },
+   "t2_webrtcStream": {
+      "message": "Transmisión de video WebRTC"
+   },
+   "t3_LimitCaptureDurationNotice": {
+      "message": "La versión no Pro tiene un límite de tiempo de grabación. Actualiza a la versión Pro para grabación ilimitada. Haz clic aquí para actualizar a la versión Pro."
+   },
+   "t3_LimitSuperRecordDurationNotice": {
+      "message": "La versión no Pro tiene un límite de tiempo de captura. Actualiza a la versión Pro para captura ilimitada. Haz clic aquí para actualizar a la versión Pro."
+   },
+   "t3_alt_downloader_desc": {
+      "message": "Si la descarga falla, intenta usar este Descargador de Medios Alternativo para volver a descargar."
+   },
+   "t3_alt_media_downloader": {
+      "message": "Descargador de medios alternativo"
+   },
+   "t3_closeAndRetry": {
+      "message": "Cierra esta página, regresa a la página de reproducción del video e inténtalo nuevamente."
+   },
+   "t3_dlSpeedNotice": {
+      "message": "\u003Ch4>¿Quieres acelerar las descargas?\u003C/h4> Se recomienda comenzar a usar la tecnología avanzada de descarga de alta velocidad de CocoCut con múltiples hilos, que puede aumentar la velocidad hasta 6 veces."
+   },
+   "t3_dlSpeedNoticeBtn": {
+      "message": "Activar descarga de alta velocidad"
+   },
+   "t3_dlVaccelerateNotPro": {
+      "message": "¿Usar múltiples hilos para acelerar la velocidad de descarga?"
+   },
+   "t3_dlVforceSaveBtn": {
+      "message": "Guardar directamente las partes en caché"
+   },
+   "t3_dlVsaveBtn": {
+      "message": "Guardar"
+   },
+   "t3_dlVstartBtn": {
+      "message": "Reanudar"
+   },
+   "t3_dlVstopAndSaveBtn": {
+      "message": "Detener descarga y guardar"
+   },
+   "t3_dlVstopBtn": {
+      "message": "Pausar"
+   },
+   "t3_download_complete": {
+      "message": "Descarga completa"
+   },
+   "t3_downloading": {
+      "message": "Descargando..."
+   },
+   "t3_failed_download": {
+      "message": "No se pudo descargar el archivo:"
+   },
+   "t3_failed_get_info": {
+      "message": "No se pudo obtener la información del video."
+   },
+   "t3_file_name": {
+      "message": "Nombre del archivo:"
+   },
+   "t3_file_size": {
+      "message": "Tamaño del archivo:"
+   },
+   "t3_loginBtn": {
+      "message": "Iniciar sesión"
+   },
+   "t3_proLogined": {
+      "message": "Ya has iniciado sesión como usuario Pro. Para no interrumpir el progreso de esta descarga, tu función Pro se activará en tu próxima descarga."
+   },
+   "t3_proNoticeContent": {
+      "message": "\u003Cp>Hola, necesitas iniciar sesión como usuario Pro para usar esta función.\u003C/p>\u003Cp>(Si ya has iniciado sesión como usuario Pro, puedes comenzar a usarla la próxima vez.)\u003C/p>"
+   },
+   "t3_proNoticeTitle": {
+      "message": "Esta es una función Pro"
+   },
+   "t3_ready_to_download": {
+      "message": "Listo para descargar"
+   },
+   "t3_save2gdrive": {
+      "message": "Guardar en Google Drive"
+   },
+   "t3_start_download": {
+      "message": "Iniciar descarga"
+   },
+   "t3_triedSpeedo": {
+      "message": "Fin de la prueba de descarga de alta velocidad para usuarios Pro."
+   },
+   "t3_tringSpeedo": {
+      "message": "Probando descarga de alta velocidad para usuarios Pro"
+   },
+   "t3_tringSpeedyTech": {
+      "message": "¡Intentando usar tecnología de descarga de alta velocidad para acelerar la descarga!"
+   },
+   "t3_trySpeedo": {
+      "message": "Haz clic aquí para probar"
+   },
+   "t3_webpage_title": {
+      "message": "Título de la página web:"
+   },
+   "t4_Cached": {
+      "message": "En caché"
+   },
+   "t4_Downloaded": {
+      "message": "¡Descargado!"
+   },
+   "t4_Fetching": {
+      "message": "Obteniendo información del archivo ..."
+   },
+   "t4_ProThreads": {
+      "message": "Usando el máximo de hilos para usuarios Pro"
+   },
+   "t4_Profile": {
+      "message": "Perfil"
+   },
+   "t4_Retries": {
+      "message": "Reintentos"
+   },
+   "t4_Size": {
+      "message": "Tamaño"
+   },
+   "t4_Speed": {
+      "message": "Velocidad"
+   },
+   "t4_Threads": {
+      "message": "Hilos"
+   },
+   "t4_Timeleft": {
+      "message": "Tiempo restante"
+   },
+   "t4_askReviewTitle": {
+      "message": "Si le gusta esta extensión, por favor dénos una calificación de 5 estrellas en la tienda de extensiones para ayudarnos a mejorar :), ¡nos ayudará mucho!"
+   },
+   "t4_askShare": {
+      "message": "Si le gusta esta extensión, ¡compártala con sus amigos y colegas!"
+   },
+   "t4_autoSaveLabel": {
+      "message": "Guardar automáticamente"
+   },
+   "t4_autoSaveTitle": {
+      "message": "Guardar automáticamente cuando el búfer termine"
+   },
+   "t4_btnClose": {
+      "message": "Cerrar"
+   },
+   "t4_bufferedLabel": {
+      "message": "Partes en búfer (Haga clic en \"Guardar\" después de que termine el búfer para guardar en su disco):"
+   },
+   "t4_cachedone": {
+      "message": "Caché completada, haga clic en el botón \"Guardar\" para guardar el archivo almacenado en su disco duro."
+   },
+   "t4_cancelBtn": {
+      "message": "Cancelar"
+   },
+   "t4_directDlLable": {
+      "message": "La próxima vez descargue directamente con el navegador"
+   },
+   "t4_disclaimDesc": {
+      "message": "CocoCut es solo para uso personal y no se responsabiliza de los archivos descargados por los usuarios. Sugerimos confirmar los derechos de autor antes de usarla."
+   },
+   "t4_dlHlsInfo": {
+      "message": "Intentando obtener el índice del archivo ts. Si este estado persiste por mucho tiempo, intente usar: "
+   },
+   "t4_dlVaccelerate": {
+      "message": "Intentando acelerar la descarga para usuarios Pro."
+   },
+   "t4_failedDlModalContent": {
+      "message": "\u003Cp>Algunos segmentos del video descargado actualmente no se pueden descargar normalmente o fusionar, lo que puede hacer que CocoCut no pueda descargar el video actual.\u003C/p>\u003Cp>Aún puede intentar el \"Modo de grabación\" en la esquina superior derecha de la página web, pero no se puede garantizar el éxito.\u003C/p>"
+   },
+   "t4_failedDlModalTitle": {
+      "message": "Hay un problema con su descarga."
+   },
+   "t4_filesaved": {
+      "message": "El archivo se ha guardado en su disco, se eliminarán los datos en caché."
+   },
+   "t4_goToIndexShare": {
+      "message": "Compártelo ahora."
+   },
+   "t4_hlsBottomVote": {
+      "message": "Si te gusta esta aplicación, por favor, califícanos con 5 estrellas en la tienda de extensiones para ayudarnos a mejorar :)"
+   },
+   "t4_hlsBottomVoteBtn": {
+      "message": "Votar ahora"
+   },
+   "t4_hlsBottomeShare": {
+      "message": "Si te gusta esta aplicación, compártela con tus amigos :)"
+   },
+   "t4_important": {
+      "message": "Importante"
+   },
+   "t4_importantDesc": {
+      "message": "No cierre esta página mientras descarga."
+   },
+   "t4_importantDesc2": {
+      "message": "La grabación de video ha comenzado. Por favor, no cierre la página de reproducción de video y mantenga el video reproduciéndose."
+   },
+   "t4_incache": {
+      "message": "Almacenando en caché"
+   },
+   "t4_loadingNotice": {
+      "message": "cargando..."
+   },
+   "t4_maxRecTimeLimit": {
+      "message": "Lo sentimos, pero se ha alcanzado el límite máximo de tiempo de grabación. Haga clic aquí para iniciar sesión como usuario Pro y eliminar el límite."
+   },
+   "t4_maxRecTimeLimitAware": {
+      "message": "Tenga en cuenta que hay un tiempo limitado de grabación para usuarios no Pro."
+   },
+   "t4_nxtTReview": {
+      "message": "Tal vez la próxima vez"
+   },
+   "t4_oauth2gDrive": {
+      "message": "Autorización de Google Drive"
+   },
+   "t4_oauth2gDriveContent": {
+      "message": "Para guardar el video descargado en su Google Drive, necesita autorizar la extensión para acceder a su cuenta de Google Drive."
+   },
+   "t4_oauth2gDriveNote": {
+      "message": "Asegúrese de que su red pueda acceder al servicio de Google Drive."
+   },
+   "t4_okBtn": {
+      "message": "Aceptar"
+   },
+   "t4_okReview": {
+      "message": "¡Por supuesto!"
+   },
+   "t4_recModeForProAware": {
+      "message": "El modo de grabación es una función Pro que se puede probar gratis por tiempo limitado."
+   },
+   "t4_recordCached": {
+      "message": "En modo de grabación, todas las partes en búfer del video se han grabado. Puede intentar avanzar rápidamente en la página de reproducción de video o arrastrar la barra de progreso hasta el final del búfer para acelerar la grabación."
+   },
+   "t4_recordInfo": {
+      "message": "Intentando grabar, pero aún no se han recibido datos de video. Tal vez necesite esperar a que el video comience a reproducirse."
+   },
+   "t4_recordingMode": {
+      "message": "Modo de grabación"
+   },
+   "t4_removeAds": {
+      "message": "No quiero ver el anuncio"
+   },
+   "t4_save2diskLabel": {
+      "message": "Guardar directamente en el disco duro"
+   },
+   "t4_save2diskTitle": {
+      "message": "Al descargar, el archivo se guarda directamente en su disco duro, no ocupa memoria y evita el límite de 2 GB de memoria del navegador. Es adecuado para descargar archivos grandes o videos en vivo."
+   },
+   "t4_setAutoFixMp4": {
+      "message": "Reparar archivo de video automáticamente"
+   },
+   "t4_setAutoFixMp4Div": {
+      "message": "Reparar automáticamente archivos de video que 'No se pueden reproducir/avanzar rápidamente'"
+   },
+   "t4_speedUpLabel": {
+      "message": "Acelerar grabación"
+   },
+   "t4_speedUpTitle": {
+      "message": "Acelerar el video en modo de grabación cuando sea posible para acelerar la grabación. En la página de reproducción de video, use las teclas 'Ctrl + >' y 'Ctrl + \u003C' para cambiar la velocidad de reproducción."
+   },
+   "t4_switchRecMode": {
+      "message": "Cambiar el modo de descarga de video"
+   },
+   "t4_switchRecModeContent": {
+      "message": "\u003Cp>Haga clic en Aceptar para cambiar al modo de grabación.\u003C/p>\u003Cp> Nota: 1. Mantenga esta página abierta. 2. Mantenga abierta su página de video y el video reproduciéndose.\u003C/p>"
+   },
+   "t4_title": {
+      "message": "Extensión descargadora de CocoCut"
+   },
+   "t4_vSavedToLoc": {
+      "message": "El archivo de video se guarda en la ubicación de descarga predeterminada de su navegador."
+   },
+   "t5_ConfirmSelectAudio": {
+      "message": "El video aún no se ha guardado. ¿Estás seguro de que quieres descargar el audio primero?"
+   },
+   "t5_Tm3u8EstimateSize": {
+      "message": "Estimar tamaño"
+   },
+   "t5_allocateErrorContent": {
+      "message": "El navegador no puede asignar suficiente espacio en el almacenamiento interno para guardar el archivo. Intente liberar algo de espacio en su disco duro y reinicie la descarga."
+   },
+   "t5_allocateErrorTitle": {
+      "message": "No se puede asignar espacio en el almacenamiento interno"
+   },
+   "t5_highestResSelected": {
+      "message": "Se ha seleccionado automáticamente el video en la resolución más alta."
+   },
+   "t5_needUseHighDlBtn": {
+      "message": "Aumentar la velocidad de descarga"
+   },
+   "t5_over2g": {
+      "message": "El archivo supera los 2GB. Las limitaciones de memoria del navegador pueden causar descargas incompletas o fallidas. Por favor, intente lo siguiente: $1. Dado que esta es una restricción impuesta por el navegador que no se puede evitar, si el problema persiste, considere métodos alternativos."
+   },
+   "t5_selectHighestResAuto": {
+      "message": "Descargar el video en la resolución más alta por defecto"
+   },
+   "t5_streamDownloader_failed": {
+      "message": "No se pudo guardar en el disco duro. Mensaje de error: $1. Por favor, actualice esta página web e intente de nuevo."
+   },
+   "videoIndexTips": {
+      "message": "No se ha seleccionado un video manipulable"
+   },
+   "videoTabTips": {
+      "message": "No se detectaron páginas web con video"
+   }
+}

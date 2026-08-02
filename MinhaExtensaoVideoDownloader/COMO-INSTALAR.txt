@@ -1,0 +1,47 @@
+DSL - VIDEO DOWNLOADER EXTENSION
+
+1. Abra chrome://extensions no Google Chrome.
+2. Ative o Modo do desenvolvedor.
+3. Clique em Carregar sem compactacao.
+4. Selecione esta pasta: MinhaExtensaoVideoDownloader.
+5. Abra o popup da extensao.
+6. Se FFmpeg indisponivel estiver vermelho, clique nesse indicador para baixar o instalador.
+7. Aguarde o download terminar. O botao com o icone do Windows sera habilitado.
+8. Clique no icone do Windows para executar o instalador.
+9. Confirme a abertura no Windows e aguarde o winget instalar o FFmpeg.
+10. Quando o FFmpeg for detectado, o indicador mudara para FFmpeg instalado, ficara verde e o botao do Windows desaparecera.
+
+COMO BAIXAR VIDEOS
+
+1. Reproduza o video na pagina para a extensao identificar a midia ativa.
+2. Abra a extensao e, na aba Midias, clique no botao laranja de download.
+3. O botao virara um indicador giratorio e o progresso aparecera na propria lista.
+4. A aba Downloads mostra os downloads ativos, concluidos e com erro.
+5. Quando terminar, clique no botao circular de video para abrir o MP4 salvo.
+
+FLUXOS DISPONIVEIS
+
+- HLS m3u8: escolhe a maior qualidade da playlist e gera um MP4.
+- Video direto: baixa a URL ativa do player e remuxa para MP4.
+- Instagram e Facebook: escolhe as melhores faixas do video ativo, baixa
+  video e audio separadamente e une os dois no MP4 final.
+- TikTok: usa o video ativo ou o redirecionamento correspondente ao item_id
+  da pagina para evitar baixar uma recomendacao diferente.
+
+Os arquivos usam este formato de nome:
+video--dia-mes-ano--hora-minuto-segundo.mp4
+
+Exemplo:
+video--01-08-2026--22-14-37.mp4
+
+Importante:
+- Mantenha esta pasta no mesmo lugar depois de carrega-la no Chrome.
+- O instalador usa o winget do Windows 10/11.
+- Nenhum arquivo e baixado antes do clique em FFmpeg indisponivel.
+- Os botoes de download permanecem bloqueados ate o FFmpeg ser detectado.
+- O progresso fica no popup; a extensao nao abre outra aba para baixar.
+- O arquivo MP4 concluido fica na pasta Downloads do Windows.
+- O Chrome ou o Windows pode pedir confirmacao antes de executar o instalador.
+- Se FFmpeg instalado ja aparecer em verde, nenhuma instalacao adicional e necessaria.
+- Instagram, Facebook e TikTok podem alterar seus players. Quando isso ocorrer,
+  a deteccao desses sites pode precisar de uma atualizacao da extensao.

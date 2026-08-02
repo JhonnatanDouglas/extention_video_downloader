@@ -1,0 +1,1114 @@
+{
+   "Aria2Text": {
+      "message": "Format Aria2"
+   },
+   "DownText": {
+      "message": "Unduh sebagai file teks"
+   },
+   "Refresh": {
+      "message": "Setel Ulang"
+   },
+   "ResetExt": {
+      "message": "Setel Ulang"
+   },
+   "Resolution": {
+      "message": "Resolusi"
+   },
+   "SaveExt": {
+      "message": "Simpan semua pengaturan"
+   },
+   "T2_advanceOptions": {
+      "message": "Opsi rekam"
+   },
+   "T2_audioBits": {
+      "message": "Kecepatan bit audio"
+   },
+   "T2_errMsgBegin": {
+      "message": "Kesalahan:"
+   },
+   "T2_maxCaputureTime": {
+      "message": "Maaf, batas waktu perekaman maksimum telah tercapai. Silakan klik saya untuk masuk sebagai pengguna Pro untuk menghapus batas."
+   },
+   "T2_preview": {
+      "message": "Pratinjau video"
+   },
+   "T2_recordEncoding": {
+      "message": "Pengkodean video"
+   },
+   "T2_selectVideo": {
+      "message": "Pilih video (Pratinjau akan dibuat setelah mulai merekam, untuk mengonfirmasi apakah itu video target untuk pengguna Pro)."
+   },
+   "T2_startRecording": {
+      "message": "Mulai rekam"
+   },
+   "T2_stopRecording": {
+      "message": "Hentikan rekam"
+   },
+   "T2_videoBits": {
+      "message": "Kecepatan bit video"
+   },
+   "TAudio": {
+      "message": "Audio"
+   },
+   "TCloseBtn": {
+      "message": "Tutup"
+   },
+   "TContinueRec": {
+      "message": "Lanjutkan mode rekam?"
+   },
+   "TErrorNoAudio": {
+      "message": "Maaf, tidak ada audio yang ditemukan."
+   },
+   "TErrorNoVideo": {
+      "message": "Maaf, tidak ada video yang ditemukan. Mungkin Anda bisa mencoba mode rekam."
+   },
+   "TRecording": {
+      "message": "Merekam."
+   },
+   "TbadgetTitle": {
+      "message": "Menemukan $MEDIA_COUNT$ file media.",
+      "placeholders": {
+         "MEDIA_COUNT": {
+            "content": "$1"
+         }
+      }
+   },
+   "TbgIsDownloading": {
+      "message": "Media halaman ini sedang diunduh."
+   },
+   "TbgTryLater": {
+      "message": "Maaf, pengunduhan untuk sementara tidak tersedia. Coba lagi nanti atau segarkan halaman dan coba lagi."
+   },
+   "Tcopy": {
+      "message": "Salin url"
+   },
+   "TcopySelected": {
+      "message": "Salin yang dipilih"
+   },
+   "TcustomAdd": {
+      "message": "Tambahkan lebih banyak"
+   },
+   "TcustomAddMine": {
+      "message": "Tambahkan lebih banyak"
+   },
+   "TcustomBlockedDomainEmpty": {
+      "message": "Nama domain yang akan diblokir tidak boleh kosong"
+   },
+   "TcustomBlockedDomainExample": {
+      "message": "Format nama domain harus sebagai:"
+   },
+   "TcustomBlockedDomainPlaceholder": {
+      "message": "Masukkan nama domain untuk diblokir"
+   },
+   "TcustomBlockedDomains": {
+      "message": "Domain yang diblokir"
+   },
+   "TcustomBlockedDomainsDec": {
+      "message": "File dari domain berikut tidak akan muncul di daftar unduhan."
+   },
+   "TcustomComfirmRest": {
+      "message": "Konfirmasi reset? Anda akan kehilangan semua pengaturan sebelumnya setelah mengatur ulang!"
+   },
+   "TcustomCtDec": {
+      "message": "Beberapa file media menggunakan ekstensi yang tidak biasa dan perlu dinilai oleh MIME. \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types/Complete_list_of_MIME_types\" target=\"_blank\">Daftar jenis MIME.\u003C/a> Mendukung wildcard, mencocokkan ekstensi terlebih dahulu."
+   },
+   "TcustomCtMIME": {
+      "message": "MIME"
+   },
+   "TcustomDebug": {
+      "message": "Mode debug"
+   },
+   "TcustomExt": {
+      "message": "Ekstensi file kustom"
+   },
+   "TcustomExtDec": {
+      "message": "Isi ekstensi tanpa \".\". \u003Cbr/>File yang lebih besar dari ukuran ini akan dirayapi. \u003Cbr/>Mengisi 0 akan merayapi terlepas dari ukuran file.\u003Cbr/>Jika Anda ingin mengabaikan jenis file tertentu, hapus centang \"Aktif\".\u003Cbr/>Beberapa file sumber daya non-media tidak akan dirayapi."
+   },
+   "TcustomExtName": {
+      "message": "Ekstensi file"
+   },
+   "TcustomExtNameEmpty": {
+      "message": "Ekstensi file tidak boleh kosong."
+   },
+   "TcustomExtSize": {
+      "message": "Batas ukuran"
+   },
+   "TcustomMaxDisplayCount": {
+      "message": "Berapa banyak file yang ditampilkan di halaman popup"
+   },
+   "TcustomMineEmpty": {
+      "message": "MIME tidak boleh kosong."
+   },
+   "TcustomOt": {
+      "message": "Lainnya"
+   },
+   "TcustomOtFilename": {
+      "message": "Gunakan judul halaman sebagai nama file saat mengunduh."
+   },
+   "TcustomOtIgnore": {
+      "message": "Abaikan parameter (hindari duplikat)"
+   },
+   "TcustomOtIgnoreDec": {
+      "message": "Beberapa file media menyertakan parameter. Centang 'Abaikan parameter' untuk memfilter data duplikat."
+   },
+   "TcustomOtReg": {
+      "message": "Ekspresi reguler yang cocok dengan parameter video. Jika Anda tidak memahami ekspresi reguler, hindari memodifikasinya. Anda dapat menggunakan 'Setel Ulang' untuk mengembalikan pengaturan default."
+   },
+   "TcustomSaved": {
+      "message": "Disimpan"
+   },
+   "TcustomSetting": {
+      "message": "Pengaturan CocoCut"
+   },
+   "TcustomShowCountOnIcon": {
+      "message": "Tampilkan jumlah file di ikon ekstensi CocoCut"
+   },
+   "TcustomTypeIgn": {
+      "message": "Jika Anda ingin mengabaikan jenis file tertentu, hapus centang \"Aktif\"."
+   },
+   "TdlmDownload": {
+      "message": "Buka halaman manajemen unduhan baru untuk mengunduh dengan banyak utas (dan mengaturnya sebagai metode unduhan default)."
+   },
+   "Tdone": {
+      "message": "Selesai."
+   },
+   "TdownSelected": {
+      "message": "Unduh yang dipilih"
+   },
+   "Tdownload": {
+      "message": "Unduh"
+   },
+   "TdownloadPlus": {
+      "message": "Mode unduh lanjutan"
+   },
+   "TerrFailDownload": {
+      "message": "Gagal mengunduh file."
+   },
+   "TerrItself": {
+      "message": "Kesalahan."
+   },
+   "TerrNoAvailableDownload": {
+      "message": "Maaf, tapi kami tidak dapat menemukan video yang tersedia untuk diunduh."
+   },
+   "TerrNoIndexFile": {
+      "message": "Maaf, tapi kami tidak dapat mengunduh file indeks untuk file video."
+   },
+   "TerrTryToRec": {
+      "message": "Mungkin Anda bisa mencoba \u003Ca href=\"javascript:void(0)\" id=\"errTryToRec\">Mode Perekaman\u003C/a>?"
+   },
+   "Text": {
+      "message": "Format teks"
+   },
+   "ThlsCloseVideoPageRetry": {
+      "message": "Mungkin perlu menutup halaman web video, membukanya kembali, dan mencoba lagi."
+   },
+   "ThlsGoToMergeAV": {
+      "message": "Kemudian buka gabungkan audio dan video:"
+   },
+   "ThlsLiveDurationLimit": {
+      "message": "Ups! Anda telah melampaui batas durasi maksimum. \u003Ca class='btn btn-primary up2pro-btn'>Tingkatkan ke Pro\u003C/a> untuk menikmati waktu tak terbatas dan membuka lebih banyak fitur luar biasa!"
+   },
+   "ThlsNeedSelectAudio": {
+      "message": "Jika tidak ada suara di video, silakan unduh:"
+   },
+   "ThlsSegmentsDlFaile": {
+      "message": "Gagal mengunduh $failedCount$ segmen, klik untuk mencoba lagi",
+      "placeholders": {
+         "failedCount": {
+            "content": "$1",
+            "example": "8"
+         }
+      }
+   },
+   "Tloading": {
+      "message": "Memuat."
+   },
+   "Tm3Des1": {
+      "message": "Jika file ts yang diurai tidak dapat diunduh, coba decoding UrlDecode."
+   },
+   "Tm3Des2": {
+      "message": "Perintah gabungkan file ts Ffmpeg: ffmpeg -i xxx.m3u8 -vcodec copy -acodec copy xxx.mp4"
+   },
+   "Tm3FileCount": {
+      "message": " file"
+   },
+   "Tm3FileUri": {
+      "message": "URL file M3u8"
+   },
+   "Tm3Key": {
+      "message": ", file media dienkripsi, silakan unduh file kunci."
+   },
+   "Tm3Nexm3Des": {
+      "message": "File m3u8 lain bersarang di file m3u8."
+   },
+   "Tm3Nextm3file": {
+      "message": "Pilih file m3u8 tingkat berikutnya"
+   },
+   "Tm3PageTile": {
+      "message": "Mengurai file m3u8"
+   },
+   "Tm3u8": {
+      "message": "Unduh m3u8"
+   },
+   "Tm3u8AdvancedParser": {
+      "message": "parser m3u8 tingkat lanjut"
+   },
+   "Tm3u8BeenSaved2HardDisk": {
+      "message": "Telah disimpan ke hard disk, silakan periksa konten yang diunduh di browser"
+   },
+   "Tm3u8Bitrate": {
+      "message": "Kecepatan bit"
+   },
+   "Tm3u8CanNotDealSampleAES": {
+      "message": "Sumber daya yang dienkripsi dengan SAMPLE-AES-CTR tidak dapat diproses saat ini."
+   },
+   "Tm3u8CanNotModiSet": {
+      "message": "Transcoding diaktifkan, pengaturan ini tidak dapat diubah"
+   },
+   "Tm3u8CustomKey": {
+      "message": "kunci khusus"
+   },
+   "Tm3u8CustomKeyInputP": {
+      "message": "Kunci khusus heksadesimal atau base64 atau alamat kunci"
+   },
+   "Tm3u8CustomeKeyOffsetV": {
+      "message": "offset khusus"
+   },
+   "Tm3u8DataBeingConvert": {
+      "message": "Data sedang dikonversi ke format..."
+   },
+   "Tm3u8DataIsBeMerged": {
+      "message": "Data sedang digabungkan..."
+   },
+   "Tm3u8DlAndMerge": {
+      "message": "Unduh dan gabungkan"
+   },
+   "Tm3u8DlDescDlMpdQuik": {
+      "message": "URL unduhan yang diurai akan segera menjadi tidak valid, silakan unduh sesegera mungkin. Jika unduhan gagal, silakan kembali ke halaman pemutaran video dan klik ikon CocoCut untuk mengurai lagi."
+   },
+   "Tm3u8DlExistData": {
+      "message": "Unduh data yang ada"
+   },
+   "Tm3u8DlFailedTryAgain": {
+      "message": "Pengunduhan gagal...coba lagi"
+   },
+   "Tm3u8DlRange": {
+      "message": "Rentang unduhan"
+   },
+   "Tm3u8DlRec": {
+      "message": "Unduh Rekaman"
+   },
+   "Tm3u8DlThreads": {
+      "message": "Jumlah utas unduhan"
+   },
+   "Tm3u8Downloaded": {
+      "message": "Diunduh:"
+   },
+   "Tm3u8EncodedDoc": {
+      "message": "dokumen yang dikodekan"
+   },
+   "Tm3u8Encrypted": {
+      "message": "Dienkripsi"
+   },
+   "Tm3u8ErrInParseM3u8": {
+      "message": "Terjadi kesalahan saat mengurai atau memutar file m3u8"
+   },
+   "Tm3u8FailedDecrypt": {
+      "message": "Dekripsi gagal."
+   },
+   "Tm3u8FileLoading": {
+      "message": "File sedang dimuat..."
+   },
+   "Tm3u8FormatErrCanclemp4": {
+      "message": "Kesalahan konversi format, harap batalkan konversi mp4, unduh lagi."
+   },
+   "Tm3u8HttpNotAllow": {
+      "message": "Fitur ini memerlukan https"
+   },
+   "Tm3u8ImcompleteData": {
+      "message": "Data tidak lengkap... Beberapa file masih belum diunduh."
+   },
+   "Tm3u8IncorrKey": {
+      "message": "Kunci salah"
+   },
+   "Tm3u8InitFrag": {
+      "message": "Fragmen inisialisasi"
+   },
+   "Tm3u8KeyDlFail": {
+      "message": "Pengunduhan kunci gagal"
+   },
+   "Tm3u8KeyErr": {
+      "message": "File salah:"
+   },
+   "Tm3u8LiveStream": {
+      "message": "Streaming langsung"
+   },
+   "Tm3u8M3u8FileAddr": {
+      "message": "alamat file m3u8"
+   },
+   "Tm3u8MergeCheckStEnd": {
+      "message": "Nomor urut awal tidak boleh lebih besar dari nomor urut akhir"
+   },
+   "Tm3u8MergeCompleteWait": {
+      "message": "Penggabungan selesai, menunggu browser selesai mengunduh...(Harap perhatikan proses pengunduhan browser)"
+   },
+   "Tm3u8MergeSeqExceed": {
+      "message": "Nomor urut tidak boleh melebihi"
+   },
+   "Tm3u8NestMultSubs": {
+      "message": "Sarang beberapa subtitle"
+   },
+   "Tm3u8NestMultSubsDesc": {
+      "message": "Beberapa subtitle bersarang di file m3u8"
+   },
+   "Tm3u8NestMultipleaudio": {
+      "message": "Sarang beberapa audio"
+   },
+   "Tm3u8NestMultipleaudioDesc": {
+      "message": "Beberapa audio bersarang di file m3u8"
+   },
+   "Tm3u8Nestedfiles": {
+      "message": "File bersarang"
+   },
+   "Tm3u8NestedfilesDesc": {
+      "message": "Beberapa file m3u8 bersarang di dalam file m3u8 itu"
+   },
+   "Tm3u8NoAudio": {
+      "message": "Tidak ada audio"
+   },
+   "Tm3u8NoSupport": {
+      "message": "Tidak mendukung"
+   },
+   "Tm3u8NoVideo": {
+      "message": "Tidak ada video"
+   },
+   "Tm3u8OpenDlDir": {
+      "message": "Buka direktori unduhan"
+   },
+   "Tm3u8PlayList": {
+      "message": "daftar putar m3u8"
+   },
+   "Tm3u8PushingStream": {
+      "message": "Mendorong aliran, akan berhenti mengunduh setelah ditutup..."
+   },
+   "Tm3u8RangeEnd": {
+      "message": "Akhir rentang"
+   },
+   "Tm3u8RangeStart": {
+      "message": "Mulai rentang"
+   },
+   "Tm3u8ReDlErr": {
+      "message": "Coba lagi saat mengunduh kesalahan"
+   },
+   "Tm3u8ReDling": {
+      "message": "Mengunduh ulang..."
+   },
+   "Tm3u8RecLive": {
+      "message": "Rekam Video Langsung"
+   },
+   "Tm3u8RecLiveVideo": {
+      "message": "Rekam video langsung"
+   },
+   "Tm3u8RecordingTime": {
+      "message": "Waktu perekaman:"
+   },
+   "Tm3u8Redownload": {
+      "message": "Unduh ulang"
+   },
+   "Tm3u8RefererAdd": {
+      "message": "Tambah"
+   },
+   "Tm3u8RefererDelete": {
+      "message": "Hapus"
+   },
+   "Tm3u8RefererRetry": {
+      "message": "lalu coba lagi"
+   },
+   "Tm3u8ReqFfmpegTrans": {
+      "message": "Membutuhkan transcoding ffmpeg"
+   },
+   "Tm3u8Resolution": {
+      "message": "Resolusi"
+   },
+   "Tm3u8RetryDlErr": {
+      "message": "Coba lagi semua item yang gagal"
+   },
+   "Tm3u8SaveAs": {
+      "message": "Simpan sebagai"
+   },
+   "Tm3u8SaveAsMp4": {
+      "message": "Simpan sebagai format mp4"
+   },
+   "Tm3u8SaveCusName": {
+      "message": "Simpan dengan nama file khusus"
+   },
+   "Tm3u8SaveOnlyAudio": {
+      "message": "Hanya simpan format audio"
+   },
+   "Tm3u8StopDl": {
+      "message": "Hentikan Unduhan"
+   },
+   "Tm3u8StopDlStream": {
+      "message": "Hentikan pengunduhan aliran"
+   },
+   "Tm3u8StopRec": {
+      "message": "Hentikan Perekaman"
+   },
+   "Tm3u8StreamSave": {
+      "message": "Simpan ke hard drive saat mengunduh"
+   },
+   "Tm3u8TotalFragCount": {
+      "message": "Jumlah total fragmen file:"
+   },
+   "Tm3u8TotalTime": {
+      "message": "Total waktu:"
+   },
+   "Tm3u8Upload": {
+      "message": "Atau, Unggah"
+   },
+   "Tm3u8VideoResolution": {
+      "message": "Resolusi"
+   },
+   "Tm3u8VideoTime": {
+      "message": "Durasi"
+   },
+   "Tm3u8WaitLiveData": {
+      "message": "Menunggu data langsung..."
+   },
+   "Tm3u8WrongKeyType": {
+      "message": "Jenis kunci salah"
+   },
+   "Tm3u8downloadOptions": {
+      "message": "Opsi unduhan"
+   },
+   "Tm3u8skipDecryption": {
+      "message": "Lewati dekripsi"
+   },
+   "Tm3u8stopDl": {
+      "message": "Hentikan unduhan"
+   },
+   "TmediaCNormalspeed": {
+      "message": "Kecepatan normal"
+   },
+   "TmediaCSelWebpage": {
+      "message": "Pilih halaman web"
+   },
+   "TmediaCfullscreen": {
+      "message": "Layar penuh"
+   },
+   "TmediaCpause": {
+      "message": "Jeda"
+   },
+   "TmediaCpip": {
+      "message": "Gambar-dalam-gambar"
+   },
+   "TmediaCpipQuit": {
+      "message": "Keluar dari gambar-dalam-gambar"
+   },
+   "TmediaCplay": {
+      "message": "Putar"
+   },
+   "TmediaCplayTime": {
+      "message": "Waktu putar"
+   },
+   "TmediaCscreenshot": {
+      "message": "Tangkapan layar"
+   },
+   "TmediaCselMedia": {
+      "message": "Pilih video"
+   },
+   "TmediaCspeed": {
+      "message": "Putar dengan kecepatan Anda"
+   },
+   "TmediaCvolumn": {
+      "message": "Volume"
+   },
+   "TmediaLoop": {
+      "message": "Ulangi"
+   },
+   "TmedianCMuted": {
+      "message": "Bungkam"
+   },
+   "TmpdDrmProtect": {
+      "message": "Media dilindungi oleh DRM, dan mungkin tidak dapat diunduh dan diputar. Tidak ada fungsi analisis enkripsi dan dekripsi untuk itu, silakan salin alamat file mpd, dan gunakan alat pihak ketiga untuk mengunduh."
+   },
+   "TmpdInitSeg": {
+      "message": "segmen inisialisasi"
+   },
+   "TmpdMPdFileAddr": {
+      "message": "alamat file"
+   },
+   "TmpdParser": {
+      "message": "Parser"
+   },
+   "TmpdSelectAudio": {
+      "message": "Pilih audio"
+   },
+   "TmpdSelectVideo": {
+      "message": "Pilih video"
+   },
+   "TmpdTotalFilesCount": {
+      "message": "Jumlah total file"
+   },
+   "TmpdVideo": {
+      "message": "Video"
+   },
+   "TnoResource": {
+      "message": "Tidak ada file yang terdeteksi!"
+   },
+   "TopenAdvanceModalDesc": {
+      "message": "Disarankan untuk menggunakan mode ini ketika unduhan gagal, file yang diunduh salah, atau ukuran file melebihi 2G."
+   },
+   "TopenAdvanceModeBtn": {
+      "message": "Buka mode unduh lanjutan"
+   },
+   "Tplay": {
+      "message": "Putar"
+   },
+   "TpopBlockDomain": {
+      "message": "Blokir file dari domain ini agar tidak ditampilkan di daftar unduhan"
+   },
+   "TpopBlockedDomainNotify": {
+      "message": "File dari domain di bawah ini tidak akan ditampilkan di daftar unduhan."
+   },
+   "TpopDlDash": {
+      "message": "Unduh DASH/MPD"
+   },
+   "TpopGetProBtn": {
+      "message": "Dapatkan fungsi lanjutan seperti \"pengunduhan yang dipercepat\"."
+   },
+   "TpopHomePageBtn": {
+      "message": "Beranda CocoCut"
+   },
+   "TpopM3u8Des": {
+      "message": "Streaming"
+   },
+   "TpopNeedPlayit": {
+      "message": " Anda mungkin perlu memutar video terlebih dahulu untuk membantu CocoCut menemukannya."
+   },
+   "TpopNeedPlayit2": {
+      "message": "Beberapa video perlu mulai diputar sebelum dapat diunduh. Atau Anda dapat mengklik tombol \"Paksa Unduh\"."
+   },
+   "TpopNotSuppWhy": {
+      "message": "Klik saya untuk melihat alasannya dan solusi yang mungkin."
+   },
+   "TpopNotSupport": {
+      "message": "Maaf, halaman web ini tidak didukung."
+   },
+   "TpopOptionBtn": {
+      "message": "Pengaturan unduhan"
+   },
+   "TpopQuestionBtn": {
+      "message": "Umpan Balik & FAQ"
+   },
+   "TpopRealDlAddr": {
+      "message": "Klik saya untuk menjadi anggota Pro untuk mendapatkan tautan unduhan."
+   },
+   "TpopTab2Desc": {
+      "message": "Untuk video dan audio yang tidak sesuai dengan standar web, mereka dapat dideteksi dengan beberapa metode lain, seperti \"Emulasi ponsel\", \"Pencarian mendalam\", dan sebagainya."
+   },
+   "TpopTooManyFiles": {
+      "message": "Terlalu banyak file untuk ditampilkan. Anda dapat mengatur berapa banyak file yang akan ditampilkan dengan:"
+   },
+   "TpopYTDLdesc": {
+      "message": "Jika Anda berada di halaman tontonan YouTube, Anda dapat mencoba mengunduh video youtube."
+   },
+   "TpopYTDLdlIt": {
+      "message": "Coba unduh video YouTube"
+   },
+   "TpopdeepSearch": {
+      "message": "Pencarian mendalam"
+   },
+   "TpopdeepSearchOff": {
+      "message": "Matikan pencarian mendalam"
+   },
+   "TpopdeepSearch_TT": {
+      "message": "Pencarian mendalam untuk file media non-standar, sangat meningkatkan kemungkinan deteksi."
+   },
+   "TpopemulateCellphone": {
+      "message": "Emulasi ponsel"
+   },
+   "TpopemulateCellphone_TT": {
+      "message": "Beberapa situs web menyediakan file media yang sesuai dengan web untuk perangkat seluler."
+   },
+   "TpoprecordScreen": {
+      "message": "Perekam layar"
+   },
+   "TpoprecordScreenOff": {
+      "message": "Matikan Perekam layar"
+   },
+   "TpoprecordScreen_TT": {
+      "message": "Perekaman langsung layar, mirip dengan kamera video yang menangkap layar."
+   },
+   "TpopupTab1": {
+      "message": "Daftar Unduhan"
+   },
+   "TpopupTab2": {
+      "message": "Fitur Pro"
+   },
+   "TpopupTab3": {
+      "message": "Kontrol Video"
+   },
+   "TrevSelected": {
+      "message": "Pilihan terbalik"
+   },
+   "TryHlsDesc": {
+      "message": "CocoCut akan mencoba mengunduh atau merekam video. Jika video halaman web saat ini tidak dapat dideteksi atau sulit diunduh, klik di sini untuk mencoba."
+   },
+   "TselectAll": {
+      "message": "Pilih semua"
+   },
+   "TssCloseRecArea": {
+      "message": "Matikan Perekam layar"
+   },
+   "TssDrapRecArea": {
+      "message": "Memindahkan area perekaman"
+   },
+   "TssNotAllowShare": {
+      "message": "Halaman saat ini tidak mendukung berbagi layar"
+   },
+   "TssStartRec": {
+      "message": "Mulai merekam"
+   },
+   "TssStartRecord": {
+      "message": "Mulai merekam"
+   },
+   "TssStopRec": {
+      "message": "Hentikan perekaman"
+   },
+   "TswichtRecMode": {
+      "message": "Beralih ke mode perekaman video"
+   },
+   "TtempntcInfoCopied": {
+      "message": "Disalin!"
+   },
+   "TtoFaq": {
+      "message": "Buka FAQ untuk melihat apakah masalah dapat diperbaiki."
+   },
+   "TtryHls": {
+      "message": "Paksa unduh"
+   },
+   "TtryHlsLabel": {
+      "message": "Mengalami masalah saat mengunduh atau tidak ada file yang terdeteksi?"
+   },
+   "TtryPlay": {
+      "message": "Coba putar"
+   },
+   "TtryRecMode": {
+      "message": "Tidak dapat menemukan video untuk diunduh, mungkin Anda bisa mencobanya dengan mode rekam?"
+   },
+   "UrlDecode": {
+      "message": "Decoding UrlDecode"
+   },
+   "WgetText": {
+      "message": "Format Wget"
+   },
+   "customNavIEbtns": {
+      "message": "Impor/Ekspor pengaturan"
+   },
+   "exportSettingBtn": {
+      "message": "Ekspor ke file lokal"
+   },
+   "extDescription": {
+      "message": "Ekstensi pengunduh video Chrome terbaik, pengunduh video untuk Chrome ini dapat mengunduh video, musik gratis, aman dalam satu klik."
+   },
+   "extName": {
+      "message": "pengunduh video - CocoCut"
+   },
+   "importSettingBtn": {
+      "message": "Impor dari file lokal"
+   },
+   "importSettingsCancelBtn": {
+      "message": "Batal"
+   },
+   "importSettingsFilelabel": {
+      "message": "Pilih file Pengaturan CocoCut…"
+   },
+   "importSettingsFilename": {
+      "message": "Tidak ada file yang dipilih"
+   },
+   "importSettingsOkBtn": {
+      "message": "OK"
+   },
+   "importSettingsWarning": {
+      "message": "Peringatan: ini akan menggantikan semua pengaturan saat ini."
+   },
+   "modalCancelBtn": {
+      "message": "Batal"
+   },
+   "modalOkBtn": {
+      "message": "OK"
+   },
+   "popemulateCellphoneOff": {
+      "message": "Matikan Emulasi ponsel"
+   },
+   "subtitle": {
+      "message": "Subtitel"
+   },
+   "t2_Loading": {
+      "message": "Memuat..."
+   },
+   "t2_captureStoped": {
+      "message": "Rekaman dihentikan"
+   },
+   "t2_captureStreamFailed": {
+      "message": "Video mungkin dilindungi hak cipta dan pengunduhan dilarang."
+   },
+   "t2_clickToStartRecording": {
+      "message": "Silakan pilih video target lalu klik: Mulai rekam."
+   },
+   "t2_detectingVideo": {
+      "message": "Mencari video... (Mungkin perlu mulai memutar video terlebih dahulu untuk mendeteksinya.)"
+   },
+   "t2_dlM3U8_err": {
+      "message": "kesalahan, harap tutup halaman video ini, buka kembali dan coba lagi."
+   },
+   "t2_formatNotSupported": {
+      "message": "Format video tidak didukung"
+   },
+   "t2_frameRate": {
+      "message": "Kecepatan bingkai"
+   },
+   "t2_ifCanNotPlay": {
+      "message": "Jika Anda tidak dapat memutar video yang diunduh, klik di sini untuk menggunakan pemecah masalah file MP4 untuk memperbaikinya."
+   },
+   "t2_maxTried": {
+      "message": "Video ditemukan, tetapi tidak dapat direkam. Harap tutup halaman ini, buka halaman video, dan coba lagi."
+   },
+   "t2_noVideoDetected": {
+      "message": "Tidak ada video yang terdeteksi. Anda mungkin perlu memutar video terlebih dahulu untuk membantu penemuan video."
+   },
+   "t2_noVideoFound": {
+      "message": "Tidak ada video yang terdeteksi. Anda mungkin perlu memutar video terlebih dahulu untuk membantu penemuan video."
+   },
+   "t2_recordeModeTip": {
+      "message": "\u003Cstrong>Mode Perekaman\u003C/strong> memungkinkan Anda untuk langsung merekam video yang di-cache di halaman video. \u003Ch4>Kelebihan\u003C/h4> \u003Cul>\u003Cli>Kecepatan perekaman cepat.\u003C/li>\u003Cli>Mendukung maju cepat selama perekaman.\u003C/li>\u003C/ul> \u003Ch4>Kekurangan\u003C/h4> \u003Cul>\u003Cli>Beberapa video tidak dapat direkam.\u003C/li>\u003Cli>Masalah sesekali dengan segmen video atau audio yang hilang.\u003C/li>\u003C/ul>"
+   },
+   "t2_recording": {
+      "message": "Perekaman sedang berlangsung"
+   },
+   "t2_recordingChangeEncoding": {
+      "message": "Pengkodean video tidak dapat diubah selama perekaman."
+   },
+   "t2_recordingFailed": {
+      "message": "Perekaman gagal"
+   },
+   "t2_recordingNotSupported": {
+      "message": "Perekaman tidak didukung"
+   },
+   "t2_showSuperRecorderContainerBtn": {
+      "message": "Ketika mode unduh atau rekam gagal, Anda dapat mencoba menggunakan mode Rekam:"
+   },
+   "t2_stopRecording": {
+      "message": "Hentikan rekam"
+   },
+   "t2_superRecorderInjectJsBtn": {
+      "message": "Mode rekam"
+   },
+   "t2_superRecorderInjectJsBtnTip": {
+      "message": "\u003Cstrong>Mode rekam\u003C/strong> memungkinkan Anda merekam video dari halaman web, sehingga mudah untuk menyimpan favorit Anda. \u003Ch4>Kelebihan\u003C/h4> \u003Cul>\u003Cli>Merekam sebagian besar video (Kecuali untuk video yang dilindungi oleh hak cipta).\u003C/li>\u003C/ul> \u003Ch4>Kekurangan\u003C/h4> \u003Cul>\u003Cli>Ukuran file besar.\u003C/li>\u003Cli>Tidak ada maju cepat saat merekam.\u003C/li>\u003Cli>Persyaratan perangkat keras yang relatif tinggi, mungkin mengalami kelambatan. (Anda dapat mengurangi resolusi video target yang direkam untuk mengurangi kelambatan.)\u003C/li>\u003C/ul>"
+   },
+   "t2_video": {
+      "message": "Video"
+   },
+   "t2_webrtcStream": {
+      "message": "Aliran video WebRTC"
+   },
+   "t3_LimitCaptureDurationNotice": {
+      "message": "Versi non-Pro memiliki batas waktu perekaman. Tingkatkan ke versi Pro untuk waktu perekaman tak terbatas. Klik di sini untuk meningkatkan ke versi Pro."
+   },
+   "t3_LimitSuperRecordDurationNotice": {
+      "message": "Versi non-Pro memiliki batas waktu pengambilan. Tingkatkan ke versi Pro untuk waktu pengambilan tak terbatas. Klik di sini untuk meningkatkan ke versi Pro."
+   },
+   "t3_alt_downloader_desc": {
+      "message": "Jika pengunduhan gagal, coba gunakan Pengunduh Media Alternatif ini untuk mengunduh ulang."
+   },
+   "t3_alt_media_downloader": {
+      "message": "Pengunduh Media Alternatif"
+   },
+   "t3_closeAndRetry": {
+      "message": "Harap tutup halaman ini, kembali ke halaman pemutaran video dan coba lagi."
+   },
+   "t3_dlSpeedNotice": {
+      "message": "\u003Ch4>Ingin mempercepat pengunduhan? \u003C/h4>Disarankan untuk mulai menggunakan teknologi pengunduhan berkecepatan tinggi multi-utas canggih dari CocoCut, yang dapat meningkatkan kecepatan hingga 6 kali."
+   },
+   "t3_dlSpeedNoticeBtn": {
+      "message": "Aktifkan pengunduhan berkecepatan tinggi"
+   },
+   "t3_dlVaccelerateNotPro": {
+      "message": "Gunakan multi-utas untuk mempercepat kecepatan pengunduhan?"
+   },
+   "t3_dlVforceSaveBtn": {
+      "message": "Simpan bagian yang di-buffer secara langsung"
+   },
+   "t3_dlVsaveBtn": {
+      "message": "Simpan"
+   },
+   "t3_dlVstartBtn": {
+      "message": "Lanjutkan"
+   },
+   "t3_dlVstopAndSaveBtn": {
+      "message": "Hentikan pengunduhan dan Simpan"
+   },
+   "t3_dlVstopBtn": {
+      "message": "Jeda"
+   },
+   "t3_download_complete": {
+      "message": "Pengunduhan Selesai"
+   },
+   "t3_downloading": {
+      "message": "Mengunduh..."
+   },
+   "t3_failed_download": {
+      "message": "Gagal mengunduh file:"
+   },
+   "t3_failed_get_info": {
+      "message": "Gagal mendapatkan informasi video."
+   },
+   "t3_file_name": {
+      "message": "Nama File:"
+   },
+   "t3_file_size": {
+      "message": "Ukuran File:"
+   },
+   "t3_loginBtn": {
+      "message": "Masuk"
+   },
+   "t3_proLogined": {
+      "message": "Anda sudah masuk sebagai anggota Pro, jadi agar tidak mengganggu kemajuan Anda dalam pengunduhan ini, fitur Pro Anda akan diaktifkan pada pengunduhan Anda berikutnya."
+   },
+   "t3_proNoticeContent": {
+      "message": "\u003Cp>Hai, Anda harus masuk sebagai pengguna Pro untuk menggunakan fitur ini.\u003C/p>\u003Cp>(Jika Anda sudah masuk sebagai pengguna Pro, Anda dapat mulai menggunakannya lain kali.)\u003C/p>"
+   },
+   "t3_proNoticeTitle": {
+      "message": "Ini adalah fitur Pro"
+   },
+   "t3_ready_to_download": {
+      "message": "Siap Diunduh"
+   },
+   "t3_save2gdrive": {
+      "message": "Simpan ke Google Drive"
+   },
+   "t3_start_download": {
+      "message": "Mulai Unduh"
+   },
+   "t3_triedSpeedo": {
+      "message": "Akhir masa percobaan untuk pengunduhan berkecepatan tinggi pengguna Pro."
+   },
+   "t3_tringSpeedo": {
+      "message": "Mencoba pengunduhan berkecepatan tinggi untuk pengguna Pro"
+   },
+   "t3_tringSpeedyTech": {
+      "message": "Mencoba menggunakan teknologi pengunduhan berkecepatan tinggi untuk mempercepat pengunduhan!"
+   },
+   "t3_trySpeedo": {
+      "message": "Klik di sini untuk mencoba"
+   },
+   "t3_webpage_title": {
+      "message": "Judul Halaman Web:"
+   },
+   "t4_Cached": {
+      "message": "Di-cache"
+   },
+   "t4_Downloaded": {
+      "message": "Diunduh!"
+   },
+   "t4_Fetching": {
+      "message": "Mengambil info file ..."
+   },
+   "t4_ProThreads": {
+      "message": "Menggunakan utas maks untuk pengguna Pro"
+   },
+   "t4_Profile": {
+      "message": "Profil"
+   },
+   "t4_Retries": {
+      "message": "Coba lagi"
+   },
+   "t4_Size": {
+      "message": "Ukuran"
+   },
+   "t4_Speed": {
+      "message": "Kecepatan"
+   },
+   "t4_Threads": {
+      "message": "Utas"
+   },
+   "t4_Timeleft": {
+      "message": "Waktu tersisa"
+   },
+   "t4_askReviewTitle": {
+      "message": "Jika Anda menyukai ekstensi ini, beri kami voting 5 bintang di toko ekstensi untuk membantu kami menjadi lebih baik :), itu akan sangat membantu kami!"
+   },
+   "t4_askShare": {
+      "message": "Jika Anda menyukai ekstensi ini, bagikan dengan teman dan kolega Anda!"
+   },
+   "t4_autoSaveLabel": {
+      "message": "Simpan otomatis"
+   },
+   "t4_autoSaveTitle": {
+      "message": "Simpan otomatis saat buffer selesai"
+   },
+   "t4_btnClose": {
+      "message": "Tutup"
+   },
+   "t4_bufferedLabel": {
+      "message": "Bagian yang di-buffer (Klik \"Simpan\" setelah buffer selesai untuk menyimpan ke disk Anda):"
+   },
+   "t4_cachedone": {
+      "message": "Cache selesai, silakan klik tombol \"simpan\" untuk menyimpan file yang di-cache ke hard disk Anda."
+   },
+   "t4_cancelBtn": {
+      "message": "Batal"
+   },
+   "t4_directDlLable": {
+      "message": "Lain kali unduh langsung dengan browser"
+   },
+   "t4_disclaimDesc": {
+      "message": "CocoCut hanya untuk penggunaan pribadi dan tidak bertanggung jawab atas file yang diunduh oleh pengguna. Kami sarankan untuk mengonfirmasi hak cipta sebelum digunakan."
+   },
+   "t4_dlHlsInfo": {
+      "message": "Mencoba mendapatkan indeks file ts. Jika status ini berlanjut untuk waktu yang lama, silakan coba gunakan: "
+   },
+   "t4_dlVaccelerate": {
+      "message": "Mencoba mempercepat pengunduhan untuk pengguna Pro."
+   },
+   "t4_failedDlModalContent": {
+      "message": "\u003Cp>Beberapa segmen video yang sedang diunduh tidak dapat diunduh atau digabungkan secara normal, yang dapat menyebabkan Cococut gagal mengunduh video saat ini.\u003C/p>\u003Cp>Anda masih dapat mencoba \"Mode Perekaman\" di sudut kanan atas halaman web, tetapi tidak dapat menjamin keberhasilan.\u003C/p>"
+   },
+   "t4_failedDlModalTitle": {
+      "message": "Ada masalah dengan pengunduhan Anda."
+   },
+   "t4_filesaved": {
+      "message": "File telah disimpan ke disk Anda, akan menghapus data yang di-cache."
+   },
+   "t4_goToIndexShare": {
+      "message": "Bagikan sekarang."
+   },
+   "t4_hlsBottomVote": {
+      "message": "Jika Anda menyukai aplikasi ini, beri kami voting 5 bintang di toko ekstensi untuk membantu kami menjadi lebih baik :)"
+   },
+   "t4_hlsBottomVoteBtn": {
+      "message": "Beri suara sekarang"
+   },
+   "t4_hlsBottomeShare": {
+      "message": "Jika Anda menyukai aplikasi ini, bagikan dengan teman-teman Anda :) "
+   },
+   "t4_important": {
+      "message": "Penting"
+   },
+   "t4_importantDesc": {
+      "message": "Jangan tutup halaman ini saat mengunduh."
+   },
+   "t4_importantDesc2": {
+      "message": "Perekaman video telah dimulai, jangan tutup halaman pemutaran video dan biarkan video tetap diputar."
+   },
+   "t4_incache": {
+      "message": "Menyimpan cache"
+   },
+   "t4_loadingNotice": {
+      "message": "memuat..."
+   },
+   "t4_maxRecTimeLimit": {
+      "message": "Maaf, batas waktu perekaman maksimum telah tercapai. Silakan klik saya untuk masuk sebagai pengguna Pro untuk menghapus batas."
+   },
+   "t4_maxRecTimeLimitAware": {
+      "message": "Harap dicatat bahwa ada batas waktu perekaman untuk pengguna non-Pro."
+   },
+   "t4_nxtTReview": {
+      "message": "Mungkin lain kali"
+   },
+   "t4_oauth2gDrive": {
+      "message": "Otorisasi Google Drive"
+   },
+   "t4_oauth2gDriveContent": {
+      "message": "Untuk menyimpan video yang diunduh ke Google Drive Anda, Anda perlu mengotorisasi ekstensi untuk mengakses akun Google Drive Anda. "
+   },
+   "t4_oauth2gDriveNote": {
+      "message": "Pastikan jaringan Anda dapat mengakses layanan Google Drive."
+   },
+   "t4_okBtn": {
+      "message": "OK"
+   },
+   "t4_okReview": {
+      "message": "Tentu saja!"
+   },
+   "t4_recModeForProAware": {
+      "message": "Mode perekaman adalah fitur Pro yang dapat dicoba secara gratis untuk waktu yang terbatas."
+   },
+   "t4_recordCached": {
+      "message": "Dalam mode perekaman, semua bagian video yang di-buffer telah direkam, Anda dapat mencoba mempercepat maju di halaman pemutaran video, atau menyeret bilah kemajuan ke akhir buffer untuk mempercepat perekaman."
+   },
+   "t4_recordInfo": {
+      "message": "Mencoba merekam, tetapi belum ada data video yang diterima. Mungkin perlu menunggu video mulai diputar."
+   },
+   "t4_recordingMode": {
+      "message": "Mode perekaman"
+   },
+   "t4_removeAds": {
+      "message": "Saya tidak ingin melihat iklan"
+   },
+   "t4_save2diskLabel": {
+      "message": "Simpan langsung ke hard disk"
+   },
+   "t4_save2diskTitle": {
+      "message": "Saat mengunduh, file disimpan langsung ke hard drive Anda, tidak memakan memori, dan melewati batas memori 2G browser. Sangat cocok untuk mengunduh file besar atau video streaming langsung."
+   },
+   "t4_setAutoFixMp4": {
+      "message": "Perbaiki file video secara otomatis"
+   },
+   "t4_setAutoFixMp4Div": {
+      "message": "Perbaiki file video yang 'Tidak dapat diputar/dipercepat maju' secara otomatis"
+   },
+   "t4_speedUpLabel": {
+      "message": "Percepat perekaman"
+   },
+   "t4_speedUpTitle": {
+      "message": "Percepat video dalam mode rekam jika memungkinkan untuk mempercepat perekaman. Keyboard 'Ctr + >' dan 'Ctr + \u003C' di halaman pemutaran video akan mengubah kecepatan pemutaran"
+   },
+   "t4_switchRecMode": {
+      "message": "Beralih mode unduh video"
+   },
+   "t4_switchRecModeContent": {
+      "message": "\u003Cp>Klik OK untuk beralih ke mode perekaman.\u003C/p>\u003Cp> Perhatikan: 1. Biarkan halaman ini terbuka. 2 biarkan halaman video Anda terbuka dan video diputar.\u003C/p>"
+   },
+   "t4_title": {
+      "message": "Ekstensi pengunduh CocoCut"
+   },
+   "t4_vSavedToLoc": {
+      "message": "File video disimpan di lokasi unduhan default browser Anda."
+   },
+   "t5_ConfirmSelectAudio": {
+      "message": "Video belum disimpan. Apakah Anda yakin ingin mengunduh audio terlebih dahulu?"
+   },
+   "t5_Tm3u8EstimateSize": {
+      "message": "Perkirakan Ukuran"
+   },
+   "t5_allocateErrorContent": {
+      "message": "Browser tidak dapat mengalokasikan cukup ruang di penyimpanan internal untuk menyimpan file. Coba kosongkan sebagian ruang hard disk Anda dan mulai ulang pengunduhan."
+   },
+   "t5_allocateErrorTitle": {
+      "message": "Tidak dapat mengalokasikan ruang di penyimpanan internal"
+   },
+   "t5_highestResSelected": {
+      "message": "Video resolusi tertinggi telah dipilih secara otomatis."
+   },
+   "t5_needUseHighDlBtn": {
+      "message": "Tingkatkan kecepatan unduh"
+   },
+   "t5_over2g": {
+      "message": "File melebihi 2GB. Keterbatasan memori browser dapat menyebabkan unduhan tidak lengkap atau gagal. Silakan coba: $1. Karena ini adalah batasan yang diberlakukan browser yang tidak dapat dilewati, jika masalah terus berlanjut, pertimbangkan metode alternatif."
+   },
+   "t5_selectHighestResAuto": {
+      "message": "Unduh video resolusi tertinggi secara default"
+   },
+   "t5_streamDownloader_failed": {
+      "message": "Gagal menyimpan ke hard disk. Pesan kesalahan: $1. Harap segarkan halaman web ini dan coba lagi."
+   },
+   "videoIndexTips": {
+      "message": "Tidak ada video yang dapat dimanipulasi yang dipilih"
+   },
+   "videoTabTips": {
+      "message": "Halaman web dengan video tidak terdeteksi"
+   }
+}

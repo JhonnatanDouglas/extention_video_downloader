@@ -1,0 +1,1114 @@
+{
+   "Aria2Text": {
+      "message": "aria2 형식"
+   },
+   "DownText": {
+      "message": "텍스트 파일로 다운로드"
+   },
+   "Refresh": {
+      "message": "초기화"
+   },
+   "ResetExt": {
+      "message": "설정 초기화"
+   },
+   "Resolution": {
+      "message": "해상도"
+   },
+   "SaveExt": {
+      "message": "모든 설정 저장"
+   },
+   "T2_advanceOptions": {
+      "message": "캡처 옵션"
+   },
+   "T2_audioBits": {
+      "message": "오디오 비트 전송률"
+   },
+   "T2_errMsgBegin": {
+      "message": "오류: "
+   },
+   "T2_maxCaputureTime": {
+      "message": "죄송하지만 최대 캡처 시간 제한에 도달했습니다. Pro 사용자로 로그인하여 제한을 해제하려면 여기를 클릭하세요."
+   },
+   "T2_preview": {
+      "message": "비디오 미리보기"
+   },
+   "T2_recordEncoding": {
+      "message": "비디오 인코딩"
+   },
+   "T2_selectVideo": {
+      "message": "비디오를 선택하세요 (Pro 사용자들은 캡처를 시작하면 비디오 미리보기가 생성되어 대상 비디오가 맞는지 확인할 수 있습니다.)"
+   },
+   "T2_startRecording": {
+      "message": "캡처 시작"
+   },
+   "T2_stopRecording": {
+      "message": "캡처 중지"
+   },
+   "T2_videoBits": {
+      "message": "비디오 비트 전송률"
+   },
+   "TAudio": {
+      "message": "오디오"
+   },
+   "TCloseBtn": {
+      "message": "닫기"
+   },
+   "TContinueRec": {
+      "message": "녹화 모드를 계속하시겠습니까?"
+   },
+   "TErrorNoAudio": {
+      "message": "죄송합니다, 다운로드할 오디오를 찾을 수 없습니다."
+   },
+   "TErrorNoVideo": {
+      "message": "죄송합니다, 다운로드할 비디오를 찾을 수 없습니다. 녹화 모드를 시도해 보세요."
+   },
+   "TRecording": {
+      "message": "녹화 중."
+   },
+   "TbadgetTitle": {
+      "message": "$MEDIA_COUNT$개의 미디어 파일을 찾았습니다.",
+      "placeholders": {
+         "MEDIA_COUNT": {
+            "content": "$1"
+         }
+      }
+   },
+   "TbgIsDownloading": {
+      "message": "이 페이지의 미디어 파일이 다운로드 중입니다."
+   },
+   "TbgTryLater": {
+      "message": "죄송합니다. 다운로드가 일시적으로 불가능합니다. 나중에 다시 시도하거나 페이지를 새로 고친 후 다시 시도하세요."
+   },
+   "Tcopy": {
+      "message": "URL 복사"
+   },
+   "TcopySelected": {
+      "message": "선택한 항목 복사"
+   },
+   "TcustomAdd": {
+      "message": "더 추가"
+   },
+   "TcustomAddMine": {
+      "message": "더 추가"
+   },
+   "TcustomBlockedDomainEmpty": {
+      "message": "차단할 도메인 이름은 비워둘 수 없습니다."
+   },
+   "TcustomBlockedDomainExample": {
+      "message": "도메인 형식은 다음과 같아야 합니다:"
+   },
+   "TcustomBlockedDomainPlaceholder": {
+      "message": "차단할 도메인 이름 입력"
+   },
+   "TcustomBlockedDomains": {
+      "message": "차단된 도메인"
+   },
+   "TcustomBlockedDomainsDec": {
+      "message": "다음 도메인에서 오는 파일은 다운로드 목록에 표시되지 않습니다."
+   },
+   "TcustomComfirmRest": {
+      "message": "초기화를 확인하시겠습니까? 초기화 후 모든 이전 설정이 사라집니다!"
+   },
+   "TcustomCtDec": {
+      "message": "일부 미디어 파일은 비정상적인 확장자를 사용하여 MIME으로 판단해야 합니다. \u003Ca href=\"https://developer.mozilla.org/ko/docs/Web/HTTP/Basics_of_HTTP/MIME_types/Complete_list_of_MIME_types\" target=\"_blank\">MIME 타입 목록\u003C/a> \u003Cbr/>와일드카드를 지원하며, 확장자 우선으로 매칭됩니다."
+   },
+   "TcustomCtMIME": {
+      "message": "MIME"
+   },
+   "TcustomDebug": {
+      "message": "디버그 모드"
+   },
+   "TcustomExt": {
+      "message": "사용자 정의 파일 확장자"
+   },
+   "TcustomExtDec": {
+      "message": "\".\" 없이 확장자를 입력하세요. \u003Cbr/>이 크기보다 큰 파일만 크롤링됩니다. 0을 입력하면 파일 크기에 관계없이 모두 크롤링됩니다. \u003Cbr/>특정 유형의 파일을 무시하려면 'On'을 체크 해제하세요. \u003Cbr/>일부 비미디어 리소스 파일은 크롤링되지 않을 수 있습니다."
+   },
+   "TcustomExtName": {
+      "message": "파일 확장자"
+   },
+   "TcustomExtNameEmpty": {
+      "message": "파일 확장자는 비워둘 수 없습니다."
+   },
+   "TcustomExtSize": {
+      "message": "크기 제한"
+   },
+   "TcustomMaxDisplayCount": {
+      "message": "팝업 페이지에 표시할 최대 파일 수"
+   },
+   "TcustomMineEmpty": {
+      "message": "MIME은 비워둘 수 없습니다."
+   },
+   "TcustomOt": {
+      "message": "기타"
+   },
+   "TcustomOtFilename": {
+      "message": "다운로드 시 페이지 제목을 파일 이름으로 사용"
+   },
+   "TcustomOtIgnore": {
+      "message": "매개변수 무시(중복 방지)"
+   },
+   "TcustomOtIgnoreDec": {
+      "message": "일부 미디어 파일에 매개변수가 포함되어 있습니다. '매개변수 무시'를 체크하여 중복 데이터를 필터링하세요."
+   },
+   "TcustomOtReg": {
+      "message": "비디오 매개변수에 맞는 정규 표현식입니다. 정규 표현식을 잘 모르면 수정하지 마세요. '초기화'를 눌러 기본 설정으로 복원할 수 있습니다."
+   },
+   "TcustomSaved": {
+      "message": "저장됨"
+   },
+   "TcustomSetting": {
+      "message": "CocoCut 설정"
+   },
+   "TcustomShowCountOnIcon": {
+      "message": "CocoCut 확장 아이콘에 파일 수 표시"
+   },
+   "TcustomTypeIgn": {
+      "message": "특정 유형의 파일을 무시하려면 'On'을 체크 해제하세요."
+   },
+   "TdlmDownload": {
+      "message": "새 다운로드 관리 페이지에서 다중 스레드를 사용하여 다운로드(기본 다운로드 방법으로 설정)."
+   },
+   "Tdone": {
+      "message": "완료."
+   },
+   "TdownSelected": {
+      "message": "선택한 항목 다운로드"
+   },
+   "Tdownload": {
+      "message": "다운로드"
+   },
+   "TdownloadPlus": {
+      "message": "고급 다운로드 모드"
+   },
+   "TerrFailDownload": {
+      "message": "파일 다운로드에 실패했습니다."
+   },
+   "TerrItself": {
+      "message": "오류 발생."
+   },
+   "TerrNoAvailableDownload": {
+      "message": "죄송합니다, 다운로드할 수 있는 비디오를 찾을 수 없습니다."
+   },
+   "TerrNoIndexFile": {
+      "message": "죄송합니다, 비디오 파일의 인덱스 파일을 다운로드할 수 없습니다."
+   },
+   "TerrTryToRec": {
+      "message": "녹화 모드를 시도해 보세요 \u003Ca href=\"javascript:void(0)\" id=\"errTryToRec\">녹화 모드\u003C/a>?"
+   },
+   "Text": {
+      "message": "텍스트 형식"
+   },
+   "ThlsCloseVideoPageRetry": {
+      "message": "비디오 웹페이지를 닫고 다시 열어 시도해야 할 수도 있습니다."
+   },
+   "ThlsGoToMergeAV": {
+      "message": "그 후 오디오와 비디오를 병합하십시오:"
+   },
+   "ThlsLiveDurationLimit": {
+      "message": "앗! 최대 시간 제한을 초과했습니다. \u003Ca class='btn btn-primary up2pro-btn'>Pro로 업그레이드\u003C/a>하여 무제한 시간과 더 많은 기능을 잠금 해제하십시오!"
+   },
+   "ThlsNeedSelectAudio": {
+      "message": "비디오에 소리가 없는 경우, 다음을 다운로드하십시오:"
+   },
+   "ThlsSegmentsDlFaile": {
+      "message": "$failedCount$개의 세그먼트를 다운로드하는 데 실패했습니다. 클릭하여 다시 시도하십시오.",
+      "placeholders": {
+         "failedCount": {
+            "content": "$1",
+            "example": "8"
+         }
+      }
+   },
+   "Tloading": {
+      "message": "로딩 중."
+   },
+   "Tm3Des1": {
+      "message": "분석된 ts 파일이 다운로드되지 않으면 UrlDecode로 디코딩을 시도해 보세요."
+   },
+   "Tm3Des2": {
+      "message": "ffmpeg 명령어로 ts 파일 병합: ffmpeg -i xxx.m3u8 -vcodec copy -acodec copy xxx.mp4"
+   },
+   "Tm3FileCount": {
+      "message": "개 파일"
+   },
+   "Tm3FileUri": {
+      "message": "m3u8 파일 URL"
+   },
+   "Tm3Key": {
+      "message": "미디어 파일이 암호화되었습니다. 키 파일을 다운로드하세요."
+   },
+   "Tm3Nexm3Des": {
+      "message": "다른 m3u8 파일이 현재 m3u8 파일 안에 포함되어 있습니다."
+   },
+   "Tm3Nextm3file": {
+      "message": "다음 단계의 m3u8 파일 선택"
+   },
+   "Tm3PageTile": {
+      "message": "m3u8 파일 분석 중"
+   },
+   "Tm3u8": {
+      "message": "m3u8 다운로드"
+   },
+   "Tm3u8AdvancedParser": {
+      "message": "고급 m3u8 파서"
+   },
+   "Tm3u8BeenSaved2HardDisk": {
+      "message": "하드 디스크에 저장되었습니다. 브라우저에서 다운로드된 내용을 확인하세요."
+   },
+   "Tm3u8Bitrate": {
+      "message": "비트레이트"
+   },
+   "Tm3u8CanNotDealSampleAES": {
+      "message": "현재 SAMPLE-AES-CTR로 암호화된 리소스를 처리할 수 없습니다."
+   },
+   "Tm3u8CanNotModiSet": {
+      "message": "트랜스코딩이 활성화되어 있어 이 설정을 변경할 수 없습니다."
+   },
+   "Tm3u8CustomKey": {
+      "message": "사용자 지정 키"
+   },
+   "Tm3u8CustomKeyInputP": {
+      "message": "사용자 지정 키(16진수 또는 Base64 또는 키 주소)"
+   },
+   "Tm3u8CustomeKeyOffsetV": {
+      "message": "사용자 지정 오프셋"
+   },
+   "Tm3u8DataBeingConvert": {
+      "message": "데이터가 형식으로 변환 중입니다..."
+   },
+   "Tm3u8DataIsBeMerged": {
+      "message": "데이터가 병합 중입니다..."
+   },
+   "Tm3u8DlAndMerge": {
+      "message": "다운로드 및 병합"
+   },
+   "Tm3u8DlDescDlMpdQuik": {
+      "message": "解析된 다운로드 링크는 곧 만료됩니다. 가능한 빨리 다운로드하십시오. 다운로드에 실패하면 비디오 재생 페이지로 돌아가 CocoCut 아이콘을 클릭하여 다시 분석하세요."
+   },
+   "Tm3u8DlExistData": {
+      "message": "기존 데이터 다운로드"
+   },
+   "Tm3u8DlFailedTryAgain": {
+      "message": "다운로드 실패... 다시 시도하세요"
+   },
+   "Tm3u8DlRange": {
+      "message": "다운로드 범위"
+   },
+   "Tm3u8DlRec": {
+      "message": "녹화 다운로드"
+   },
+   "Tm3u8DlThreads": {
+      "message": "다운로드 스레드 수"
+   },
+   "Tm3u8Downloaded": {
+      "message": "다운로드됨:"
+   },
+   "Tm3u8EncodedDoc": {
+      "message": "인코딩된 문서"
+   },
+   "Tm3u8Encrypted": {
+      "message": "암호화됨"
+   },
+   "Tm3u8ErrInParseM3u8": {
+      "message": "m3u8 파일을 분석하거나 재생하는 중 오류 발생"
+   },
+   "Tm3u8FailedDecrypt": {
+      "message": "복호화 실패"
+   },
+   "Tm3u8FileLoading": {
+      "message": "파일 로딩 중..."
+   },
+   "Tm3u8FormatErrCanclemp4": {
+      "message": "형식 변환 오류, mp4 변환을 취소하고 다시 다운로드하세요."
+   },
+   "Tm3u8HttpNotAllow": {
+      "message": "이 기능은 https를 사용해야 합니다."
+   },
+   "Tm3u8ImcompleteData": {
+      "message": "데이터 불완전... 일부 파일이 다운로드되지 않았습니다."
+   },
+   "Tm3u8IncorrKey": {
+      "message": "잘못된 키"
+   },
+   "Tm3u8InitFrag": {
+      "message": "초기화 세그먼트"
+   },
+   "Tm3u8KeyDlFail": {
+      "message": "키 다운로드 실패"
+   },
+   "Tm3u8KeyErr": {
+      "message": "파일이 올바르지 않습니다:"
+   },
+   "Tm3u8LiveStream": {
+      "message": "라이브 스트리밍"
+   },
+   "Tm3u8M3u8FileAddr": {
+      "message": "m3u8 파일 주소"
+   },
+   "Tm3u8MergeCheckStEnd": {
+      "message": "시작 순서 번호는 종료 순서 번호보다 클 수 없습니다."
+   },
+   "Tm3u8MergeCompleteWait": {
+      "message": "병합 완료, 브라우저가 다운로드를 완료할 때까지 기다리는 중...(브라우저 다운로드 진행 상태를 확인하세요)"
+   },
+   "Tm3u8MergeSeqExceed": {
+      "message": "순서 번호는 초과할 수 없습니다."
+   },
+   "Tm3u8NestMultSubs": {
+      "message": "여러 자막 중첩"
+   },
+   "Tm3u8NestMultSubsDesc": {
+      "message": "하나의 m3u8 파일 안에 여러 개의 자막이 중첩되어 있습니다."
+   },
+   "Tm3u8NestMultipleaudio": {
+      "message": "여러 오디오 중첩"
+   },
+   "Tm3u8NestMultipleaudioDesc": {
+      "message": "하나의 m3u8 파일 안에 여러 개의 오디오가 중첩되어 있습니다."
+   },
+   "Tm3u8Nestedfiles": {
+      "message": "중첩된 파일"
+   },
+   "Tm3u8NestedfilesDesc": {
+      "message": "하나의 m3u8 파일 안에 여러 개의 m3u8 파일이 중첩되어 있습니다."
+   },
+   "Tm3u8NoAudio": {
+      "message": "오디오 없음"
+   },
+   "Tm3u8NoSupport": {
+      "message": "지원하지 않음"
+   },
+   "Tm3u8NoVideo": {
+      "message": "비디오 없음"
+   },
+   "Tm3u8OpenDlDir": {
+      "message": "다운로드 디렉토리 열기"
+   },
+   "Tm3u8PlayList": {
+      "message": "m3u8 재생 목록"
+   },
+   "Tm3u8PushingStream": {
+      "message": "스트리밍을 푸시 중, 종료 시 다운로드가 중지됩니다..."
+   },
+   "Tm3u8RangeEnd": {
+      "message": "범위 끝"
+   },
+   "Tm3u8RangeStart": {
+      "message": "범위 시작"
+   },
+   "Tm3u8ReDlErr": {
+      "message": "다운로드 오류 발생 시 재시도"
+   },
+   "Tm3u8ReDling": {
+      "message": "다시 다운로드 중..."
+   },
+   "Tm3u8RecLive": {
+      "message": "라이브 비디오 녹화"
+   },
+   "Tm3u8RecLiveVideo": {
+      "message": "라이브 비디오 녹화"
+   },
+   "Tm3u8RecordingTime": {
+      "message": "녹화 시간:"
+   },
+   "Tm3u8Redownload": {
+      "message": "다시 다운로드"
+   },
+   "Tm3u8RefererAdd": {
+      "message": "추가"
+   },
+   "Tm3u8RefererDelete": {
+      "message": "삭제"
+   },
+   "Tm3u8RefererRetry": {
+      "message": "다시 시도"
+   },
+   "Tm3u8ReqFfmpegTrans": {
+      "message": "ffmpeg 트랜스코딩이 필요함"
+   },
+   "Tm3u8Resolution": {
+      "message": "해상도"
+   },
+   "Tm3u8RetryDlErr": {
+      "message": "실패한 항목 모두 재시도"
+   },
+   "Tm3u8SaveAs": {
+      "message": "다른 이름으로 저장"
+   },
+   "Tm3u8SaveAsMp4": {
+      "message": "mp4 형식으로 저장"
+   },
+   "Tm3u8SaveCusName": {
+      "message": "사용자 지정 파일 이름으로 저장"
+   },
+   "Tm3u8SaveOnlyAudio": {
+      "message": "오디오 형식만 저장"
+   },
+   "Tm3u8StopDl": {
+      "message": "다운로드 중지"
+   },
+   "Tm3u8StopDlStream": {
+      "message": "스트림 다운로드 중지"
+   },
+   "Tm3u8StopRec": {
+      "message": "녹화 중지"
+   },
+   "Tm3u8StreamSave": {
+      "message": "다운로드 중 하드 드라이브에 저장"
+   },
+   "Tm3u8TotalFragCount": {
+      "message": "전체 파일 조각 수:"
+   },
+   "Tm3u8TotalTime": {
+      "message": "전체 시간:"
+   },
+   "Tm3u8Upload": {
+      "message": "또는 업로드"
+   },
+   "Tm3u8VideoResolution": {
+      "message": "해상도"
+   },
+   "Tm3u8VideoTime": {
+      "message": "길이"
+   },
+   "Tm3u8WaitLiveData": {
+      "message": "라이브 데이터 대기 중..."
+   },
+   "Tm3u8WrongKeyType": {
+      "message": "잘못된 키 유형"
+   },
+   "Tm3u8downloadOptions": {
+      "message": "다운로드 옵션"
+   },
+   "Tm3u8skipDecryption": {
+      "message": "복호화 건너뛰기"
+   },
+   "Tm3u8stopDl": {
+      "message": "다운로드 중지"
+   },
+   "TmediaCNormalspeed": {
+      "message": "정상 속도"
+   },
+   "TmediaCSelWebpage": {
+      "message": "웹페이지 선택"
+   },
+   "TmediaCfullscreen": {
+      "message": "전체 화면"
+   },
+   "TmediaCpause": {
+      "message": "일시 정지"
+   },
+   "TmediaCpip": {
+      "message": "화면 속 화면"
+   },
+   "TmediaCpipQuit": {
+      "message": "화면 속 화면 종료"
+   },
+   "TmediaCplay": {
+      "message": "재생"
+   },
+   "TmediaCplayTime": {
+      "message": "재생 시간"
+   },
+   "TmediaCscreenshot": {
+      "message": "스크린샷"
+   },
+   "TmediaCselMedia": {
+      "message": "비디오 선택"
+   },
+   "TmediaCspeed": {
+      "message": "재생 속도 조절"
+   },
+   "TmediaCvolumn": {
+      "message": "음량"
+   },
+   "TmediaLoop": {
+      "message": "반복 재생"
+   },
+   "TmedianCMuted": {
+      "message": "음소거"
+   },
+   "TmpdDrmProtect": {
+      "message": "이 미디어는 DRM으로 보호되어 있어 다운로드 및 재생이 불가능할 수 있습니다. 암호화 분석 및 복호화 기능이 없으며, mpd 파일 주소를 복사하고 서드파티 도구를 사용하여 다운로드하십시오."
+   },
+   "TmpdInitSeg": {
+      "message": "초기화 세그먼트"
+   },
+   "TmpdMPdFileAddr": {
+      "message": "파일 주소"
+   },
+   "TmpdParser": {
+      "message": "파서"
+   },
+   "TmpdSelectAudio": {
+      "message": "오디오 선택"
+   },
+   "TmpdSelectVideo": {
+      "message": "비디오 선택"
+   },
+   "TmpdTotalFilesCount": {
+      "message": "파일 총 수"
+   },
+   "TmpdVideo": {
+      "message": "비디오"
+   },
+   "TnoResource": {
+      "message": "파일을 찾을 수 없습니다!"
+   },
+   "TopenAdvanceModalDesc": {
+      "message": "다운로드 실패, 잘못된 파일, 또는 파일 크기가 2GB를 초과할 경우 이 모드를 사용하는 것이 좋습니다."
+   },
+   "TopenAdvanceModeBtn": {
+      "message": "고급 다운로드 모드 열기"
+   },
+   "Tplay": {
+      "message": "재생"
+   },
+   "TpopBlockDomain": {
+      "message": "이 도메인에서 오는 파일을 다운로드 목록에서 차단"
+   },
+   "TpopBlockedDomainNotify": {
+      "message": "아래 도메인에서 오는 파일은 다운로드 목록에 표시되지 않습니다."
+   },
+   "TpopDlDash": {
+      "message": "DASH/MPD 다운로드"
+   },
+   "TpopGetProBtn": {
+      "message": "\"가속 다운로드\" 등의 고급 기능을 얻기"
+   },
+   "TpopHomePageBtn": {
+      "message": "CocoCut 홈페이지"
+   },
+   "TpopM3u8Des": {
+      "message": "스트리밍"
+   },
+   "TpopNeedPlayit": {
+      "message": "다운로드하려는 비디오를 먼저 재생해 보세요. CocoCut이 이를 찾을 수 있도록 도와줍니다."
+   },
+   "TpopNeedPlayit2": {
+      "message": "일부 비디오는 먼저 재생해야 다운로드할 수 있습니다. 또는 아래의 '강제 다운로드' 버튼을 클릭해 보세요."
+   },
+   "TpopNotSuppWhy": {
+      "message": "이유와 가능한 해결 방법을 보려면 클릭하세요."
+   },
+   "TpopNotSupport": {
+      "message": "죄송합니다. 이 웹페이지는 지원되지 않습니다."
+   },
+   "TpopOptionBtn": {
+      "message": "다운로드 설정"
+   },
+   "TpopQuestionBtn": {
+      "message": "피드백 & FAQ"
+   },
+   "TpopRealDlAddr": {
+      "message": "Pro 회원이 되어 다운로드 링크를 얻으려면 여기를 클릭하세요."
+   },
+   "TpopTab2Desc": {
+      "message": "웹 표준을 준수하지 않는 비디오 및 오디오는 '휴대폰 모방', '심층 검색' 등의 방법으로 감지할 수 있습니다."
+   },
+   "TpopTooManyFiles": {
+      "message": "파일이 너무 많아 모두 표시할 수 없습니다. 표시할 파일 수를 설정할 수 있습니다:"
+   },
+   "TpopYTDLdesc": {
+      "message": "YouTube 동영상 페이지에 있다면 YouTube 동영상을 다운로드해 보세요."
+   },
+   "TpopYTDLdlIt": {
+      "message": "YouTube 동영상 다운로드 시도"
+   },
+   "TpopdeepSearch": {
+      "message": "심층 검색"
+   },
+   "TpopdeepSearchOff": {
+      "message": "심층 검색 끄기"
+   },
+   "TpopdeepSearch_TT": {
+      "message": "비표준 미디어 파일을 심층 검색하여 탐지 확률을 크게 향상시킵니다."
+   },
+   "TpopemulateCellphone": {
+      "message": "휴대폰 모방"
+   },
+   "TpopemulateCellphone_TT": {
+      "message": "일부 웹사이트는 모바일 장치를 위한 웹 표준을 준수하는 미디어 파일을 제공합니다."
+   },
+   "TpoprecordScreen": {
+      "message": "화면 녹화"
+   },
+   "TpoprecordScreenOff": {
+      "message": "화면 녹화 끄기"
+   },
+   "TpoprecordScreen_TT": {
+      "message": "화면을 직접 녹화하는 기능으로, 비디오 카메라로 화면을 캡처하는 것과 유사합니다."
+   },
+   "TpopupTab1": {
+      "message": "다운로드 목록"
+   },
+   "TpopupTab2": {
+      "message": "전문 기능"
+   },
+   "TpopupTab3": {
+      "message": "비디오 제어"
+   },
+   "TrevSelected": {
+      "message": "선택 반전"
+   },
+   "TryHlsDesc": {
+      "message": "CocoCut은 비디오를 다운로드하거나 녹화하려고 시도합니다. 현재 웹페이지에서 비디오를 찾을 수 없거나 다운로드가 어려운 경우 여기에서 시도해 보세요."
+   },
+   "TselectAll": {
+      "message": "모두 선택"
+   },
+   "TssCloseRecArea": {
+      "message": "화면 녹화 끄기"
+   },
+   "TssDrapRecArea": {
+      "message": "녹화 영역 이동"
+   },
+   "TssNotAllowShare": {
+      "message": "현재 페이지는 화면 공유를 지원하지 않습니다."
+   },
+   "TssStartRec": {
+      "message": "녹화 시작"
+   },
+   "TssStartRecord": {
+      "message": "녹화 시작"
+   },
+   "TssStopRec": {
+      "message": "녹화 중지"
+   },
+   "TswichtRecMode": {
+      "message": "비디오 녹화 모드로 전환"
+   },
+   "TtempntcInfoCopied": {
+      "message": "복사 완료!"
+   },
+   "TtoFaq": {
+      "message": "FAQ로 가서 문제 해결 방법을 확인하세요."
+   },
+   "TtryHls": {
+      "message": "강제 다운로드"
+   },
+   "TtryHlsLabel": {
+      "message": "다운로드에 문제가 있거나 파일을 찾을 수 없나요?"
+   },
+   "TtryPlay": {
+      "message": "재생 시도"
+   },
+   "TtryRecMode": {
+      "message": "다운로드할 비디오를 찾을 수 없습니다. 녹화 모드를 시도해 보세요."
+   },
+   "UrlDecode": {
+      "message": "UrlDecode 디코딩"
+   },
+   "WgetText": {
+      "message": "wget 형식"
+   },
+   "customNavIEbtns": {
+      "message": "설정 가져오기/내보내기"
+   },
+   "exportSettingBtn": {
+      "message": "로컬 파일로 내보내기"
+   },
+   "extDescription": {
+      "message": "Chrome에 최적화된 최고의 비디오 다운로더 확장 프로그램, 이 비디오 다운로더는 Chrome에서 무료로 안전하게 비디오와 음악을 한 번의 클릭으로 다운로드할 수 있습니다."
+   },
+   "extName": {
+      "message": "비디오 다운로더 - CocoCut"
+   },
+   "importSettingBtn": {
+      "message": "로컬 파일에서 가져오기"
+   },
+   "importSettingsCancelBtn": {
+      "message": "취소"
+   },
+   "importSettingsFilelabel": {
+      "message": "CocoCut 설정 파일 선택..."
+   },
+   "importSettingsFilename": {
+      "message": "선택된 파일 없음"
+   },
+   "importSettingsOkBtn": {
+      "message": "확인"
+   },
+   "importSettingsWarning": {
+      "message": "경고: 이 작업은 현재 설정을 모두 덮어씁니다."
+   },
+   "modalCancelBtn": {
+      "message": "취소"
+   },
+   "modalOkBtn": {
+      "message": "확인"
+   },
+   "popemulateCellphoneOff": {
+      "message": "휴대폰 모방 끄기"
+   },
+   "subtitle": {
+      "message": "자막"
+   },
+   "t2_Loading": {
+      "message": "로딩 중..."
+   },
+   "t2_captureStoped": {
+      "message": "캡처가 중지되었습니다."
+   },
+   "t2_captureStreamFailed": {
+      "message": "비디오가 저작권 보호로 인해 다운로드가 금지되었을 수 있습니다."
+   },
+   "t2_clickToStartRecording": {
+      "message": "대상 비디오를 먼저 선택한 후, '캡처 시작'을 클릭하세요."
+   },
+   "t2_detectingVideo": {
+      "message": "비디오 검색 중... (비디오를 먼저 재생해야 감지가 가능할 수 있습니다.)"
+   },
+   "t2_dlM3U8_err": {
+      "message": "오류가 발생했습니다. 이 비디오 페이지를 닫고 다시 열어서 다시 시도해 주세요."
+   },
+   "t2_formatNotSupported": {
+      "message": "지원되지 않는 비디오 형식"
+   },
+   "t2_frameRate": {
+      "message": "프레임 속도"
+   },
+   "t2_ifCanNotPlay": {
+      "message": "다운로드한 비디오를 재생할 수 없는 경우, 여기를 클릭하여 MP4 파일 복구 도구로 수리해 보세요."
+   },
+   "t2_maxTried": {
+      "message": "비디오가 발견되었지만 캡처할 수 없습니다. 이 페이지를 닫고 비디오 페이지로 가서 다시 시도해 주세요."
+   },
+   "t2_noVideoDetected": {
+      "message": "비디오를 감지할 수 없습니다. 비디오를 먼저 재생하여 비디오 발견을 도와주세요."
+   },
+   "t2_noVideoFound": {
+      "message": "비디오를 감지할 수 없습니다. 비디오를 먼저 재생하여 비디오 발견을 도와주세요."
+   },
+   "t2_recordeModeTip": {
+      "message": "\u003Cstrong>녹화 모드\u003C/strong>는 비디오 페이지에서 캐시된 비디오를 바로 녹화할 수 있게 해줍니다. \u003Ch4>장점\u003C/h4> \u003Cul>\u003Cli>빠른 녹화 속도.\u003C/li>\u003Cli>녹화 중 빨리감기 지원.\u003C/li>\u003C/ul> \u003Ch4>단점\u003C/h4> \u003Cul>\u003Cli>일부 비디오는 녹화할 수 없습니다.\u003C/li>\u003Cli>가끔 비디오나 오디오 부분이 누락될 수 있습니다.\u003C/li>\u003C/ul>"
+   },
+   "t2_recording": {
+      "message": "캡처 중"
+   },
+   "t2_recordingChangeEncoding": {
+      "message": "캡처 중에는 비디오 인코딩을 변경할 수 없습니다."
+   },
+   "t2_recordingFailed": {
+      "message": "캡처 실패"
+   },
+   "t2_recordingNotSupported": {
+      "message": "캡처가 지원되지 않습니다."
+   },
+   "t2_showSuperRecorderContainerBtn": {
+      "message": "다운로드 또는 녹화 모드에 실패했을 때 캡처 모드를 시도해보세요:"
+   },
+   "t2_stopRecording": {
+      "message": "캡처 중지"
+   },
+   "t2_superRecorderInjectJsBtn": {
+      "message": "캡처 모드"
+   },
+   "t2_superRecorderInjectJsBtnTip": {
+      "message": "\u003Cstrong>캡처 모드\u003C/strong>는 웹 페이지에서 비디오를 캡처하여 즐겨찾는 콘텐츠를 쉽게 저장할 수 있게 해줍니다. \u003Ch4>장점\u003C/h4> \u003Cul>\u003Cli>대부분의 비디오를 캡처할 수 있습니다(저작권 보호 비디오 제외).\u003C/li>\u003C/ul> \u003Ch4>단점\u003C/h4> \u003Cul>\u003Cli>비디오 파일 크기가 큽니다.\u003C/li>\u003Cli>캡처 중에는 빨리감기가 불가능합니다.\u003C/li>\u003Cli>하드웨어 요구 사항이 상대적으로 높아, 지연이 발생할 수 있습니다. (대상 비디오의 해상도를 낮추어 지연을 줄일 수 있습니다.)\u003C/li>\u003C/ul>"
+   },
+   "t2_video": {
+      "message": "비디오"
+   },
+   "t2_webrtcStream": {
+      "message": "WebRTC 비디오 스트림"
+   },
+   "t3_LimitCaptureDurationNotice": {
+      "message": "Pro 버전이 아닌 경우 녹화 시간에 제한이 있습니다. Pro 버전으로 업그레이드하면 녹화 시간 제한이 해제됩니다. Pro 버전으로 업그레이드하려면 여기를 클릭하세요."
+   },
+   "t3_LimitSuperRecordDurationNotice": {
+      "message": "Pro 버전이 아닌 경우 캡처 시간에 제한이 있습니다. Pro 버전으로 업그레이드하면 캡처 시간 제한이 해제됩니다. Pro 버전으로 업그레이드하려면 여기를 클릭하세요."
+   },
+   "t3_alt_downloader_desc": {
+      "message": "다운로드에 실패하면 이 대체 미디어 다운로드 도구를 사용해 다시 시도하세요."
+   },
+   "t3_alt_media_downloader": {
+      "message": "대체 미디어 다운로드 도구"
+   },
+   "t3_closeAndRetry": {
+      "message": "이 페이지를 닫고 동영상 재생 페이지로 돌아가 다시 시도하세요."
+   },
+   "t3_dlSpeedNotice": {
+      "message": "\u003Ch4>다운로드 속도를 높이고 싶으신가요?\u003C/h4>CocoCut의 고급 다중 스레드 고속 다운로드 기술을 사용하면 최대 6배 빠른 속도를 경험할 수 있습니다."
+   },
+   "t3_dlSpeedNoticeBtn": {
+      "message": "고속 다운로드 활성화"
+   },
+   "t3_dlVaccelerateNotPro": {
+      "message": "다중 스레드를 사용하여 다운로드 속도를 높이시겠습니까?"
+   },
+   "t3_dlVforceSaveBtn": {
+      "message": "버퍼된 부분을 직접 저장"
+   },
+   "t3_dlVsaveBtn": {
+      "message": "저장"
+   },
+   "t3_dlVstartBtn": {
+      "message": "다시 시작"
+   },
+   "t3_dlVstopAndSaveBtn": {
+      "message": "다운로드를 중지하고 저장"
+   },
+   "t3_dlVstopBtn": {
+      "message": "일시 중지"
+   },
+   "t3_download_complete": {
+      "message": "다운로드 완료"
+   },
+   "t3_downloading": {
+      "message": "다운로드 중..."
+   },
+   "t3_failed_download": {
+      "message": "파일 다운로드 실패:"
+   },
+   "t3_failed_get_info": {
+      "message": "동영상 정보를 가져오지 못했습니다."
+   },
+   "t3_file_name": {
+      "message": "파일 이름:"
+   },
+   "t3_file_size": {
+      "message": "파일 크기:"
+   },
+   "t3_loginBtn": {
+      "message": "로그인"
+   },
+   "t3_proLogined": {
+      "message": "Pro 회원으로 로그인되어 있습니다. 현재 다운로드 진행을 방해하지 않기 위해 Pro 기능은 다음 다운로드부터 활성화됩니다."
+   },
+   "t3_proNoticeContent": {
+      "message": "\u003Cp>안녕하세요, Pro 사용자로 로그인해야 이 기능을 사용할 수 있습니다.\u003C/p>\u003Cp>(이미 Pro 사용자로 로그인한 경우, 다음 번부터 사용할 수 있습니다.)\u003C/p>"
+   },
+   "t3_proNoticeTitle": {
+      "message": "이 기능은 Pro 전용입니다"
+   },
+   "t3_ready_to_download": {
+      "message": "다운로드 준비 완료"
+   },
+   "t3_save2gdrive": {
+      "message": "Google Drive에 저장"
+   },
+   "t3_start_download": {
+      "message": "다운로드 시작"
+   },
+   "t3_triedSpeedo": {
+      "message": "Pro 사용자 고속 다운로드 체험 종료"
+   },
+   "t3_tringSpeedo": {
+      "message": "Pro 사용자 고속 다운로드 체험 중"
+   },
+   "t3_tringSpeedyTech": {
+      "message": "고속 다운로드 기술을 사용하여 다운로드 속도를 높이는 중입니다!"
+   },
+   "t3_trySpeedo": {
+      "message": "여기를 클릭하여 시도해 보세요"
+   },
+   "t3_webpage_title": {
+      "message": "웹페이지 제목:"
+   },
+   "t4_Cached": {
+      "message": "캐시됨"
+   },
+   "t4_Downloaded": {
+      "message": "다운로드 완료!"
+   },
+   "t4_Fetching": {
+      "message": "파일 정보 가져오는 중..."
+   },
+   "t4_ProThreads": {
+      "message": "Pro 사용자는 최대 스레드를 사용합니다."
+   },
+   "t4_Profile": {
+      "message": "프로필"
+   },
+   "t4_Retries": {
+      "message": "재시도"
+   },
+   "t4_Size": {
+      "message": "크기"
+   },
+   "t4_Speed": {
+      "message": "속도"
+   },
+   "t4_Threads": {
+      "message": "스레드"
+   },
+   "t4_Timeleft": {
+      "message": "남은 시간"
+   },
+   "t4_askReviewTitle": {
+      "message": "이 확장 프로그램이 마음에 드시면, 확장 프로그램 스토어에서 5점 평가를 해주세요. 저희에게 큰 도움이 됩니다 :), 많은 도움이 될 거예요!"
+   },
+   "t4_askShare": {
+      "message": "이 확장 프로그램이 마음에 드시면 친구들과 동료들에게 공유해주세요!"
+   },
+   "t4_autoSaveLabel": {
+      "message": "자동 저장"
+   },
+   "t4_autoSaveTitle": {
+      "message": "버퍼링 완료 후 자동 저장"
+   },
+   "t4_btnClose": {
+      "message": "닫기"
+   },
+   "t4_bufferedLabel": {
+      "message": "버퍼링된 부분 (버퍼링이 완료되면 \"저장\"을 클릭하여 디스크에 저장):"
+   },
+   "t4_cachedone": {
+      "message": "캐시 완료, '저장' 버튼을 클릭하여 캐시된 파일을 하드 드라이브에 저장하세요."
+   },
+   "t4_cancelBtn": {
+      "message": "취소"
+   },
+   "t4_directDlLable": {
+      "message": "다음 번에는 브라우저로 직접 다운로드하세요"
+   },
+   "t4_disclaimDesc": {
+      "message": "CocoCut은 개인 사용자만을 위한 것이며, 사용자가 다운로드한 파일에 대해서는 책임지지 않습니다. 사용 전 저작권을 확인하는 것이 좋습니다."
+   },
+   "t4_dlHlsInfo": {
+      "message": "TS 파일 인덱스를 가져오려고 시도 중입니다. 이 상태가 오래 지속되면 다음을 사용해 보세요:"
+   },
+   "t4_dlVaccelerate": {
+      "message": "Pro 사용자를 위해 다운로드 속도를 가속화하고 있습니다."
+   },
+   "t4_failedDlModalContent": {
+      "message": "\u003Cp>현재 다운로드 중인 비디오의 일부 세그먼트를 정상적으로 다운로드하거나 병합할 수 없어, CocoCut이 비디오 다운로드에 실패할 수 있습니다.\u003C/p>\u003Cp>웹페이지 오른쪽 상단의 \"녹화 모드\"를 시도해 볼 수 있지만 성공을 보장할 수 없습니다.\u003C/p>"
+   },
+   "t4_failedDlModalTitle": {
+      "message": "다운로드에 문제가 발생했습니다."
+   },
+   "t4_filesaved": {
+      "message": "파일이 하드 드라이브에 저장되었습니다. 캐시된 데이터는 삭제됩니다."
+   },
+   "t4_goToIndexShare": {
+      "message": "지금 바로 공유하세요."
+   },
+   "t4_hlsBottomVote": {
+      "message": "이 앱이 마음에 드시면, 확장 프로그램 스토어에서 5점 평가를 주세요. 저희가 더 나아질 수 있도록 도와주세요 :)"
+   },
+   "t4_hlsBottomVoteBtn": {
+      "message": "지금 평가하기"
+   },
+   "t4_hlsBottomeShare": {
+      "message": "이 앱이 마음에 드시면, 친구들과 공유해주세요 :)"
+   },
+   "t4_important": {
+      "message": "중요!"
+   },
+   "t4_importantDesc": {
+      "message": "다운로드 중에는 이 페이지를 닫지 마세요."
+   },
+   "t4_importantDesc2": {
+      "message": "비디오 녹화가 시작되었습니다. 비디오 재생 페이지를 닫지 말고 비디오를 계속 재생하세요."
+   },
+   "t4_incache": {
+      "message": "캐싱 중"
+   },
+   "t4_loadingNotice": {
+      "message": "로딩 중..."
+   },
+   "t4_maxRecTimeLimit": {
+      "message": "죄송합니다. 최대 녹화 시간이 초과되었습니다. Pro 사용자로 로그인하여 제한을 해제하세요."
+   },
+   "t4_maxRecTimeLimitAware": {
+      "message": "비Pro 사용자는 녹화 시간에 제한이 있습니다."
+   },
+   "t4_nxtTReview": {
+      "message": "다음에요"
+   },
+   "t4_oauth2gDrive": {
+      "message": "Google Drive 인증"
+   },
+   "t4_oauth2gDriveContent": {
+      "message": "Google Drive에 비디오를 저장하려면, 확장 프로그램이 Google Drive 계정에 접근할 수 있도록 인증이 필요합니다."
+   },
+   "t4_oauth2gDriveNote": {
+      "message": "Google Drive 서비스에 접근할 수 있는지 확인해주세요."
+   },
+   "t4_okBtn": {
+      "message": "확인"
+   },
+   "t4_okReview": {
+      "message": "좋아요!"
+   },
+   "t4_recModeForProAware": {
+      "message": "녹화 모드는 Pro 기능으로 제한된 시간 동안 무료로 체험할 수 있습니다."
+   },
+   "t4_recordCached": {
+      "message": "녹화 모드에서는 재생 중인 비디오의 모든 버퍼링된 부분이 녹화됩니다. 비디오 재생 페이지에서 빨리 감기를 시도하거나, 버퍼의 끝으로 진행 바를 드래그하여 녹화 속도를 높일 수 있습니다."
+   },
+   "t4_recordInfo": {
+      "message": "녹화하려고 시도했으나 아직 비디오 데이터를 받지 못했습니다. 비디오가 재생 상태인지 확인하세요."
+   },
+   "t4_recordingMode": {
+      "message": "녹화 모드"
+   },
+   "t4_removeAds": {
+      "message": "광고를 보고 싶지 않아요"
+   },
+   "t4_save2diskLabel": {
+      "message": "하드 드라이브에 저장"
+   },
+   "t4_save2diskTitle": {
+      "message": "다운로드 시 파일은 하드 드라이브에 직접 저장되며, 메모리를 차지하지 않고 브라우저의 2GB 메모리 제한을 우회합니다. 대용량 파일이나 실시간 스트리밍 비디오 다운로드에 적합합니다."
+   },
+   "t4_setAutoFixMp4": {
+      "message": "비디오 파일 자동 수정"
+   },
+   "t4_setAutoFixMp4Div": {
+      "message": "'재생/빠르게 감기 불가' 비디오 파일을 자동으로 수정"
+   },
+   "t4_speedUpLabel": {
+      "message": "녹화 속도 가속"
+   },
+   "t4_speedUpTitle": {
+      "message": "가능한 경우 녹화 모드에서 비디오 재생 속도를 높여 녹화 속도를 가속화합니다. 비디오 재생 페이지에서 'Ctrl + >'와 'Ctrl + \u003C'를 사용하면 재생 속도가 변경됩니다."
+   },
+   "t4_switchRecMode": {
+      "message": "비디오 다운로드 모드 전환"
+   },
+   "t4_switchRecModeContent": {
+      "message": "\u003Cp>확인을 클릭하여 녹화 모드로 전환하세요.\u003C/p>\u003Cp>알림: 1. 이 페이지를 닫지 마세요. 2. 비디오 페이지를 열어두고 비디오를 계속 재생하세요.\u003C/p>"
+   },
+   "t4_title": {
+      "message": "CocoCut 다운로드 확장 프로그램"
+   },
+   "t4_vSavedToLoc": {
+      "message": "비디오 파일이 브라우저의 기본 다운로드 위치에 저장되었습니다."
+   },
+   "t5_ConfirmSelectAudio": {
+      "message": "비디오가 아직 저장되지 않았습니다. 먼저 오디오를 다운로드하시겠습니까?"
+   },
+   "t5_Tm3u8EstimateSize": {
+      "message": "파일 크기 추정"
+   },
+   "t5_allocateErrorContent": {
+      "message": "브라우저가 파일을 저장할 내부 저장소에 충분한 공간을 할당할 수 없습니다. 하드 디스크 공간을 확보하고 다운로드를 다시 시작하십시오."
+   },
+   "t5_allocateErrorTitle": {
+      "message": "내부 저장소에 공간을 할당할 수 없습니다"
+   },
+   "t5_highestResSelected": {
+      "message": "최고 해상도 영상이 자동으로 선택되었습니다."
+   },
+   "t5_needUseHighDlBtn": {
+      "message": "다운로드 속도 향상"
+   },
+   "t5_over2g": {
+      "message": "파일이 2GB를 초과했습니다. 브라우저 메모리 제한으로 인해 다운로드가 불완전하거나 실패할 수 있습니다. 다음을 시도해 보세요: $1. 이는 브라우저의 제한으로 우회할 수 없으므로 문제가 계속되면 다른 방법을 고려해 보세요."
+   },
+   "t5_selectHighestResAuto": {
+      "message": "기본적으로 최고 해상도 영상 다운로드"
+   },
+   "t5_streamDownloader_failed": {
+      "message": "하드 디스크에 저장하지 못했습니다. 오류 메시지: $1. 이 웹 페이지를 새로고침한 후 다시 시도해 보세요."
+   },
+   "videoIndexTips": {
+      "message": "조작 가능한 비디오가 선택되지 않음"
+   },
+   "videoTabTips": {
+      "message": "비디오가 포함된 웹페이지가 감지되지 않음"
+   }
+}

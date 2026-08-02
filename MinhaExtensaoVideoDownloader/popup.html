@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>DSL - Video Downloader Extension</title>
+    <link rel="stylesheet" href="popup.css">
+  </head>
+  <body>
+    <header class="popup-header">
+      <div class="brand">
+        <img src="icon-extension.png" alt="" width="42" height="42">
+        <div class="brand-copy">
+          <p class="eyebrow">DSL VIDEO DOWNLOADER</p>
+          <h1>Captura de midia</h1>
+          <p id="status" aria-live="polite">Procurando midias...</p>
+        </div>
+      </div>
+      <button id="rescan" class="icon-button" type="button" title="Varrer pagina novamente" aria-label="Varrer pagina novamente">
+        <span class="refresh-icon" aria-hidden="true"></span>
+      </button>
+    </header>
+
+    <nav class="view-tabs" role="tablist" aria-label="Visualizacao">
+      <button id="mediaTab" class="view-tab active" type="button" role="tab" aria-selected="true" aria-controls="mediaView">
+        <span class="media-tab-icon" aria-hidden="true"></span>
+        <span>Midias</span>
+        <span id="mediaCount" class="tab-count">0</span>
+      </button>
+      <button id="downloadsTab" class="view-tab" type="button" role="tab" aria-selected="false" aria-controls="downloadsView">
+        <span class="downloads-tab-icon" aria-hidden="true"></span>
+        <span>Downloads</span>
+        <span id="downloadsCount" class="tab-count">0</span>
+      </button>
+    </nav>
+
+    <nav id="mediaToolbar" class="toolbar" aria-label="Filtros da lista">
+      <span class="toolbar-label">MIDIAS DETECTADAS</span>
+      <button id="toggleAll" class="filter-button" type="button" title="Mostrar segmentos, imagens e recursos auxiliares">
+        <span class="eye-icon" aria-hidden="true"></span>
+        <span class="filter-label">Mostrar tudo</span>
+      </button>
+    </nav>
+
+    <main>
+      <section id="mediaView" class="view-panel" role="tabpanel" aria-labelledby="mediaTab">
+        <div id="list"></div>
+      </section>
+      <section id="downloadsView" class="view-panel" role="tabpanel" aria-labelledby="downloadsTab" hidden>
+        <div id="downloadsList"></div>
+      </section>
+    </main>
+
+    <footer>
+      <button id="clear" class="clear-button" type="button" title="Limpar lista desta aba">
+        <span class="trash-icon" aria-hidden="true"></span>
+        <span>Limpar lista</span>
+      </button>
+      <div class="engine-control">
+        <button id="engineStatus" class="engine-status" type="button" data-state="checking" title="Verificando integracao local">
+          <span aria-hidden="true"></span>
+          <span class="engine-label">Verificando FFmpeg</span>
+        </button>
+        <button id="runInstaller" class="engine-play" type="button" title="Executar instalador" aria-label="Executar instalador" disabled hidden>
+          <img src="win-play.png" alt="" width="16" height="16">
+        </button>
+      </div>
+    </footer>
+
+    <script type="module" src="popup.js"></script>
+  </body>
+</html>

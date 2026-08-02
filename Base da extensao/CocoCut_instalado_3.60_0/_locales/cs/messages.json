@@ -1,0 +1,1114 @@
+{
+   "Aria2Text": {
+      "message": "Formát Aria2"
+   },
+   "DownText": {
+      "message": "Stáhnout jako textový soubor"
+   },
+   "Refresh": {
+      "message": "Obnovit"
+   },
+   "ResetExt": {
+      "message": "Obnovit"
+   },
+   "Resolution": {
+      "message": "Rozlišení"
+   },
+   "SaveExt": {
+      "message": "Uložit všechna nastavení"
+   },
+   "T2_advanceOptions": {
+      "message": "Možnosti záznamu"
+   },
+   "T2_audioBits": {
+      "message": "Datový tok zvuku"
+   },
+   "T2_errMsgBegin": {
+      "message": "Chyba:"
+   },
+   "T2_maxCaputureTime": {
+      "message": "Je nám líto, ale bylo dosaženo maximálního limitu doby záznamu. Klikněte prosím na mě a přihlaste se jako uživatel Pro, abyste limit odstranili."
+   },
+   "T2_preview": {
+      "message": "Náhled videa"
+   },
+   "T2_recordEncoding": {
+      "message": "Kódování videa"
+   },
+   "T2_selectVideo": {
+      "message": "Vyberte video (po spuštění záznamu se vygeneruje náhled, aby se potvrdilo, zda se jedná o cílové video pro uživatele Pro)."
+   },
+   "T2_startRecording": {
+      "message": "Spustit záznam"
+   },
+   "T2_stopRecording": {
+      "message": "Zastavit záznam"
+   },
+   "T2_videoBits": {
+      "message": "Datový tok videa"
+   },
+   "TAudio": {
+      "message": "Zvuk"
+   },
+   "TCloseBtn": {
+      "message": "Zavřít"
+   },
+   "TContinueRec": {
+      "message": "Pokračovat v režimu nahrávání?"
+   },
+   "TErrorNoAudio": {
+      "message": "Je nám líto, nebyl nalezen žádný zvuk."
+   },
+   "TErrorNoVideo": {
+      "message": "Je nám líto, nebylo nalezeno žádné video. Možná můžete zkusit režim nahrávání."
+   },
+   "TRecording": {
+      "message": "Nahrávání."
+   },
+   "TbadgetTitle": {
+      "message": "Nalezeno $MEDIA_COUNT$ mediálních souborů.",
+      "placeholders": {
+         "MEDIA_COUNT": {
+            "content": "$1"
+         }
+      }
+   },
+   "TbgIsDownloading": {
+      "message": "Média této stránky se stahují."
+   },
+   "TbgTryLater": {
+      "message": "Je nám líto, stahování je dočasně nedostupné. Zkuste to prosím později nebo obnovte stránku a zkuste to znovu."
+   },
+   "Tcopy": {
+      "message": "Kopírovat adresu URL"
+   },
+   "TcopySelected": {
+      "message": "Kopírovat vybrané"
+   },
+   "TcustomAdd": {
+      "message": "Přidat další"
+   },
+   "TcustomAddMine": {
+      "message": "Přidat další"
+   },
+   "TcustomBlockedDomainEmpty": {
+      "message": "Název domény, kterou chcete blokovat, nemůže být prázdný"
+   },
+   "TcustomBlockedDomainExample": {
+      "message": "Formát názvu domény by měl být jako:"
+   },
+   "TcustomBlockedDomainPlaceholder": {
+      "message": "Zadejte název domény, kterou chcete blokovat"
+   },
+   "TcustomBlockedDomains": {
+      "message": "Blokované domény"
+   },
+   "TcustomBlockedDomainsDec": {
+      "message": "Soubory z následujících domén se v seznamu stahování nezobrazí."
+   },
+   "TcustomComfirmRest": {
+      "message": "Potvrdit reset? Po resetování ztratíte všechna předchozí nastavení!"
+   },
+   "TcustomCtDec": {
+      "message": "Některé mediální soubory používají neobvyklé přípony a je třeba je posoudit podle MIME. \u003Ca href=\"https://developer.chrome.com/extensions/i18n\" target=\"_blank\">Seznam typů MIME.\u003C/a> Podporuje zástupné znaky, nejprve se shodují přípony."
+   },
+   "TcustomCtMIME": {
+      "message": "MIME"
+   },
+   "TcustomDebug": {
+      "message": "Režim ladění"
+   },
+   "TcustomExt": {
+      "message": "Vlastní přípona souboru"
+   },
+   "TcustomExtDec": {
+      "message": "Vyplňte příponu bez \".\". \u003Cbr/>Soubory větší než tato velikost budou procházeny. \u003Cbr/>Vyplnění 0 bude procházet bez ohledu na velikost souboru.\u003Cbr/>Pokud chcete ignorovat určitý typ souboru, zrušte zaškrtnutí políčka \"Zapnuto\".\u003Cbr/>Některé soubory zdrojů, které nejsou médii, nebudou procházeny."
+   },
+   "TcustomExtName": {
+      "message": "Přípona souboru"
+   },
+   "TcustomExtNameEmpty": {
+      "message": "Přípona souboru nemůže být prázdná."
+   },
+   "TcustomExtSize": {
+      "message": "Limit velikosti"
+   },
+   "TcustomMaxDisplayCount": {
+      "message": "Kolik souborů se zobrazí na vyskakovací stránce"
+   },
+   "TcustomMineEmpty": {
+      "message": "MIME nemůže být prázdný."
+   },
+   "TcustomOt": {
+      "message": "Ostatní"
+   },
+   "TcustomOtFilename": {
+      "message": "Při stahování použít název stránky jako název souboru."
+   },
+   "TcustomOtIgnore": {
+      "message": "Ignorovat parametry (vyhnout se duplicitám)"
+   },
+   "TcustomOtIgnoreDec": {
+      "message": "Některé mediální soubory obsahují parametry. Zaškrtněte 'Ignorovat parametry' a odfiltrujte duplicitní data."
+   },
+   "TcustomOtReg": {
+      "message": "Regulární výraz, který odpovídá parametrům videa. Pokud nerozumíte regulárním výrazům, vyhněte se jejich úpravám. K obnovení výchozího nastavení můžete použít 'Obnovit'."
+   },
+   "TcustomSaved": {
+      "message": "Uloženo"
+   },
+   "TcustomSetting": {
+      "message": "Nastavení CocoCut"
+   },
+   "TcustomShowCountOnIcon": {
+      "message": "Zobrazit počet souborů na ikoně rozšíření CocoCut"
+   },
+   "TcustomTypeIgn": {
+      "message": "Pokud chcete ignorovat určitý typ souboru, zrušte zaškrtnutí políčka \"Zapnuto\"."
+   },
+   "TdlmDownload": {
+      "message": "Otevřete novou stránku pro správu stahování a stahujte pomocí více vláken (a nastavte ji jako výchozí metodu stahování)."
+   },
+   "Tdone": {
+      "message": "Hotovo."
+   },
+   "TdownSelected": {
+      "message": "Stáhnout vybrané"
+   },
+   "Tdownload": {
+      "message": "Stáhnout"
+   },
+   "TdownloadPlus": {
+      "message": "Pokročilý režim stahování"
+   },
+   "TerrFailDownload": {
+      "message": "Nepodařilo se stáhnout soubor."
+   },
+   "TerrItself": {
+      "message": "Chyba."
+   },
+   "TerrNoAvailableDownload": {
+      "message": "Je nám líto, ale nemůžeme najít žádné dostupné video ke stažení."
+   },
+   "TerrNoIndexFile": {
+      "message": "Je nám líto, ale nemůžeme stáhnout indexový soubor pro videosoubory."
+   },
+   "TerrTryToRec": {
+      "message": "Možná můžete zkusit \u003Ca href=\"javascript:void(0)\" id=\"errTryToRec\">Režim nahrávání\u003C/a>?"
+   },
+   "Text": {
+      "message": "Textový formát"
+   },
+   "ThlsCloseVideoPageRetry": {
+      "message": "Možná bude nutné zavřít webovou stránku s videem, znovu ji otevřít a zkusit to znovu."
+   },
+   "ThlsGoToMergeAV": {
+      "message": "Poté přejděte na sloučení zvuku a videa:"
+   },
+   "ThlsLiveDurationLimit": {
+      "message": "Jejda! Překročili jste maximální limit doby trvání. \u003Ca class='btn btn-primary up2pro-btn'>Upgradujte na Pro\u003C/a> a užijte si neomezený čas a odemkněte další úžasné funkce!"
+   },
+   "ThlsNeedSelectAudio": {
+      "message": "Pokud ve videu není žádný zvuk, stáhněte si prosím:"
+   },
+   "ThlsSegmentsDlFaile": {
+      "message": "Nepodařilo se stáhnout $failedCount$ segmentů, kliknutím to zkuste znovu",
+      "placeholders": {
+         "failedCount": {
+            "content": "$1",
+            "example": "8"
+         }
+      }
+   },
+   "Tloading": {
+      "message": "Načítání."
+   },
+   "Tm3Des1": {
+      "message": "Pokud nelze analyzovaný soubor ts stáhnout, zkuste dekódování UrlDecode."
+   },
+   "Tm3Des2": {
+      "message": "Příkaz pro sloučení souborů ts Ffmpeg: ffmpeg -i xxx.m3u8 -vcodec copy -acodec copy xxx.mp4"
+   },
+   "Tm3FileCount": {
+      "message": " souborů"
+   },
+   "Tm3FileUri": {
+      "message": "Adresa URL souboru M3u8"
+   },
+   "Tm3Key": {
+      "message": ", mediální soubor je zašifrován, stáhněte si prosím soubor s klíčem."
+   },
+   "Tm3Nexm3Des": {
+      "message": "V souboru m3u8 je vnořen další soubor m3u8."
+   },
+   "Tm3Nextm3file": {
+      "message": "Vyberte soubor m3u8 další úrovně"
+   },
+   "Tm3PageTile": {
+      "message": "Analýza souboru m3u8"
+   },
+   "Tm3u8": {
+      "message": "Stáhnout m3u8"
+   },
+   "Tm3u8AdvancedParser": {
+      "message": "pokročilý analyzátor m3u8"
+   },
+   "Tm3u8BeenSaved2HardDisk": {
+      "message": "Byl uložen na pevný disk, zkontrolujte prosím stažený obsah v prohlížeči"
+   },
+   "Tm3u8Bitrate": {
+      "message": "Datový tok"
+   },
+   "Tm3u8CanNotDealSampleAES": {
+      "message": "Zdroje zašifrované pomocí SAMPLE-AES-CTR nelze v současné době zpracovat."
+   },
+   "Tm3u8CanNotModiSet": {
+      "message": "Překódování je povoleno, toto nastavení nelze změnit"
+   },
+   "Tm3u8CustomKey": {
+      "message": "vlastní klíč"
+   },
+   "Tm3u8CustomKeyInputP": {
+      "message": "Vlastní klíč v šestnáctkové soustavě nebo base64 nebo adresa klíče"
+   },
+   "Tm3u8CustomeKeyOffsetV": {
+      "message": "vlastní posun"
+   },
+   "Tm3u8DataBeingConvert": {
+      "message": "Data se převádějí do formátu..."
+   },
+   "Tm3u8DataIsBeMerged": {
+      "message": "Data se slučují..."
+   },
+   "Tm3u8DlAndMerge": {
+      "message": "Stáhnout a sloučit"
+   },
+   "Tm3u8DlDescDlMpdQuik": {
+      "message": "Analyzovaná adresa URL pro stažení brzy přestane platit, stáhněte si ji co nejdříve. Pokud se stahování nezdaří, vraťte se na stránku přehrávání videa a kliknutím na ikonu CocoCut ji znovu analyzujte."
+   },
+   "Tm3u8DlExistData": {
+      "message": "Stáhnout existující data"
+   },
+   "Tm3u8DlFailedTryAgain": {
+      "message": "Stahování se nezdařilo...zkuste to znovu"
+   },
+   "Tm3u8DlRange": {
+      "message": "Rozsah stahování"
+   },
+   "Tm3u8DlRec": {
+      "message": "Stáhnout nahrávku"
+   },
+   "Tm3u8DlThreads": {
+      "message": "Počet vláken stahování"
+   },
+   "Tm3u8Downloaded": {
+      "message": "Staženo:"
+   },
+   "Tm3u8EncodedDoc": {
+      "message": "kódované dokumenty"
+   },
+   "Tm3u8Encrypted": {
+      "message": "Zašifrováno"
+   },
+   "Tm3u8ErrInParseM3u8": {
+      "message": "Při analýze nebo přehrávání souboru m3u8 došlo k chybě"
+   },
+   "Tm3u8FailedDecrypt": {
+      "message": "Dešifrování se nezdařilo."
+   },
+   "Tm3u8FileLoading": {
+      "message": "Soubor se načítá..."
+   },
+   "Tm3u8FormatErrCanclemp4": {
+      "message": "Chyba převodu formátu, zrušte prosím převod mp4, stáhněte znovu."
+   },
+   "Tm3u8HttpNotAllow": {
+      "message": "Tato funkce vyžaduje https"
+   },
+   "Tm3u8ImcompleteData": {
+      "message": "Neúplná data... Některé soubory zůstaly nestažené."
+   },
+   "Tm3u8IncorrKey": {
+      "message": "Nesprávný klíč"
+   },
+   "Tm3u8InitFrag": {
+      "message": "Inicializační fragment"
+   },
+   "Tm3u8KeyDlFail": {
+      "message": "Stažení klíče se nezdařilo"
+   },
+   "Tm3u8KeyErr": {
+      "message": "Soubor je nesprávný:"
+   },
+   "Tm3u8LiveStream": {
+      "message": "Živý přenos"
+   },
+   "Tm3u8M3u8FileAddr": {
+      "message": "adresa souboru m3u8"
+   },
+   "Tm3u8MergeCheckStEnd": {
+      "message": "Počáteční pořadové číslo nemůže být větší než koncové pořadové číslo"
+   },
+   "Tm3u8MergeCompleteWait": {
+      "message": "Sloučení je dokončeno, čeká se na dokončení stahování prohlížečem...(Věnujte prosím pozornost procesu stahování prohlížeče)"
+   },
+   "Tm3u8MergeSeqExceed": {
+      "message": "Pořadové číslo nemůže překročit"
+   },
+   "Tm3u8NestMultSubs": {
+      "message": "Vnořit více titulků"
+   },
+   "Tm3u8NestMultSubsDesc": {
+      "message": "V souboru m3u8 je vnořeno více titulků"
+   },
+   "Tm3u8NestMultipleaudio": {
+      "message": "Vnořit více zvukových souborů"
+   },
+   "Tm3u8NestMultipleaudioDesc": {
+      "message": "V souboru m3u8 je vnořeno více zvukových souborů"
+   },
+   "Tm3u8Nestedfiles": {
+      "message": "Vnořené soubory"
+   },
+   "Tm3u8NestedfilesDesc": {
+      "message": "V tomto souboru m3u8 je vnořeno více souborů m3u8"
+   },
+   "Tm3u8NoAudio": {
+      "message": "Žádný zvuk"
+   },
+   "Tm3u8NoSupport": {
+      "message": "Nepodporuje"
+   },
+   "Tm3u8NoVideo": {
+      "message": "Žádné video"
+   },
+   "Tm3u8OpenDlDir": {
+      "message": "Otevřít adresář pro stahování"
+   },
+   "Tm3u8PlayList": {
+      "message": "seznam skladeb m3u8"
+   },
+   "Tm3u8PushingStream": {
+      "message": "Odesílání streamu, po zavření se stahování zastaví..."
+   },
+   "Tm3u8RangeEnd": {
+      "message": "Konec rozsahu"
+   },
+   "Tm3u8RangeStart": {
+      "message": "Začátek rozsahu"
+   },
+   "Tm3u8ReDlErr": {
+      "message": "Zkusit znovu při chybě stahování"
+   },
+   "Tm3u8ReDling": {
+      "message": "Probíhá opětovné stahování..."
+   },
+   "Tm3u8RecLive": {
+      "message": "Nahrát živé video"
+   },
+   "Tm3u8RecLiveVideo": {
+      "message": "Nahrát živé video"
+   },
+   "Tm3u8RecordingTime": {
+      "message": "Doba nahrávání:"
+   },
+   "Tm3u8Redownload": {
+      "message": "Stáhnout znovu"
+   },
+   "Tm3u8RefererAdd": {
+      "message": "Přidat"
+   },
+   "Tm3u8RefererDelete": {
+      "message": "Smazat"
+   },
+   "Tm3u8RefererRetry": {
+      "message": "zkuste to znovu"
+   },
+   "Tm3u8ReqFfmpegTrans": {
+      "message": "Vyžaduje překódování ffmpeg"
+   },
+   "Tm3u8Resolution": {
+      "message": "Rozlišení"
+   },
+   "Tm3u8RetryDlErr": {
+      "message": "Zkusit znovu všechny neúspěšné položky"
+   },
+   "Tm3u8SaveAs": {
+      "message": "Uložit jako"
+   },
+   "Tm3u8SaveAsMp4": {
+      "message": "Uložit ve formátu mp4"
+   },
+   "Tm3u8SaveCusName": {
+      "message": "Uložit s vlastním názvem souboru"
+   },
+   "Tm3u8SaveOnlyAudio": {
+      "message": "Uložit pouze formát zvuku"
+   },
+   "Tm3u8StopDl": {
+      "message": "Zastavit stahování"
+   },
+   "Tm3u8StopDlStream": {
+      "message": "Zastavit stahování streamu"
+   },
+   "Tm3u8StopRec": {
+      "message": "Zastavit nahrávání"
+   },
+   "Tm3u8StreamSave": {
+      "message": "Uložit na pevný disk během stahování"
+   },
+   "Tm3u8TotalFragCount": {
+      "message": "Celkový počet fragmentů souborů:"
+   },
+   "Tm3u8TotalTime": {
+      "message": "Celkový čas:"
+   },
+   "Tm3u8Upload": {
+      "message": "Nebo, Nahrát"
+   },
+   "Tm3u8VideoResolution": {
+      "message": "Rozlišení"
+   },
+   "Tm3u8VideoTime": {
+      "message": "Doba trvání"
+   },
+   "Tm3u8WaitLiveData": {
+      "message": "Čekání na živá data..."
+   },
+   "Tm3u8WrongKeyType": {
+      "message": "Nesprávný typ klíče"
+   },
+   "Tm3u8downloadOptions": {
+      "message": "Možnosti stahování"
+   },
+   "Tm3u8skipDecryption": {
+      "message": "Přeskočit dešifrování"
+   },
+   "Tm3u8stopDl": {
+      "message": "Zastavit stahování"
+   },
+   "TmediaCNormalspeed": {
+      "message": "Normální rychlost"
+   },
+   "TmediaCSelWebpage": {
+      "message": "Vybrat webovou stránku"
+   },
+   "TmediaCfullscreen": {
+      "message": "Celá obrazovka"
+   },
+   "TmediaCpause": {
+      "message": "Pozastavit"
+   },
+   "TmediaCpip": {
+      "message": "Obraz v obraze"
+   },
+   "TmediaCpipQuit": {
+      "message": "Ukončit obraz v obraze"
+   },
+   "TmediaCplay": {
+      "message": "Přehrát"
+   },
+   "TmediaCplayTime": {
+      "message": "Doba přehrávání"
+   },
+   "TmediaCscreenshot": {
+      "message": "Snímek obrazovky"
+   },
+   "TmediaCselMedia": {
+      "message": "Vybrat video"
+   },
+   "TmediaCspeed": {
+      "message": "Přehrávat vlastní rychlostí"
+   },
+   "TmediaCvolumn": {
+      "message": "Hlasitost"
+   },
+   "TmediaLoop": {
+      "message": "Smyčka"
+   },
+   "TmedianCMuted": {
+      "message": "Ztlumit"
+   },
+   "TmpdDrmProtect": {
+      "message": "Média jsou chráněna DRM a nemusí být možné je stáhnout a přehrát. Pro ně neexistuje žádná funkce analýzy a dešifrování šifrování, zkopírujte prosím adresu souboru mpd a ke stažení použijte nástroj třetí strany."
+   },
+   "TmpdInitSeg": {
+      "message": "inicializační segment"
+   },
+   "TmpdMPdFileAddr": {
+      "message": "adresa souboru"
+   },
+   "TmpdParser": {
+      "message": "Analyzátor"
+   },
+   "TmpdSelectAudio": {
+      "message": "Vybrat zvuk"
+   },
+   "TmpdSelectVideo": {
+      "message": "Vybrat video"
+   },
+   "TmpdTotalFilesCount": {
+      "message": "Celkový počet souborů"
+   },
+   "TmpdVideo": {
+      "message": "Video"
+   },
+   "TnoResource": {
+      "message": "Nebyl zjištěn žádný soubor!"
+   },
+   "TopenAdvanceModalDesc": {
+      "message": "Doporučuje se použít tento režim, pokud se stahování nezdaří, stažený soubor je nesprávný nebo velikost souboru přesahuje 2G."
+   },
+   "TopenAdvanceModeBtn": {
+      "message": "Otevřít pokročilý režim stahování"
+   },
+   "Tplay": {
+      "message": "Přehrát"
+   },
+   "TpopBlockDomain": {
+      "message": "Blokovat zobrazování souborů z této domény v seznamu stahování"
+   },
+   "TpopBlockedDomainNotify": {
+      "message": "Soubory z níže uvedené domény se v seznamu stahování nezobrazí."
+   },
+   "TpopDlDash": {
+      "message": "Stáhnout DASH/MPD"
+   },
+   "TpopGetProBtn": {
+      "message": "Získejte pokročilé funkce, jako je \"zrychlené stahování\"."
+   },
+   "TpopHomePageBtn": {
+      "message": "Domovská stránka CocoCut"
+   },
+   "TpopM3u8Des": {
+      "message": "Stream"
+   },
+   "TpopNeedPlayit": {
+      "message": " Možná budete muset nejprve přehrát video, abyste pomohli CocoCut ho najít."
+   },
+   "TpopNeedPlayit2": {
+      "message": "Některá videa je nutné nejprve začít přehrávat, než je lze stáhnout. Nebo můžete kliknout na tlačítko \"Vynutit stažení\"."
+   },
+   "TpopNotSuppWhy": {
+      "message": "Klikněte na mě a podívejte se, proč a jaké je možné řešení."
+   },
+   "TpopNotSupport": {
+      "message": "Je nám líto, tato webová stránka není podporována."
+   },
+   "TpopOptionBtn": {
+      "message": "Nastavení stahování"
+   },
+   "TpopQuestionBtn": {
+      "message": "Zpětná vazba a časté dotazy"
+   },
+   "TpopRealDlAddr": {
+      "message": "Klikněte na mě a staňte se členem Pro, abyste získali odkaz ke stažení."
+   },
+   "TpopTab2Desc": {
+      "message": "Pro video a zvuk, které neodpovídají webovým standardům, je lze detekovat některými jinými metodami, jako je \"Emulovat mobilní telefon\", \"Hloubkové vyhledávání\" atd."
+   },
+   "TpopTooManyFiles": {
+      "message": "Příliš mnoho souborů k zobrazení. Můžete nastavit, kolik souborů se má zobrazit pomocí:"
+   },
+   "TpopYTDLdesc": {
+      "message": "Pokud jste na stránce sledování YouTube, můžete zkusit stáhnout video z YouTube."
+   },
+   "TpopYTDLdlIt": {
+      "message": "Zkusit stáhnout video z YouTube"
+   },
+   "TpopdeepSearch": {
+      "message": "Hloubkové vyhledávání"
+   },
+   "TpopdeepSearchOff": {
+      "message": "Vypnout hloubkové vyhledávání"
+   },
+   "TpopdeepSearch_TT": {
+      "message": "Hloubkové vyhledávání nestandardních mediálních souborů, což výrazně zvyšuje pravděpodobnost detekce."
+   },
+   "TpopemulateCellphone": {
+      "message": "Emulovat mobilní telefon"
+   },
+   "TpopemulateCellphone_TT": {
+      "message": "Některé webové stránky poskytují mediální soubory kompatibilní s webem pro mobilní zařízení."
+   },
+   "TpoprecordScreen": {
+      "message": "Záznamník obrazovky"
+   },
+   "TpoprecordScreenOff": {
+      "message": "Vypnout záznamník obrazovky"
+   },
+   "TpoprecordScreen_TT": {
+      "message": "Přímé nahrávání obrazovky, podobné videokameře zachycující obrazovku."
+   },
+   "TpopupTab1": {
+      "message": "Seznam stahování"
+   },
+   "TpopupTab2": {
+      "message": "Funkce Pro"
+   },
+   "TpopupTab3": {
+      "message": "Ovládání videa"
+   },
+   "TrevSelected": {
+      "message": "Inverzní výběr"
+   },
+   "TryHlsDesc": {
+      "message": "CocoCut se pokusí stáhnout nebo nahrát video. Pokud nelze video na aktuální webové stránce detekovat nebo je obtížné jej stáhnout, klikněte sem a zkuste to."
+   },
+   "TselectAll": {
+      "message": "Vybrat vše"
+   },
+   "TssCloseRecArea": {
+      "message": "Vypnout záznamník obrazovky"
+   },
+   "TssDrapRecArea": {
+      "message": "Přesouvání oblasti nahrávání"
+   },
+   "TssNotAllowShare": {
+      "message": "Aktuální stránka nepodporuje sdílení obrazovky"
+   },
+   "TssStartRec": {
+      "message": "Spustit nahrávání"
+   },
+   "TssStartRecord": {
+      "message": "Spustit nahrávání"
+   },
+   "TssStopRec": {
+      "message": "Zastavit nahrávání"
+   },
+   "TswichtRecMode": {
+      "message": "Přepnout do režimu nahrávání videa"
+   },
+   "TtempntcInfoCopied": {
+      "message": "Zkopírováno!"
+   },
+   "TtoFaq": {
+      "message": "Přejděte na časté dotazy a zjistěte, zda lze problém vyřešit."
+   },
+   "TtryHls": {
+      "message": "Vynutit stažení"
+   },
+   "TtryHlsLabel": {
+      "message": "Máte potíže se stahováním nebo nebyl zjištěn žádný soubor?"
+   },
+   "TtryPlay": {
+      "message": "Zkusit přehrát"
+   },
+   "TtryRecMode": {
+      "message": "Nelze najít video ke stažení, možná to můžete zkusit v režimu nahrávání?"
+   },
+   "UrlDecode": {
+      "message": "Dekódování UrlDecode"
+   },
+   "WgetText": {
+      "message": "Formát Wget"
+   },
+   "customNavIEbtns": {
+      "message": "Importovat/Exportovat nastavení"
+   },
+   "exportSettingBtn": {
+      "message": "Exportovat do místního souboru"
+   },
+   "extDescription": {
+      "message": "Nejlepší rozšíření pro stahování videa Chrome, tento stahovač videa pro Chrome může stahovat video, hudbu zdarma, bezpečně jedním..."
+   },
+   "extName": {
+      "message": "stahovač videa - CocoCut"
+   },
+   "importSettingBtn": {
+      "message": "Importovat z místního souboru"
+   },
+   "importSettingsCancelBtn": {
+      "message": "Zrušit"
+   },
+   "importSettingsFilelabel": {
+      "message": "Vyberte soubor nastavení CocoCut…"
+   },
+   "importSettingsFilename": {
+      "message": "Nebyl vybrán žádný soubor"
+   },
+   "importSettingsOkBtn": {
+      "message": "OK"
+   },
+   "importSettingsWarning": {
+      "message": "Upozornění: tímto nahradíte všechna aktuální nastavení."
+   },
+   "modalCancelBtn": {
+      "message": "Zrušit"
+   },
+   "modalOkBtn": {
+      "message": "OK"
+   },
+   "popemulateCellphoneOff": {
+      "message": "Vypnout emulaci mobilního telefonu"
+   },
+   "subtitle": {
+      "message": "Titulky"
+   },
+   "t2_Loading": {
+      "message": "Načítání..."
+   },
+   "t2_captureStoped": {
+      "message": "Záznam zastaven"
+   },
+   "t2_captureStreamFailed": {
+      "message": "Video může být chráněno autorskými právy a stahování je zakázáno."
+   },
+   "t2_clickToStartRecording": {
+      "message": "Vyberte prosím cílové video a poté klikněte na: Spustit záznam."
+   },
+   "t2_detectingVideo": {
+      "message": "Hledání videí... (Možná bude nutné nejprve začít přehrávat videa, aby je bylo možné detekovat.)"
+   },
+   "t2_dlM3U8_err": {
+      "message": "chyba, zavřete prosím tuto stránku s videem, znovu ji otevřete a zkuste to znovu."
+   },
+   "t2_formatNotSupported": {
+      "message": "Formát videa není podporován"
+   },
+   "t2_frameRate": {
+      "message": "Snímková frekvence"
+   },
+   "t2_ifCanNotPlay": {
+      "message": "Pokud nemůžete přehrát stažené video, klikněte sem a použijte opravu souborů MP4 k jeho opravě."
+   },
+   "t2_maxTried": {
+      "message": "Video nalezeno, ale nelze jej zaznamenat. Zavřete prosím tuto stránku, přejděte na stránku s videem a zkuste to znovu."
+   },
+   "t2_noVideoDetected": {
+      "message": "Nebylo detekováno žádné video. Možná budete muset nejprve přehrát video, abyste pomohli s jeho objevením."
+   },
+   "t2_noVideoFound": {
+      "message": "Nebylo detekováno žádné video. Možná budete muset nejprve přehrát video, abyste pomohli s jeho objevením."
+   },
+   "t2_recordeModeTip": {
+      "message": "\u003Cstrong>Režim nahrávání\u003C/strong> umožňuje přímo nahrávat videa uložená v mezipaměti na stránce s videem. \u003Ch4>Výhody\u003C/h4> \u003Cul>\u003Cli>Vysoká rychlost nahrávání.\u003C/li>\u003Cli>Podporuje přetáčení dopředu během nahrávání.\u003C/li>\u003C/ul> \u003Ch4>Nevýhody\u003C/h4> \u003Cul>\u003Cli>Některá videa nelze nahrát.\u003C/li>\u003Cli>Občasné problémy s chybějícími segmenty videa nebo zvuku.\u003C/li>\u003C/ul>"
+   },
+   "t2_recording": {
+      "message": "Probíhá záznam"
+   },
+   "t2_recordingChangeEncoding": {
+      "message": "Během záznamu nelze změnit kódování videa."
+   },
+   "t2_recordingFailed": {
+      "message": "Záznam se nezdařil"
+   },
+   "t2_recordingNotSupported": {
+      "message": "Záznam není podporován"
+   },
+   "t2_showSuperRecorderContainerBtn": {
+      "message": "Pokud režim stahování nebo nahrávání selže, můžete zkusit použít režim Záznam:"
+   },
+   "t2_stopRecording": {
+      "message": "Zastavit záznam"
+   },
+   "t2_superRecorderInjectJsBtn": {
+      "message": "Režim záznamu"
+   },
+   "t2_superRecorderInjectJsBtnTip": {
+      "message": "\u003Cstrong>Režim záznamu\u003C/strong> umožňuje nahrávat videa z webových stránek, což usnadňuje ukládání oblíbených položek. \u003Ch4>Výhody\u003C/h4> \u003Cul>\u003Cli>Zaznamenává většinu videí (kromě videí chráněných autorskými právy).\u003C/li>\u003C/ul> \u003Ch4>Nevýhody\u003C/h4> \u003Cul>\u003Cli>Velké velikosti souborů.\u003C/li>\u003Cli>Při záznamu nelze přetáčet dopředu.\u003C/li>\u003Cli>Relativně vysoké hardwarové nároky, může docházet ke zpoždění. (Můžete snížit rozlišení cílového nahrávaného videa, abyste zpoždění snížili.)\u003C/li>\u003C/ul>"
+   },
+   "t2_video": {
+      "message": "Video"
+   },
+   "t2_webrtcStream": {
+      "message": "Videostream WebRTC"
+   },
+   "t3_LimitCaptureDurationNotice": {
+      "message": "Verze, která není Pro, má časový limit nahrávání. Upgradujte na verzi Pro a získejte neomezenou dobu nahrávání. Kliknutím sem upgradujete na verzi Pro."
+   },
+   "t3_LimitSuperRecordDurationNotice": {
+      "message": "Verze, která není Pro, má časový limit snímání. Upgradujte na verzi Pro a získejte neomezenou dobu snímání. Kliknutím sem upgradujete na verzi Pro."
+   },
+   "t3_alt_downloader_desc": {
+      "message": "Pokud se stahování nezdaří, zkuste použít tento alternativní stahovač médií a stáhnout jej znovu."
+   },
+   "t3_alt_media_downloader": {
+      "message": "Alternativní stahovač médií"
+   },
+   "t3_closeAndRetry": {
+      "message": "Zavřete prosím tuto stránku, vraťte se na stránku přehrávání videa a zkuste to znovu."
+   },
+   "t3_dlSpeedNotice": {
+      "message": "\u003Ch4>Chcete urychlit stahování? \u003C/h4>Doporučuje se začít používat pokročilou vícevláknovou technologii vysokorychlostního stahování CocoCut, která může zvýšit rychlost až 6krát."
+   },
+   "t3_dlSpeedNoticeBtn": {
+      "message": "Zapnout vysokorychlostní stahování"
+   },
+   "t3_dlVaccelerateNotPro": {
+      "message": "Použít vícevláknové stahování k urychlení stahování?"
+   },
+   "t3_dlVforceSaveBtn": {
+      "message": "Uložit přímo části uložené v mezipaměti"
+   },
+   "t3_dlVsaveBtn": {
+      "message": "Uložit"
+   },
+   "t3_dlVstartBtn": {
+      "message": "Pokračovat"
+   },
+   "t3_dlVstopAndSaveBtn": {
+      "message": "Zastavit stahování a uložit"
+   },
+   "t3_dlVstopBtn": {
+      "message": "Pozastavit"
+   },
+   "t3_download_complete": {
+      "message": "Stahování dokončeno"
+   },
+   "t3_downloading": {
+      "message": "Stahování..."
+   },
+   "t3_failed_download": {
+      "message": "Nepodařilo se stáhnout soubor:"
+   },
+   "t3_failed_get_info": {
+      "message": "Nepodařilo se získat informace o videu."
+   },
+   "t3_file_name": {
+      "message": "Název souboru:"
+   },
+   "t3_file_size": {
+      "message": "Velikost souboru:"
+   },
+   "t3_loginBtn": {
+      "message": "Přihlásit se"
+   },
+   "t3_proLogined": {
+      "message": "Jste již přihlášeni jako člen Pro, takže abyste nepřerušili svůj postup v tomto stahování, vaše funkce Pro bude povolena při příštím stahování."
+   },
+   "t3_proNoticeContent": {
+      "message": "\u003Cp>Dobrý den, k použití této funkce se musíte přihlásit jako uživatel Pro.\u003C/p>\u003Cp>(Pokud jste již přihlášeni jako uživatel Pro, můžete ji začít používat příště.)\u003C/p>"
+   },
+   "t3_proNoticeTitle": {
+      "message": "Toto je funkce Pro"
+   },
+   "t3_ready_to_download": {
+      "message": "Připraveno ke stažení"
+   },
+   "t3_save2gdrive": {
+      "message": "Uložit na Disk Google"
+   },
+   "t3_start_download": {
+      "message": "Spustit stahování"
+   },
+   "t3_triedSpeedo": {
+      "message": "Konec zkušební verze pro vysokorychlostní stahování uživatele Pro."
+   },
+   "t3_tringSpeedo": {
+      "message": "Zkouším vysokorychlostní stahování pro uživatele Pro"
+   },
+   "t3_tringSpeedyTech": {
+      "message": "Pokouším se použít technologii vysokorychlostního stahování k urychlení stahování!"
+   },
+   "t3_trySpeedo": {
+      "message": "Klikněte sem a vyzkoušejte"
+   },
+   "t3_webpage_title": {
+      "message": "Název webové stránky:"
+   },
+   "t4_Cached": {
+      "message": "Uloženo do mezipaměti"
+   },
+   "t4_Downloaded": {
+      "message": "Staženo!"
+   },
+   "t4_Fetching": {
+      "message": "Načítání informací o souboru ..."
+   },
+   "t4_ProThreads": {
+      "message": "Používání maximálního počtu vláken pro uživatele Pro"
+   },
+   "t4_Profile": {
+      "message": "Profil"
+   },
+   "t4_Retries": {
+      "message": "Opakované pokusy"
+   },
+   "t4_Size": {
+      "message": "Velikost"
+   },
+   "t4_Speed": {
+      "message": "Rychlost"
+   },
+   "t4_Threads": {
+      "message": "Vlákna"
+   },
+   "t4_Timeleft": {
+      "message": "Zbývající čas"
+   },
+   "t4_askReviewTitle": {
+      "message": "Pokud se vám toto rozšíření líbí, dejte nám prosím 5 hvězdiček v obchodě s rozšířeními, abyste nám pomohli být lepšími :), hodně nám to pomůže!"
+   },
+   "t4_askShare": {
+      "message": "Pokud se vám toto rozšíření líbí, sdílejte je se svými přáteli a kolegy!"
+   },
+   "t4_autoSaveLabel": {
+      "message": "Automaticky uložit"
+   },
+   "t4_autoSaveTitle": {
+      "message": "Automaticky uložit po dokončení ukládání do mezipaměti"
+   },
+   "t4_btnClose": {
+      "message": "Zavřít"
+   },
+   "t4_bufferedLabel": {
+      "message": "Části uložené v mezipaměti (po dokončení ukládání do mezipaměti klikněte na \"Uložit\" a uložte na disk):"
+   },
+   "t4_cachedone": {
+      "message": "Mezipaměť je hotová, klikněte prosím na tlačítko \"uložit\" a uložte soubor uložený v mezipaměti na pevný disk."
+   },
+   "t4_cancelBtn": {
+      "message": "Zrušit"
+   },
+   "t4_directDlLable": {
+      "message": "Příště stahovat přímo pomocí prohlížeče"
+   },
+   "t4_disclaimDesc": {
+      "message": "CocoCut je určen pouze pro osobní použití a nenese odpovědnost za soubory stažené uživateli. Před použitím doporučujeme potvrdit autorská práva."
+   },
+   "t4_dlHlsInfo": {
+      "message": "Pokouším se získat index souborů ts. Pokud tento stav přetrvává delší dobu, zkuste použít: "
+   },
+   "t4_dlVaccelerate": {
+      "message": "Pokouším se urychlit stahování pro uživatele Pro."
+   },
+   "t4_failedDlModalContent": {
+      "message": "\u003Cp>Některé segmenty aktuálně stahovaného videa nelze normálně stáhnout ani sloučit, což může způsobit, že Cococut selže při stahování aktuálního videa.\u003C/p>\u003Cp>Stále můžete vyzkoušet \"Režim nahrávání\" v pravém horním rohu webové stránky, ale nemůže zaručit úspěch.\u003C/p>"
+   },
+   "t4_failedDlModalTitle": {
+      "message": "Při stahování došlo k nějakému problému."
+   },
+   "t4_filesaved": {
+      "message": "Soubor byl uložen na váš disk, data uložená v mezipaměti budou smazána."
+   },
+   "t4_goToIndexShare": {
+      "message": "Sdílet nyní."
+   },
+   "t4_hlsBottomVote": {
+      "message": "Pokud se vám tato aplikace líbí, dejte nám prosím 5 hvězdiček v obchodě s rozšířeními, abyste nám pomohli být lepšími :)"
+   },
+   "t4_hlsBottomVoteBtn": {
+      "message": "Hlasovat nyní"
+   },
+   "t4_hlsBottomeShare": {
+      "message": "Pokud se vám tato aplikace líbí, sdílejte ji se svými přáteli :) "
+   },
+   "t4_important": {
+      "message": "Důležité"
+   },
+   "t4_importantDesc": {
+      "message": "Během stahování nezavírejte tuto stránku."
+   },
+   "t4_importantDesc2": {
+      "message": "Nahrávání videa bylo zahájeno, nezavírejte prosím stránku přehrávání videa a nechte video přehrávat."
+   },
+   "t4_incache": {
+      "message": "Ukládání do mezipaměti"
+   },
+   "t4_loadingNotice": {
+      "message": "načítání..."
+   },
+   "t4_maxRecTimeLimit": {
+      "message": "Je nám líto, ale bylo dosaženo maximálního limitu doby nahrávání. Klikněte prosím na mě a přihlaste se jako uživatel Pro, abyste limit odstranili."
+   },
+   "t4_maxRecTimeLimitAware": {
+      "message": "Upozorňujeme, že pro uživatele, kteří nejsou Pro, platí omezená doba nahrávání."
+   },
+   "t4_nxtTReview": {
+      "message": "Možná příště"
+   },
+   "t4_oauth2gDrive": {
+      "message": "Autorizace Disku Google"
+   },
+   "t4_oauth2gDriveContent": {
+      "message": "Chcete-li uložit stažené video na Disk Google, musíte autorizovat rozšíření pro přístup k vašemu účtu Disku Google. "
+   },
+   "t4_oauth2gDriveNote": {
+      "message": "Ujistěte se, že vaše síť má přístup ke službě Disku Google."
+   },
+   "t4_okBtn": {
+      "message": "OK"
+   },
+   "t4_okReview": {
+      "message": "Jistě!"
+   },
+   "t4_recModeForProAware": {
+      "message": "Režim nahrávání je funkce Pro, kterou lze po omezenou dobu vyzkoušet zdarma."
+   },
+   "t4_recordCached": {
+      "message": "V režimu nahrávání byly zaznamenány všechny části videa uložené v mezipaměti, můžete zkusit přetáčet dopředu na stránce přehrávání videa nebo přetáhnout ukazatel průběhu na konec mezipaměti a urychlit tak nahrávání."
+   },
+   "t4_recordInfo": {
+      "message": "Pokouším se nahrávat, ale zatím nebyla přijata žádná data videa. Možná bude nutné počkat na spuštění přehrávání videa."
+   },
+   "t4_recordingMode": {
+      "message": "Režim nahrávání"
+   },
+   "t4_removeAds": {
+      "message": "Nechci vidět reklamu"
+   },
+   "t4_save2diskLabel": {
+      "message": "Uložit přímo na pevný disk"
+   },
+   "t4_save2diskTitle": {
+      "message": "Při stahování se soubor ukládá přímo na váš pevný disk, nezabírá paměť a obchází limit paměti prohlížeče 2G. Je vhodný pro stahování velkých souborů nebo živých streamovaných videí."
+   },
+   "t4_setAutoFixMp4": {
+      "message": "Automaticky opravit videosoubor"
+   },
+   "t4_setAutoFixMp4Div": {
+      "message": "Automaticky opravit videosoubory, které 'nelze přehrát/přetáčet dopředu'"
+   },
+   "t4_speedUpLabel": {
+      "message": "Urychlit nahrávání"
+   },
+   "t4_speedUpTitle": {
+      "message": "Pokud je to možné, zrychlete video v režimu nahrávání, abyste urychlili nahrávání. Klávesnice 'Ctr + >' a 'Ctr + \u003C' na stránce přehrávání videa změní rychlost přehrávání"
+   },
+   "t4_switchRecMode": {
+      "message": "Přepnout režim stahování videa"
+   },
+   "t4_switchRecModeContent": {
+      "message": "\u003Cp>Kliknutím na OK přepnete do režimu nahrávání.\u003C/p>\u003Cp> Upozornění: 1. Ponechte tuto stránku otevřenou. 2 ponechte otevřenou stránku s videem a přehrávejte video.\u003C/p>"
+   },
+   "t4_title": {
+      "message": "Rozšíření pro stahování CocoCut"
+   },
+   "t4_vSavedToLoc": {
+      "message": "Videosoubor je uložen ve výchozím umístění pro stahování vašeho prohlížeče."
+   },
+   "t5_ConfirmSelectAudio": {
+      "message": "Video ještě nebylo uloženo. Opravdu chcete nejprve stáhnout zvuk?"
+   },
+   "t5_Tm3u8EstimateSize": {
+      "message": "Odhadnout velikost"
+   },
+   "t5_allocateErrorContent": {
+      "message": "Prohlížeč nemůže přidělit dostatek místa v interním úložišti pro uložení souboru. Zkuste uvolnit místo na pevném disku a restartovat stahování."
+   },
+   "t5_allocateErrorTitle": {
+      "message": "Nelze přidělit místo v interním úložišti"
+   },
+   "t5_highestResSelected": {
+      "message": "Video v nejvyšším rozlišení bylo vybráno automaticky."
+   },
+   "t5_needUseHighDlBtn": {
+      "message": "Zvýšit rychlost stahování"
+   },
+   "t5_over2g": {
+      "message": "Soubor přesahuje 2 GB. Omezení paměti prohlížeče může způsobit neúplné nebo neúspěšné stahování. Zkuste prosím: $1. Protože se jedná o omezení vynucené prohlížečem, které nelze obejít, pokud problém přetrvává, zvažte alternativní metody."
+   },
+   "t5_selectHighestResAuto": {
+      "message": "Ve výchozím nastavení stahovat video v nejvyšším rozlišení"
+   },
+   "t5_streamDownloader_failed": {
+      "message": "Nepodařilo se uložit na pevný disk. Chybová zpráva: $1. Obnovte prosím tuto webovou stránku a zkuste to znovu."
+   },
+   "videoIndexTips": {
+      "message": "Nebylo vybráno žádné manipulovatelné video"
+   },
+   "videoTabTips": {
+      "message": "Nebyly zjištěny žádné webové stránky s videem"
+   }
+}

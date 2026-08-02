@@ -1,0 +1,1114 @@
+{
+   "Aria2Text": {
+      "message": "Aria2形式"
+   },
+   "DownText": {
+      "message": "テキストファイルとしてダウンロード"
+   },
+   "Refresh": {
+      "message": "リセット"
+   },
+   "ResetExt": {
+      "message": "リセット"
+   },
+   "Resolution": {
+      "message": "解像度"
+   },
+   "SaveExt": {
+      "message": "すべての設定を保存"
+   },
+   "T2_advanceOptions": {
+      "message": "キャプチャオプション"
+   },
+   "T2_audioBits": {
+      "message": "オーディオビットレート"
+   },
+   "T2_errMsgBegin": {
+      "message": "エラー: "
+   },
+   "T2_maxCaputureTime": {
+      "message": "申し訳ありませんが、最大キャプチャ時間の制限に達しました。Proユーザーとしてログインして制限を解除するには、こちらをクリックしてください。"
+   },
+   "T2_preview": {
+      "message": "ビデオプレビュー"
+   },
+   "T2_recordEncoding": {
+      "message": "ビデオエンコーディング"
+   },
+   "T2_selectVideo": {
+      "message": "ビデオを選択してください（Proユーザーがキャプチャを開始すると、ターゲットビデオかどうかを確認するためのプレビューが生成されます）。"
+   },
+   "T2_startRecording": {
+      "message": "キャプチャを開始"
+   },
+   "T2_stopRecording": {
+      "message": "キャプチャを停止"
+   },
+   "T2_videoBits": {
+      "message": "ビデオビットレート"
+   },
+   "TAudio": {
+      "message": "音声"
+   },
+   "TCloseBtn": {
+      "message": "閉じる"
+   },
+   "TContinueRec": {
+      "message": "録画モードを続けますか？"
+   },
+   "TErrorNoAudio": {
+      "message": "申し訳ありませんが、音声が見つかりませんでした。"
+   },
+   "TErrorNoVideo": {
+      "message": "申し訳ありませんが、ビデオが見つかりませんでした。録画モードを試してみてください。"
+   },
+   "TRecording": {
+      "message": "録画中。"
+   },
+   "TbadgetTitle": {
+      "message": "$MEDIA_COUNT$件のメディアファイルが見つかりました。",
+      "placeholders": {
+         "MEDIA_COUNT": {
+            "content": "$1"
+         }
+      }
+   },
+   "TbgIsDownloading": {
+      "message": "このページのメディアはダウンロード中です。"
+   },
+   "TbgTryLater": {
+      "message": "申し訳ありませんが、現在ダウンロードは一時的に利用できません。後で再試行するか、ページをリフレッシュして再度試してください。"
+   },
+   "Tcopy": {
+      "message": "URLをコピー"
+   },
+   "TcopySelected": {
+      "message": "選択した項目をコピー"
+   },
+   "TcustomAdd": {
+      "message": "追加する"
+   },
+   "TcustomAddMine": {
+      "message": "追加する"
+   },
+   "TcustomBlockedDomainEmpty": {
+      "message": "ブロックするドメイン名は空にできません"
+   },
+   "TcustomBlockedDomainExample": {
+      "message": "ドメイン名の形式は次のようにしてください:"
+   },
+   "TcustomBlockedDomainPlaceholder": {
+      "message": "ブロックするドメイン名を入力"
+   },
+   "TcustomBlockedDomains": {
+      "message": "ブロックされたドメイン"
+   },
+   "TcustomBlockedDomainsDec": {
+      "message": "以下のドメインからのファイルはダウンロードリストに表示されません。"
+   },
+   "TcustomComfirmRest": {
+      "message": "リセットしますか？リセットすると以前の設定はすべて失われます！"
+   },
+   "TcustomCtDec": {
+      "message": "一部のメディアファイルは異常な拡張子を使用しており、MIMEによって判別する必要があります。\u003Ca href=\"https://developer.mozilla.org/ja/docs/Web/HTTP/Basics_of_HTTP/MIME_types/Complete_list_of_MIME_types\" target=\"_blank\">MIMEタイプ一覧\u003C/a> \u003Cbr/>ワイルドカードをサポートし、拡張子を優先してマッチします。"
+   },
+   "TcustomCtMIME": {
+      "message": "MIMEタイプ"
+   },
+   "TcustomDebug": {
+      "message": "デバッグモード"
+   },
+   "TcustomExt": {
+      "message": "カスタムファイル拡張子"
+   },
+   "TcustomExtDec": {
+      "message": "拡張子は「.」を含めずに記入してください。\u003Cbr/>このサイズ以上のファイルがクロールされます。0を入力すると、ファイルサイズに関係なくすべてクロールされます。\u003Cbr/>特定のファイルタイプを無視したい場合は、「オン」をオフにしてください。\u003Cbr/>一部の非メディアリソースファイルはクロールされません。"
+   },
+   "TcustomExtName": {
+      "message": "ファイル拡張子"
+   },
+   "TcustomExtNameEmpty": {
+      "message": "ファイル拡張子は空にできません"
+   },
+   "TcustomExtSize": {
+      "message": "サイズ制限"
+   },
+   "TcustomMaxDisplayCount": {
+      "message": "ポップアップページに表示するファイル数"
+   },
+   "TcustomMineEmpty": {
+      "message": "MIMEは空にできません"
+   },
+   "TcustomOt": {
+      "message": "その他"
+   },
+   "TcustomOtFilename": {
+      "message": "ダウンロード時にページタイトルをファイル名として使用"
+   },
+   "TcustomOtIgnore": {
+      "message": "パラメータを無視する（重複を避ける）"
+   },
+   "TcustomOtIgnoreDec": {
+      "message": "一部のメディアファイルにはパラメータが含まれています。パラメータを無視するオプションをチェックして重複データをフィルタリングします。"
+   },
+   "TcustomOtReg": {
+      "message": "ビデオパラメータをマッチする正規表現です。正規表現が理解できない場合は変更しないでください。「リセット」を使用してデフォルト設定を復元できます。"
+   },
+   "TcustomSaved": {
+      "message": "保存しました"
+   },
+   "TcustomSetting": {
+      "message": "CocoCut設定"
+   },
+   "TcustomShowCountOnIcon": {
+      "message": "CocoCut拡張機能アイコンにファイル数を表示"
+   },
+   "TcustomTypeIgn": {
+      "message": "特定のファイルタイプを無視したい場合は、「オン」をオフにしてください。"
+   },
+   "TdlmDownload": {
+      "message": "新しいダウンロード管理ページを開き、マルチスレッドでダウンロードします（そしてそれをデフォルトのダウンロード方法として設定します）。"
+   },
+   "Tdone": {
+      "message": "完了。"
+   },
+   "TdownSelected": {
+      "message": "選択した項目をダウンロード"
+   },
+   "Tdownload": {
+      "message": "ダウンロード"
+   },
+   "TdownloadPlus": {
+      "message": "高度なダウンロードモード"
+   },
+   "TerrFailDownload": {
+      "message": "ファイルのダウンロードに失敗しました。"
+   },
+   "TerrItself": {
+      "message": "エラーが発生しました。"
+   },
+   "TerrNoAvailableDownload": {
+      "message": "申し訳ありませんが、ダウンロード可能なビデオが見つかりませんでした。"
+   },
+   "TerrNoIndexFile": {
+      "message": "申し訳ありませんが、ビデオファイルのインデックスをダウンロードできません。"
+   },
+   "TerrTryToRec": {
+      "message": "もしかしたら\u003Ca href=\"javascript:void(0)\" id=\"errTryToRec\">録画モード\u003C/a>を試してみてください？"
+   },
+   "Text": {
+      "message": "テキスト形式"
+   },
+   "ThlsCloseVideoPageRetry": {
+      "message": "ビデオページを閉じて再度開き、再試行する必要があるかもしれません。"
+   },
+   "ThlsGoToMergeAV": {
+      "message": "次に、音声とビデオを統合してください："
+   },
+   "ThlsLiveDurationLimit": {
+      "message": "おっと！最大期間制限を超えました。\u003Ca class='btn btn-primary up2pro-btn'>Proにアップグレード\u003C/a>すると、無制限の再生時間とさらに多くの素晴らしい機能がアンロックされます！"
+   },
+   "ThlsNeedSelectAudio": {
+      "message": "ビデオに音声がない場合、次の音声をダウンロードしてください："
+   },
+   "ThlsSegmentsDlFaile": {
+      "message": "$failedCount$個のセグメントのダウンロードに失敗しました。クリックして再試行",
+      "placeholders": {
+         "failedCount": {
+            "content": "$1",
+            "example": "8"
+         }
+      }
+   },
+   "Tloading": {
+      "message": "読み込み中。"
+   },
+   "Tm3Des1": {
+      "message": "解析したtsファイルがダウンロードできない場合は、UrlDecodeデコードを試してください。"
+   },
+   "Tm3Des2": {
+      "message": "ffmpegでtsファイルを結合するコマンド: ffmpeg -i xxx.m3u8 -vcodec copy -acodec copy xxx.mp4"
+   },
+   "Tm3FileCount": {
+      "message": "ファイル"
+   },
+   "Tm3FileUri": {
+      "message": "m3u8ファイルのURL"
+   },
+   "Tm3Key": {
+      "message": "、このメディアファイルは暗号化されています。キーをダウンロードしてください。"
+   },
+   "Tm3Nexm3Des": {
+      "message": "このm3u8ファイルには別のm3u8ファイルがネストされています。"
+   },
+   "Tm3Nextm3file": {
+      "message": "次のレベルのm3u8ファイルを選択"
+   },
+   "Tm3PageTile": {
+      "message": "m3u8ファイルの解析"
+   },
+   "Tm3u8": {
+      "message": "m3u8をダウンロード"
+   },
+   "Tm3u8AdvancedParser": {
+      "message": "m3u8 高度な解析器"
+   },
+   "Tm3u8BeenSaved2HardDisk": {
+      "message": "ハードディスクに保存されました。ブラウザでダウンロードした内容を確認してください"
+   },
+   "Tm3u8Bitrate": {
+      "message": "ビットレート"
+   },
+   "Tm3u8CanNotDealSampleAES": {
+      "message": "現在、SAMPLE-AES-CTRで暗号化されたリソースを処理することはできません。"
+   },
+   "Tm3u8CanNotModiSet": {
+      "message": "トランスコーディングが有効になっているため、この設定は変更できません"
+   },
+   "Tm3u8CustomKey": {
+      "message": "カスタムキー"
+   },
+   "Tm3u8CustomKeyInputP": {
+      "message": "カスタムキー（16進数またはBase64またはキーのアドレス）"
+   },
+   "Tm3u8CustomeKeyOffsetV": {
+      "message": "カスタムオフセット"
+   },
+   "Tm3u8DataBeingConvert": {
+      "message": "データがフォーマットに変換中..."
+   },
+   "Tm3u8DataIsBeMerged": {
+      "message": "データが統合中..."
+   },
+   "Tm3u8DlAndMerge": {
+      "message": "ダウンロードと結合"
+   },
+   "Tm3u8DlDescDlMpdQuik": {
+      "message": "解析されたダウンロードリンクはすぐに無効になります。できるだけ早くダウンロードしてください。失敗した場合は、ビデオ再生ページに戻り、CocoCutアイコンをクリックして再解析してください。"
+   },
+   "Tm3u8DlExistData": {
+      "message": "既存データをダウンロード"
+   },
+   "Tm3u8DlFailedTryAgain": {
+      "message": "ダウンロードに失敗しました...再試行してください"
+   },
+   "Tm3u8DlRange": {
+      "message": "ダウンロード範囲"
+   },
+   "Tm3u8DlRec": {
+      "message": "録画ダウンロード"
+   },
+   "Tm3u8DlThreads": {
+      "message": "ダウンロードスレッド数"
+   },
+   "Tm3u8Downloaded": {
+      "message": "ダウンロード済み："
+   },
+   "Tm3u8EncodedDoc": {
+      "message": "エンコードされたドキュメント"
+   },
+   "Tm3u8Encrypted": {
+      "message": "暗号化済み"
+   },
+   "Tm3u8ErrInParseM3u8": {
+      "message": "m3u8ファイルの解析または再生中にエラーが発生しました"
+   },
+   "Tm3u8FailedDecrypt": {
+      "message": "復号に失敗しました"
+   },
+   "Tm3u8FileLoading": {
+      "message": "ファイルを読み込み中..."
+   },
+   "Tm3u8FormatErrCanclemp4": {
+      "message": "フォーマット変換エラーです。mp4変換をキャンセルして、再度ダウンロードしてください。"
+   },
+   "Tm3u8HttpNotAllow": {
+      "message": "この機能はhttpsを必要とします"
+   },
+   "Tm3u8ImcompleteData": {
+      "message": "データが不完全です...一部のファイルが未ダウンロードです"
+   },
+   "Tm3u8IncorrKey": {
+      "message": "キーが正しくありません"
+   },
+   "Tm3u8InitFrag": {
+      "message": "初期化フラグメント"
+   },
+   "Tm3u8KeyDlFail": {
+      "message": "キーのダウンロードに失敗しました"
+   },
+   "Tm3u8KeyErr": {
+      "message": "ファイルが正しくありません:"
+   },
+   "Tm3u8LiveStream": {
+      "message": "ライブストリーミング"
+   },
+   "Tm3u8M3u8FileAddr": {
+      "message": "m3u8ファイルのアドレス"
+   },
+   "Tm3u8MergeCheckStEnd": {
+      "message": "開始シーケンス番号は終了シーケンス番号より大きくできません"
+   },
+   "Tm3u8MergeCompleteWait": {
+      "message": "統合が完了しました。ブラウザがダウンロードを完了するのを待っています...(ブラウザのダウンロードプロセスに注意してください)"
+   },
+   "Tm3u8MergeSeqExceed": {
+      "message": "シーケンス番号は超えられません"
+   },
+   "Tm3u8NestMultSubs": {
+      "message": "複数の字幕をネスト"
+   },
+   "Tm3u8NestMultSubsDesc": {
+      "message": "m3u8ファイル内に複数の字幕がネストされています"
+   },
+   "Tm3u8NestMultipleaudio": {
+      "message": "複数の音声をネスト"
+   },
+   "Tm3u8NestMultipleaudioDesc": {
+      "message": "m3u8ファイル内に複数の音声がネストされています"
+   },
+   "Tm3u8Nestedfiles": {
+      "message": "ネストされたファイル"
+   },
+   "Tm3u8NestedfilesDesc": {
+      "message": "複数のm3u8ファイルがそのm3u8ファイル内にネストされています"
+   },
+   "Tm3u8NoAudio": {
+      "message": "音声がありません"
+   },
+   "Tm3u8NoSupport": {
+      "message": "サポートしていません"
+   },
+   "Tm3u8NoVideo": {
+      "message": "ビデオがありません"
+   },
+   "Tm3u8OpenDlDir": {
+      "message": "ダウンロードディレクトリを開く"
+   },
+   "Tm3u8PlayList": {
+      "message": "m3u8プレイリスト"
+   },
+   "Tm3u8PushingStream": {
+      "message": "ストリームをプッシュしています。閉じるとダウンロードが停止します..."
+   },
+   "Tm3u8RangeEnd": {
+      "message": "終了位置"
+   },
+   "Tm3u8RangeStart": {
+      "message": "開始位置"
+   },
+   "Tm3u8ReDlErr": {
+      "message": "ダウンロードエラー時に再試行"
+   },
+   "Tm3u8ReDling": {
+      "message": "再ダウンロード中..."
+   },
+   "Tm3u8RecLive": {
+      "message": "ライブビデオ録画"
+   },
+   "Tm3u8RecLiveVideo": {
+      "message": "ライブビデオを録画"
+   },
+   "Tm3u8RecordingTime": {
+      "message": "録画時間："
+   },
+   "Tm3u8Redownload": {
+      "message": "再ダウンロード"
+   },
+   "Tm3u8RefererAdd": {
+      "message": "追加"
+   },
+   "Tm3u8RefererDelete": {
+      "message": "削除"
+   },
+   "Tm3u8RefererRetry": {
+      "message": "その後、再試行"
+   },
+   "Tm3u8ReqFfmpegTrans": {
+      "message": "ffmpegによるトランスコーディングが必要です"
+   },
+   "Tm3u8Resolution": {
+      "message": "解像度"
+   },
+   "Tm3u8RetryDlErr": {
+      "message": "ダウンロード失敗アイテムを再試行"
+   },
+   "Tm3u8SaveAs": {
+      "message": "名前を付けて保存"
+   },
+   "Tm3u8SaveAsMp4": {
+      "message": "mp4形式で保存"
+   },
+   "Tm3u8SaveCusName": {
+      "message": "カスタムファイル名で保存"
+   },
+   "Tm3u8SaveOnlyAudio": {
+      "message": "音声のみ保存"
+   },
+   "Tm3u8StopDl": {
+      "message": "ダウンロード停止"
+   },
+   "Tm3u8StopDlStream": {
+      "message": "ストリームのダウンロード停止"
+   },
+   "Tm3u8StopRec": {
+      "message": "録画停止"
+   },
+   "Tm3u8StreamSave": {
+      "message": "ダウンロード中にハードディスクに保存"
+   },
+   "Tm3u8TotalFragCount": {
+      "message": "総ファイルフラグメント数："
+   },
+   "Tm3u8TotalTime": {
+      "message": "総時間："
+   },
+   "Tm3u8Upload": {
+      "message": "または、アップロード"
+   },
+   "Tm3u8VideoResolution": {
+      "message": "解像度"
+   },
+   "Tm3u8VideoTime": {
+      "message": "長さ"
+   },
+   "Tm3u8WaitLiveData": {
+      "message": "ライブデータを待機中..."
+   },
+   "Tm3u8WrongKeyType": {
+      "message": "間違ったキータイプ"
+   },
+   "Tm3u8downloadOptions": {
+      "message": "ダウンロードオプション"
+   },
+   "Tm3u8skipDecryption": {
+      "message": "復号化をスキップ"
+   },
+   "Tm3u8stopDl": {
+      "message": "ダウンロードを停止"
+   },
+   "TmediaCNormalspeed": {
+      "message": "通常速度"
+   },
+   "TmediaCSelWebpage": {
+      "message": "ウェブページを選択"
+   },
+   "TmediaCfullscreen": {
+      "message": "全画面"
+   },
+   "TmediaCpause": {
+      "message": "一時停止"
+   },
+   "TmediaCpip": {
+      "message": "ピクチャーインピクチャー"
+   },
+   "TmediaCpipQuit": {
+      "message": "ピクチャーインピクチャーを終了"
+   },
+   "TmediaCplay": {
+      "message": "再生"
+   },
+   "TmediaCplayTime": {
+      "message": "再生時間"
+   },
+   "TmediaCscreenshot": {
+      "message": "スクリーンショット"
+   },
+   "TmediaCselMedia": {
+      "message": "ビデオを選択"
+   },
+   "TmediaCspeed": {
+      "message": "再生速度を調整"
+   },
+   "TmediaCvolumn": {
+      "message": "音量"
+   },
+   "TmediaLoop": {
+      "message": "ループ再生"
+   },
+   "TmedianCMuted": {
+      "message": "ミュート"
+   },
+   "TmpdDrmProtect": {
+      "message": "このメディアはDRMで保護されており、ダウンロードや再生ができない場合があります。暗号化解析や復号化機能はありません。mpdファイルのアドレスをコピーして、サードパーティのツールを使用してダウンロードしてください。"
+   },
+   "TmpdInitSeg": {
+      "message": "初期化セグメント"
+   },
+   "TmpdMPdFileAddr": {
+      "message": "ファイルアドレス"
+   },
+   "TmpdParser": {
+      "message": "パーサー"
+   },
+   "TmpdSelectAudio": {
+      "message": "音声を選択"
+   },
+   "TmpdSelectVideo": {
+      "message": "ビデオを選択"
+   },
+   "TmpdTotalFilesCount": {
+      "message": "ファイル総数"
+   },
+   "TmpdVideo": {
+      "message": "ビデオ"
+   },
+   "TnoResource": {
+      "message": "ファイルが検出されませんでした！"
+   },
+   "TopenAdvanceModalDesc": {
+      "message": "ダウンロードに失敗したり、ダウンロードしたファイルが正しくない場合、またはファイルサイズが2GBを超える場合は、このモードを使用することをお勧めします。"
+   },
+   "TopenAdvanceModeBtn": {
+      "message": "高度なダウンロードモードを開く"
+   },
+   "Tplay": {
+      "message": "再生"
+   },
+   "TpopBlockDomain": {
+      "message": "このドメインからのファイルをダウンロードリストに表示しない"
+   },
+   "TpopBlockedDomainNotify": {
+      "message": "以下のドメインからのファイルはダウンロードリストに表示されません。"
+   },
+   "TpopDlDash": {
+      "message": "DASH/MPDをダウンロード"
+   },
+   "TpopGetProBtn": {
+      "message": "「ダウンロード加速」などの高度な機能を取得"
+   },
+   "TpopHomePageBtn": {
+      "message": "CocoCutホームページ"
+   },
+   "TpopM3u8Des": {
+      "message": "ストリーミング"
+   },
+   "TpopNeedPlayit": {
+      "message": "ダウンロードするビデオを再生して、CocoCutがそれを検出できるようにするか、「強制ダウンロード」ボタンをクリックしてください。"
+   },
+   "TpopNeedPlayit2": {
+      "message": "一部のビデオは再生を開始しないとダウンロードできません。それか、「強制ダウンロード」ボタンをクリックしてください。"
+   },
+   "TpopNotSuppWhy": {
+      "message": "理由と可能な解決策を見るには、こちらをクリックしてください。"
+   },
+   "TpopNotSupport": {
+      "message": "申し訳ありませんが、このウェブページはサポートされていません。"
+   },
+   "TpopOptionBtn": {
+      "message": "ダウンロード設定"
+   },
+   "TpopQuestionBtn": {
+      "message": "フィードバックとFAQ"
+   },
+   "TpopRealDlAddr": {
+      "message": "Proメンバーになってダウンロードリンクを取得するには、ここをクリックしてください。"
+   },
+   "TpopTab2Desc": {
+      "message": "Web標準に準拠していないビデオや音声は、'携帯電話をエミュレート'、'深層検索'など、他の方法で検出できます。"
+   },
+   "TpopTooManyFiles": {
+      "message": "表示するファイルが多すぎます。表示するファイル数を設定できます："
+   },
+   "TpopYTDLdesc": {
+      "message": "YouTubeの再生ページにいる場合は、YouTubeのビデオをダウンロードしてみてください。"
+   },
+   "TpopYTDLdlIt": {
+      "message": "YouTubeのビデオをダウンロードしてみる"
+   },
+   "TpopdeepSearch": {
+      "message": "深層検索"
+   },
+   "TpopdeepSearchOff": {
+      "message": "深層検索をオフにする"
+   },
+   "TpopdeepSearch_TT": {
+      "message": "非標準メディアファイルの深層検索で、検出確率を大幅に向上させます。"
+   },
+   "TpopemulateCellphone": {
+      "message": "携帯電話をエミュレート"
+   },
+   "TpopemulateCellphone_TT": {
+      "message": "一部のウェブサイトは、モバイルデバイス向けにWeb標準に準拠したメディアファイルを提供します。"
+   },
+   "TpoprecordScreen": {
+      "message": "スクリーン録画"
+   },
+   "TpoprecordScreenOff": {
+      "message": "スクリーン録画をオフにする"
+   },
+   "TpoprecordScreen_TT": {
+      "message": "スクリーンを直接録画します。ビデオカメラで画面をキャプチャするようなものです。"
+   },
+   "TpopupTab1": {
+      "message": "ダウンロードリスト"
+   },
+   "TpopupTab2": {
+      "message": "プロ機能"
+   },
+   "TpopupTab3": {
+      "message": "ビデオコントロール"
+   },
+   "TrevSelected": {
+      "message": "選択を反転"
+   },
+   "TryHlsDesc": {
+      "message": "CocoCutはビデオのダウンロードまたは録画を試みます。現在のウェブページのビデオが検出できない場合やダウンロードが難しい場合は、ここをクリックして試してみてください。"
+   },
+   "TselectAll": {
+      "message": "すべて選択"
+   },
+   "TssCloseRecArea": {
+      "message": "スクリーン録画をオフにする"
+   },
+   "TssDrapRecArea": {
+      "message": "録画領域を移動"
+   },
+   "TssNotAllowShare": {
+      "message": "現在のページでは画面共有はサポートされていません"
+   },
+   "TssStartRec": {
+      "message": "録画開始"
+   },
+   "TssStartRecord": {
+      "message": "録画を開始"
+   },
+   "TssStopRec": {
+      "message": "録画停止"
+   },
+   "TswichtRecMode": {
+      "message": "ビデオ録画モードに切り替える"
+   },
+   "TtempntcInfoCopied": {
+      "message": "コピーしました！"
+   },
+   "TtoFaq": {
+      "message": "FAQをご覧いただき、問題が解決するか確認してください。"
+   },
+   "TtryHls": {
+      "message": "強制ダウンロード"
+   },
+   "TtryHlsLabel": {
+      "message": "ダウンロードに問題がある、またはファイルが検出されませんか？"
+   },
+   "TtryPlay": {
+      "message": "再生してみる"
+   },
+   "TtryRecMode": {
+      "message": "ダウンロードするビデオが見つかりません。録画モードを試してみてください。"
+   },
+   "UrlDecode": {
+      "message": "UrlDecodeデコード"
+   },
+   "WgetText": {
+      "message": "Wget形式"
+   },
+   "customNavIEbtns": {
+      "message": "設定のインポート/エクスポート"
+   },
+   "exportSettingBtn": {
+      "message": "ローカルファイルにエクスポート"
+   },
+   "extDescription": {
+      "message": "Chrome用の最高のビデオダウンローダー拡張機能。このChrome用ダウンローダーで、無料で安全にビデオや音楽をワンクリックでダウンロードできます。"
+   },
+   "extName": {
+      "message": "ビデオダウンローダー - CocoCut"
+   },
+   "importSettingBtn": {
+      "message": "ローカルファイルからインポート"
+   },
+   "importSettingsCancelBtn": {
+      "message": "キャンセル"
+   },
+   "importSettingsFilelabel": {
+      "message": "CocoCut設定ファイルを選択..."
+   },
+   "importSettingsFilename": {
+      "message": "ファイルが選択されていません"
+   },
+   "importSettingsOkBtn": {
+      "message": "OK"
+   },
+   "importSettingsWarning": {
+      "message": "警告: これにより現在の設定がすべて置き換えられます。"
+   },
+   "modalCancelBtn": {
+      "message": "キャンセル"
+   },
+   "modalOkBtn": {
+      "message": "OK"
+   },
+   "popemulateCellphoneOff": {
+      "message": "携帯電話エミュレートをオフにする"
+   },
+   "subtitle": {
+      "message": "字幕"
+   },
+   "t2_Loading": {
+      "message": "読み込み中..."
+   },
+   "t2_captureStoped": {
+      "message": "キャプチャが停止しました"
+   },
+   "t2_captureStreamFailed": {
+      "message": "ビデオは著作権で保護されている可能性があり、ダウンロードが禁止されています。"
+   },
+   "t2_clickToStartRecording": {
+      "message": "ターゲットビデオを選択してから、クリックしてください: キャプチャを開始"
+   },
+   "t2_detectingVideo": {
+      "message": "ビデオを検索しています...(ビデオを再生しないと検出できない場合があります)"
+   },
+   "t2_dlM3U8_err": {
+      "message": "エラーです。このビデオページを閉じて再度開き、もう一度お試しください。"
+   },
+   "t2_formatNotSupported": {
+      "message": "サポートされていないビデオフォーマット"
+   },
+   "t2_frameRate": {
+      "message": "フレームレート"
+   },
+   "t2_ifCanNotPlay": {
+      "message": "ダウンロードしたビデオが再生できない場合は、こちらをクリックしてMP4ファイル修復ツールを使用してください。"
+   },
+   "t2_maxTried": {
+      "message": "ビデオは見つかりましたが、キャプチャできませんでした。このページを閉じ、ビデオページに移動して再度お試しください。"
+   },
+   "t2_noVideoDetected": {
+      "message": "ビデオが検出されませんでした。ビデオを再生してから、再度確認してください。"
+   },
+   "t2_noVideoFound": {
+      "message": "ビデオが検出されませんでした。ビデオを再生してから、再度確認してください。"
+   },
+   "t2_recordeModeTip": {
+      "message": "\u003Cstrong>録画モード\u003C/strong>では、ビデオページにキャッシュされたビデオを直接録画できます。\u003Ch4>利点\u003C/h4>\u003Cul>\u003Cli>録画速度が速い。\u003C/li>\u003Cli>録画中に早送りができます。\u003C/li>\u003C/ul>\u003Ch4>欠点\u003C/h4>\u003Cul>\u003Cli>一部のビデオは録画できません。\u003C/li>\u003Cli>ビデオや音声の一部が欠けることがあります。\u003C/li>\u003C/ul>"
+   },
+   "t2_recording": {
+      "message": "キャプチャ中"
+   },
+   "t2_recordingChangeEncoding": {
+      "message": "キャプチャ中にビデオエンコーディングを変更することはできません"
+   },
+   "t2_recordingFailed": {
+      "message": "キャプチャに失敗しました"
+   },
+   "t2_recordingNotSupported": {
+      "message": "キャプチャはサポートされていません"
+   },
+   "t2_showSuperRecorderContainerBtn": {
+      "message": "ダウンロードまたは録画モードが失敗した場合、キャプチャモードを使用してみてください:"
+   },
+   "t2_stopRecording": {
+      "message": "キャプチャを停止"
+   },
+   "t2_superRecorderInjectJsBtn": {
+      "message": "キャプチャモード"
+   },
+   "t2_superRecorderInjectJsBtnTip": {
+      "message": "\u003Cstrong>キャプチャモード\u003C/strong>では、ウェブページからビデオをキャプチャでき、簡単にお気に入りを保存できます。\u003Ch4>利点\u003C/h4>\u003Cul>\u003Cli>ほとんどのビデオをキャプチャできます（著作権で保護されたビデオを除く）。\u003C/li>\u003C/ul>\u003Ch4>欠点\u003C/h4>\u003Cul>\u003Cli>ファイルサイズが大きい。\u003C/li>\u003Cli>キャプチャ中に早送りはできません。\u003C/li>\u003Cli>ハードウェア要求が高く、遅延が発生することがあります（ターゲットビデオの解像度を下げることで遅延を減少させることができます）。\u003C/li>\u003C/ul>"
+   },
+   "t2_video": {
+      "message": "ビデオ"
+   },
+   "t2_webrtcStream": {
+      "message": "WebRTCビデオストリーム"
+   },
+   "t3_LimitCaptureDurationNotice": {
+      "message": "非Pro版には録画時間制限があります。Pro版にアップグレードすると無制限で録画できます。こちらをクリックしてPro版にアップグレードしてください。"
+   },
+   "t3_LimitSuperRecordDurationNotice": {
+      "message": "非Pro版にはキャプチャ時間制限があります。Pro版にアップグレードすると無制限でキャプチャできます。こちらをクリックしてPro版にアップグレードしてください。"
+   },
+   "t3_alt_downloader_desc": {
+      "message": "ダウンロードに失敗した場合は、この代替メディアダウンローダを使って再ダウンロードしてください。"
+   },
+   "t3_alt_media_downloader": {
+      "message": "代替メディアダウンローダ"
+   },
+   "t3_closeAndRetry": {
+      "message": "このページを閉じて、動画再生ページに戻って再試行してください。"
+   },
+   "t3_dlSpeedNotice": {
+      "message": "\u003Ch4>ダウンロード速度を速くしたいですか？ \u003C/h4>CocoCutの高度なマルチスレッド高速ダウンロード技術を使うと、最大6倍速くなります。"
+   },
+   "t3_dlSpeedNoticeBtn": {
+      "message": "高速ダウンロードを開始"
+   },
+   "t3_dlVaccelerateNotPro": {
+      "message": "マルチスレッド技術でダウンロード速度を速くしますか？"
+   },
+   "t3_dlVforceSaveBtn": {
+      "message": "バッファリングされた部分を直接保存"
+   },
+   "t3_dlVsaveBtn": {
+      "message": "保存"
+   },
+   "t3_dlVstartBtn": {
+      "message": "再開"
+   },
+   "t3_dlVstopAndSaveBtn": {
+      "message": "ダウンロードを停止して保存"
+   },
+   "t3_dlVstopBtn": {
+      "message": "一時停止"
+   },
+   "t3_download_complete": {
+      "message": "ダウンロード完了"
+   },
+   "t3_downloading": {
+      "message": "ダウンロード中..."
+   },
+   "t3_failed_download": {
+      "message": "ダウンロードに失敗しました："
+   },
+   "t3_failed_get_info": {
+      "message": "動画情報の取得に失敗しました。"
+   },
+   "t3_file_name": {
+      "message": "ファイル名："
+   },
+   "t3_file_size": {
+      "message": "ファイルサイズ："
+   },
+   "t3_loginBtn": {
+      "message": "ログイン"
+   },
+   "t3_proLogined": {
+      "message": "既にPro会員としてログインしていますので、ダウンロードの進行を中断しないために、次回のダウンロードでPro機能が有効になります。"
+   },
+   "t3_proNoticeContent": {
+      "message": "\u003Cp>こんにちは、この機能を使用するにはProユーザーとしてログインする必要があります。\u003C/p>\u003Cp>(既にProユーザーとしてログインしている場合、次回から使用できます。)\u003C/p>"
+   },
+   "t3_proNoticeTitle": {
+      "message": "これはPro機能です"
+   },
+   "t3_ready_to_download": {
+      "message": "ダウンロード準備完了"
+   },
+   "t3_save2gdrive": {
+      "message": "Google Driveに保存"
+   },
+   "t3_start_download": {
+      "message": "ダウンロード開始"
+   },
+   "t3_triedSpeedo": {
+      "message": "Proユーザーの高速ダウンロード体験が終了しました。"
+   },
+   "t3_tringSpeedo": {
+      "message": "Proユーザーの高速ダウンロードを試しています"
+   },
+   "t3_tringSpeedyTech": {
+      "message": "高速ダウンロード技術を使用してダウンロードを加速しています！"
+   },
+   "t3_trySpeedo": {
+      "message": "ここをクリックして高速ダウンロードを試す"
+   },
+   "t3_webpage_title": {
+      "message": "ウェブページタイトル："
+   },
+   "t4_Cached": {
+      "message": "キャッシュ済み"
+   },
+   "t4_Downloaded": {
+      "message": "ダウンロード完了！"
+   },
+   "t4_Fetching": {
+      "message": "ファイル情報を取得中..."
+   },
+   "t4_ProThreads": {
+      "message": "Proユーザー用の最大スレッドを使用"
+   },
+   "t4_Profile": {
+      "message": "プロフィール"
+   },
+   "t4_Retries": {
+      "message": "再試行回数"
+   },
+   "t4_Size": {
+      "message": "サイズ"
+   },
+   "t4_Speed": {
+      "message": "速度"
+   },
+   "t4_Threads": {
+      "message": "スレッド"
+   },
+   "t4_Timeleft": {
+      "message": "残り時間"
+   },
+   "t4_askReviewTitle": {
+      "message": "この拡張機能が気に入った場合は、拡張機能ストアで5つ星の評価をお願いします。より良い改善に役立ちます！"
+   },
+   "t4_askShare": {
+      "message": "この拡張機能が気に入ったら、友達や同僚とシェアしてください！"
+   },
+   "t4_autoSaveLabel": {
+      "message": "自動保存"
+   },
+   "t4_autoSaveTitle": {
+      "message": "バッファが完了した後に自動保存"
+   },
+   "t4_btnClose": {
+      "message": "閉じる"
+   },
+   "t4_bufferedLabel": {
+      "message": "バッファリングされた部分（バッファリングが完了した後に「保存」をクリックしてディスクに保存してください）："
+   },
+   "t4_cachedone": {
+      "message": "キャッシュが完了しました。「保存」ボタンをクリックして、キャッシュされたファイルをハードディスクに保存してください。"
+   },
+   "t4_cancelBtn": {
+      "message": "キャンセル"
+   },
+   "t4_directDlLable": {
+      "message": "次回はブラウザで直接ダウンロード"
+   },
+   "t4_disclaimDesc": {
+      "message": "CocoCutは個人使用のみ対応しており、ユーザーがダウンロードしたファイルについて責任を負いません。使用前に著作権を確認することをお勧めします。"
+   },
+   "t4_dlHlsInfo": {
+      "message": "tsファイルインデックスの取得を試みています。この状態が長時間続く場合は、以下をお試しください："
+   },
+   "t4_dlVaccelerate": {
+      "message": "Proユーザーのためにダウンロード速度を加速しようとしています"
+   },
+   "t4_failedDlModalContent": {
+      "message": "\u003Cp>現在ダウンロードしている動画の一部セグメントが正常にダウンロードまたは結合できないため、CocoCutが現在の動画をダウンロードできない場合があります。\u003C/p>\u003Cp>それでも、右上の「録画モード」を試すことができますが、成功は保証できません。\u003C/p>"
+   },
+   "t4_failedDlModalTitle": {
+      "message": "ダウンロードに問題が発生しました"
+   },
+   "t4_filesaved": {
+      "message": "ファイルはディスクに保存され、キャッシュデータは削除されます。"
+   },
+   "t4_goToIndexShare": {
+      "message": "今すぐシェア"
+   },
+   "t4_hlsBottomVote": {
+      "message": "このアプリが気に入ったら、拡張機能ストアで5つ星の評価をお願いします :)"
+   },
+   "t4_hlsBottomVoteBtn": {
+      "message": "今すぐ評価"
+   },
+   "t4_hlsBottomeShare": {
+      "message": "このアプリが気に入ったら、友達とシェアしてください :)"
+   },
+   "t4_important": {
+      "message": "重要！"
+   },
+   "t4_importantDesc": {
+      "message": "ダウンロード中はこのページを閉じないでください。"
+   },
+   "t4_importantDesc2": {
+      "message": "録画が開始されました。動画再生ページを閉じず、動画を再生し続けてください。"
+   },
+   "t4_incache": {
+      "message": "キャッシュ中"
+   },
+   "t4_loadingNotice": {
+      "message": "読み込み中..."
+   },
+   "t4_maxRecTimeLimit": {
+      "message": "申し訳ありませんが、最大録画時間制限に達しました。制限を解除するには、Proユーザーとしてログインしてください。"
+   },
+   "t4_maxRecTimeLimitAware": {
+      "message": "非Proユーザーには録画時間に制限がありますのでご注意ください。"
+   },
+   "t4_nxtTReview": {
+      "message": "次回に"
+   },
+   "t4_oauth2gDrive": {
+      "message": "Google Drive認証"
+   },
+   "t4_oauth2gDriveContent": {
+      "message": "ダウンロードした動画をGoogle Driveに保存するには、拡張機能がGoogle Driveアカウントへのアクセスを許可する必要があります。"
+   },
+   "t4_oauth2gDriveNote": {
+      "message": "ネットワークがGoogle Driveのサービスにアクセスできることを確認してください。"
+   },
+   "t4_okBtn": {
+      "message": "OK"
+   },
+   "t4_okReview": {
+      "message": "もちろん！"
+   },
+   "t4_recModeForProAware": {
+      "message": "録画モードはPro機能で、期間限定で無料でお試しいただけます。"
+   },
+   "t4_recordCached": {
+      "message": "録画モードでは、動画のバッファリングされたすべての部分が録画されます。動画再生ページで早送りを試みるか、進行バーをバッファの終わりまでドラッグして録画を加速できます。"
+   },
+   "t4_recordInfo": {
+      "message": "録画を試みていますが、まだ動画データが受信されていません。動画が再生されるまで待機する必要があるかもしれません。"
+   },
+   "t4_recordingMode": {
+      "message": "録画モード"
+   },
+   "t4_removeAds": {
+      "message": "広告を見たくない"
+   },
+   "t4_save2diskLabel": {
+      "message": "ハードディスクに保存"
+   },
+   "t4_save2diskTitle": {
+      "message": "ダウンロード時に、ファイルは直接ハードドライブに保存され、メモリを占有せず、ブラウザの2GBメモリ制限を回避します。大きなファイルやライブストリーミング動画のダウンロードに適しています。"
+   },
+   "t4_setAutoFixMp4": {
+      "message": "動画ファイルを自動修正"
+   },
+   "t4_setAutoFixMp4Div": {
+      "message": "'再生不可/早送り不可'の動画ファイルを自動修正"
+   },
+   "t4_speedUpLabel": {
+      "message": "録画速度を上げる"
+   },
+   "t4_speedUpTitle": {
+      "message": "録画モードで可能な場合、録画を加速するために動画の再生速度を上げます。動画再生ページで「Ctr + >」および「Ctr + \u003C」のキーボードショートカットで再生速度を変更できます"
+   },
+   "t4_switchRecMode": {
+      "message": "動画ダウンロードモードを切り替え"
+   },
+   "t4_switchRecModeContent": {
+      "message": "\u003Cp>「OK」をクリックして録画モードに切り替えます。\u003C/p>\u003Cp>注意：1. このページを閉じないでください。 2. 動画ページを開き、再生を続けてください。\u003C/p>"
+   },
+   "t4_title": {
+      "message": "CocoCutダウンローダー拡張機能"
+   },
+   "t4_vSavedToLoc": {
+      "message": "動画ファイルはブラウザのデフォルトダウンロード場所に保存されました。"
+   },
+   "t5_ConfirmSelectAudio": {
+      "message": "動画がまだ保存されていません。先に音声をダウンロードしますか？"
+   },
+   "t5_Tm3u8EstimateSize": {
+      "message": "推定サイズ"
+   },
+   "t5_allocateErrorContent": {
+      "message": "ブラウザはファイルを保存するために内部ストレージに十分なスペースを割り当てできません。ハードディスクの空き容量を増やしてから、ダウンロードを再開してください。"
+   },
+   "t5_allocateErrorTitle": {
+      "message": "内部ストレージにスペースを割り当てできません"
+   },
+   "t5_highestResSelected": {
+      "message": "最高解像度の動画が自動的に選択されました。"
+   },
+   "t5_needUseHighDlBtn": {
+      "message": "ダウンロード速度を向上させる"
+   },
+   "t5_over2g": {
+      "message": "ファイルが2GBを超えています。ブラウザのメモリ制限により、ダウンロードが不完全または失敗する可能性があります。次の方法をお試しください：$1。これはブラウザによる制限のため回避できません。問題が続く場合は、別の方法を検討してください。"
+   },
+   "t5_selectHighestResAuto": {
+      "message": "デフォルトで最高解像度の動画をダウンロードする"
+   },
+   "t5_streamDownloader_failed": {
+      "message": "ハードディスクへの保存に失敗しました。エラーメッセージ：$1。このウェブページを更新して、もう一度お試しください。"
+   },
+   "videoIndexTips": {
+      "message": "操作可能なビデオが選択されていません"
+   },
+   "videoTabTips": {
+      "message": "ビデオが検出されていないウェブページ"
+   }
+}

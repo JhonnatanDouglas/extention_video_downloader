@@ -1,0 +1,1114 @@
+{
+   "Aria2Text": {
+      "message": "תבנית Aria2"
+   },
+   "DownText": {
+      "message": "הורד כקובץ טקסט"
+   },
+   "Refresh": {
+      "message": "איפוס"
+   },
+   "ResetExt": {
+      "message": "איפוס"
+   },
+   "Resolution": {
+      "message": "רזולוציה"
+   },
+   "SaveExt": {
+      "message": "שמור את כל ההגדרות"
+   },
+   "T2_advanceOptions": {
+      "message": "אפשרויות לכידה"
+   },
+   "T2_audioBits": {
+      "message": "קצב סיביות שמע"
+   },
+   "T2_errMsgBegin": {
+      "message": "שגיאה:"
+   },
+   "T2_maxCaputureTime": {
+      "message": "מצטערים, אך הגעת למגבלת זמן הלכידה המרבית. אנא לחץ עליי כדי להתחבר כמשתמש Pro כדי להסיר את המגבלה."
+   },
+   "T2_preview": {
+      "message": "תצוגה מקדימה של וידאו"
+   },
+   "T2_recordEncoding": {
+      "message": "קידוד וידאו"
+   },
+   "T2_selectVideo": {
+      "message": "בחר את הסרטון (תצוגה מקדימה תיווצר לאחר תחילת הלכידה, כדי לאשר אם זהו סרטון היעד עבור משתמשי Pro)."
+   },
+   "T2_startRecording": {
+      "message": "התחל לכידה"
+   },
+   "T2_stopRecording": {
+      "message": "הפסק לכידה"
+   },
+   "T2_videoBits": {
+      "message": "קצב סיביות וידאו"
+   },
+   "TAudio": {
+      "message": "שמע"
+   },
+   "TCloseBtn": {
+      "message": "סגור"
+   },
+   "TContinueRec": {
+      "message": "להמשיך במצב הקלטה?"
+   },
+   "TErrorNoAudio": {
+      "message": "מצטערים, לא נמצא שמע."
+   },
+   "TErrorNoVideo": {
+      "message": "מצטערים, לא נמצא סרטון. אולי תוכל לנסות מצב הקלטה."
+   },
+   "TRecording": {
+      "message": "מקליט."
+   },
+   "TbadgetTitle": {
+      "message": "נמצאו $MEDIA_COUNT$ קובצי מדיה.",
+      "placeholders": {
+         "MEDIA_COUNT": {
+            "content": "$1"
+         }
+      }
+   },
+   "TbgIsDownloading": {
+      "message": "המדיה של דף זה מורדת."
+   },
+   "TbgTryLater": {
+      "message": "מצטערים, ההורדה אינה זמינה באופן זמני. נסה שוב מאוחר יותר או רענן את הדף ונסה שוב."
+   },
+   "Tcopy": {
+      "message": "העתק כתובת אתר"
+   },
+   "TcopySelected": {
+      "message": "העתק נבחרים"
+   },
+   "TcustomAdd": {
+      "message": "הוסף עוד"
+   },
+   "TcustomAddMine": {
+      "message": "הוסף עוד"
+   },
+   "TcustomBlockedDomainEmpty": {
+      "message": "שם הדומיין לחסימה אינו יכול להיות ריק"
+   },
+   "TcustomBlockedDomainExample": {
+      "message": "תבנית שם הדומיין צריכה להיות כ:"
+   },
+   "TcustomBlockedDomainPlaceholder": {
+      "message": "הזן את שם הדומיין לחסימה"
+   },
+   "TcustomBlockedDomains": {
+      "message": "דומיינים חסומים"
+   },
+   "TcustomBlockedDomainsDec": {
+      "message": "קבצים מהדומיינים הבאים לא יופיעו ברשימת ההורדות."
+   },
+   "TcustomComfirmRest": {
+      "message": "לאשר איפוס? תאבד את כל ההגדרות הקודמות שלך לאחר האיפוס!"
+   },
+   "TcustomCtDec": {
+      "message": "קבצי מדיה מסוימים משתמשים בסיומות לא שגרתיות ויש לשפוט אותם לפי MIME. \u003Ca href=\"https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types/Complete_list_of_MIME_types\" target=\"_blank\">רשימת סוגי MIME.\u003C/a> תומך בתווים כלליים, התאמת סיומות תחילה."
+   },
+   "TcustomCtMIME": {
+      "message": "MIME"
+   },
+   "TcustomDebug": {
+      "message": "מצב ניפוי באגים"
+   },
+   "TcustomExt": {
+      "message": "סיומת קובץ מותאמת אישית"
+   },
+   "TcustomExtDec": {
+      "message": "מלא את הסיומת ללא \".\". \u003Cbr/>קבצים הגדולים מגודל זה ייסרקו. \u003Cbr/>מילוי 0 יסרוק ללא קשר לגודל הקובץ.\u003Cbr/>אם ברצונך להתעלם מסוג קובץ מסוים, בטל את הסימון \"מופעל\".\u003Cbr/>קבצי משאבים שאינם מדיה מסוימים לא ייסרקו."
+   },
+   "TcustomExtName": {
+      "message": "סיומת קובץ"
+   },
+   "TcustomExtNameEmpty": {
+      "message": "סיומת הקובץ אינה יכולה להיות ריקה."
+   },
+   "TcustomExtSize": {
+      "message": "מגבלת גודל"
+   },
+   "TcustomMaxDisplayCount": {
+      "message": "כמה קבצים מוצגים בדף המוקפץ"
+   },
+   "TcustomMineEmpty": {
+      "message": "MIME אינו יכול להיות ריק."
+   },
+   "TcustomOt": {
+      "message": "אחרים"
+   },
+   "TcustomOtFilename": {
+      "message": "השתמש בכותרת הדף כשם הקובץ בעת ההורדה."
+   },
+   "TcustomOtIgnore": {
+      "message": "התעלם מפרמטרים (הימנע מכפילויות)"
+   },
+   "TcustomOtIgnoreDec": {
+      "message": "קבצי מדיה מסוימים כוללים פרמטרים. סמן 'התעלם מפרמטרים' כדי לסנן נתונים כפולים."
+   },
+   "TcustomOtReg": {
+      "message": "ביטוי רגולרי התואם את פרמטרי הווידאו. אם אינך מבין ביטויים רגולריים, הימנע משינויו. באפשרותך להשתמש ב'איפוס' כדי לשחזר את הגדרות ברירת המחדל."
+   },
+   "TcustomSaved": {
+      "message": "נשמר"
+   },
+   "TcustomSetting": {
+      "message": "הגדרות CocoCut"
+   },
+   "TcustomShowCountOnIcon": {
+      "message": "הצג את מספר הקבצים בסמל תוסף CocoCut"
+   },
+   "TcustomTypeIgn": {
+      "message": "אם ברצונך להתעלם מסוג קובץ מסוים, בטל את הסימון \"מופעל\"."
+   },
+   "TdlmDownload": {
+      "message": "פתח את דף ניהול ההורדות החדש כדי להוריד עם ריבוי הליכי משנה (והגדר אותו כשיטת ההורדה המוגדרת כברירת מחדל)."
+   },
+   "Tdone": {
+      "message": "בוצע."
+   },
+   "TdownSelected": {
+      "message": "הורד נבחרים"
+   },
+   "Tdownload": {
+      "message": "הורד"
+   },
+   "TdownloadPlus": {
+      "message": "מצב הורדה מתקדם"
+   },
+   "TerrFailDownload": {
+      "message": "הורדת הקובץ נכשלה."
+   },
+   "TerrItself": {
+      "message": "שגיאה."
+   },
+   "TerrNoAvailableDownload": {
+      "message": "מצטערים, אך איננו יכולים למצוא סרטון זמין להורדה."
+   },
+   "TerrNoIndexFile": {
+      "message": "מצטערים, אך איננו יכולים להוריד את קובץ האינדקס עבור קובצי וידאו."
+   },
+   "TerrTryToRec": {
+      "message": "אולי תוכל לנסות \u003Ca href=\"javascript:void(0)\" id=\"errTryToRec\">מצב הקלטה\u003C/a>?"
+   },
+   "Text": {
+      "message": "תבנית טקסט"
+   },
+   "ThlsCloseVideoPageRetry": {
+      "message": "ייתכן שיהיה צורך לסגור את דף האינטרנט של הווידאו, לפתוח אותו מחדש ולנסות שוב."
+   },
+   "ThlsGoToMergeAV": {
+      "message": "לאחר מכן עבור למיזוג שמע ווידאו:"
+   },
+   "ThlsLiveDurationLimit": {
+      "message": "אופס! חרגת ממגבלת משך הזמן המרבי. \u003Ca class='btn btn-primary up2pro-btn'>שדרג ל-Pro\u003C/a> כדי ליהנות מזמן בלתי מוגבל ולפתוח תכונות מדהימות נוספות!"
+   },
+   "ThlsNeedSelectAudio": {
+      "message": "אם אין שמע בווידאו, הורד:"
+   },
+   "ThlsSegmentsDlFaile": {
+      "message": "הורדת $failedCount$ קטעים נכשלה, לחץ כדי לנסות שוב",
+      "placeholders": {
+         "failedCount": {
+            "content": "$1",
+            "example": "8"
+         }
+      }
+   },
+   "Tloading": {
+      "message": "טוען."
+   },
+   "Tm3Des1": {
+      "message": "אם לא ניתן להוריד את קובץ ה-ts המנותח, נסה פענוח UrlDecode."
+   },
+   "Tm3Des2": {
+      "message": "פקודת מיזוג קבצי ts של Ffmpeg: ffmpeg -i xxx.m3u8 -vcodec copy -acodec copy xxx.mp4"
+   },
+   "Tm3FileCount": {
+      "message": " קבצים"
+   },
+   "Tm3FileUri": {
+      "message": "כתובת אתר של קובץ M3u8"
+   },
+   "Tm3Key": {
+      "message": ", קובץ המדיה מוצפן, הורד את קובץ המפתח."
+   },
+   "Tm3Nexm3Des": {
+      "message": "קובץ m3u8 אחר מקונן בקובץ m3u8."
+   },
+   "Tm3Nextm3file": {
+      "message": "בחר את קובץ ה-m3u8 ברמה הבאה"
+   },
+   "Tm3PageTile": {
+      "message": "מנתח קובץ m3u8"
+   },
+   "Tm3u8": {
+      "message": "הורד m3u8"
+   },
+   "Tm3u8AdvancedParser": {
+      "message": "מנתח מתקדם של m3u8"
+   },
+   "Tm3u8BeenSaved2HardDisk": {
+      "message": "הוא נשמר בכונן הקשיח, בדוק את התוכן שהורד בדפדפן"
+   },
+   "Tm3u8Bitrate": {
+      "message": "קצב סיביות"
+   },
+   "Tm3u8CanNotDealSampleAES": {
+      "message": "לא ניתן לעבד כעת משאבים המוצפנים באמצעות SAMPLE-AES-CTR."
+   },
+   "Tm3u8CanNotModiSet": {
+      "message": "המרת קידוד מופעלת, לא ניתן לשנות הגדרה זו"
+   },
+   "Tm3u8CustomKey": {
+      "message": "מפתח מותאם אישית"
+   },
+   "Tm3u8CustomKeyInputP": {
+      "message": "מפתח מותאם אישית הקסדצימלי או base64 או כתובת מפתח"
+   },
+   "Tm3u8CustomeKeyOffsetV": {
+      "message": "היסט מותאם אישית"
+   },
+   "Tm3u8DataBeingConvert": {
+      "message": "הנתונים מומרים לפורמט..."
+   },
+   "Tm3u8DataIsBeMerged": {
+      "message": "הנתונים מתמזגים..."
+   },
+   "Tm3u8DlAndMerge": {
+      "message": "הורד ומזג"
+   },
+   "Tm3u8DlDescDlMpdQuik": {
+      "message": "כתובת ה-URL להורדה המנותחת תהפוך בקרוב ללא חוקית, הורד בהקדם האפשרי. אם ההורדה נכשלת, חזור לדף הפעלת הווידאו ולחץ על סמל CocoCut כדי לנתח שוב."
+   },
+   "Tm3u8DlExistData": {
+      "message": "הורד נתונים קיימים"
+   },
+   "Tm3u8DlFailedTryAgain": {
+      "message": "ההורדה נכשלה...נסה שוב"
+   },
+   "Tm3u8DlRange": {
+      "message": "טווח הורדה"
+   },
+   "Tm3u8DlRec": {
+      "message": "הורד הקלטה"
+   },
+   "Tm3u8DlThreads": {
+      "message": "מספר הליכי משנה להורדה"
+   },
+   "Tm3u8Downloaded": {
+      "message": "הורד:"
+   },
+   "Tm3u8EncodedDoc": {
+      "message": "מסמכים מקודדים"
+   },
+   "Tm3u8Encrypted": {
+      "message": "מוצפן"
+   },
+   "Tm3u8ErrInParseM3u8": {
+      "message": "אירעה שגיאה בניתוח או בהפעלת קובץ m3u8"
+   },
+   "Tm3u8FailedDecrypt": {
+      "message": "הפענוח נכשל."
+   },
+   "Tm3u8FileLoading": {
+      "message": "הקובץ נטען..."
+   },
+   "Tm3u8FormatErrCanclemp4": {
+      "message": "שגיאת המרת פורמט, בטל את המרת mp4, הורד שוב."
+   },
+   "Tm3u8HttpNotAllow": {
+      "message": "תכונה זו דורשת https"
+   },
+   "Tm3u8ImcompleteData": {
+      "message": "נתונים לא שלמים... חלק מהקבצים נותרו ללא הורדה."
+   },
+   "Tm3u8IncorrKey": {
+      "message": "מפתח שגוי"
+   },
+   "Tm3u8InitFrag": {
+      "message": "קטע אתחול"
+   },
+   "Tm3u8KeyDlFail": {
+      "message": "הורדת המפתח נכשלה"
+   },
+   "Tm3u8KeyErr": {
+      "message": "הקובץ שגוי:"
+   },
+   "Tm3u8LiveStream": {
+      "message": "סטרימינג בשידור חי"
+   },
+   "Tm3u8M3u8FileAddr": {
+      "message": "כתובת קובץ m3u8"
+   },
+   "Tm3u8MergeCheckStEnd": {
+      "message": "מספר הרצף ההתחלתי אינו יכול להיות גדול ממספר הרצף הסופי"
+   },
+   "Tm3u8MergeCompleteWait": {
+      "message": "המיזוג הושלם, ממתין שהדפדפן יסיים את ההורדה...(שים לב לתהליך ההורדה של הדפדפן)"
+   },
+   "Tm3u8MergeSeqExceed": {
+      "message": "מספר הרצף אינו יכול לחרוג"
+   },
+   "Tm3u8NestMultSubs": {
+      "message": "קנן מספר כתוביות"
+   },
+   "Tm3u8NestMultSubsDesc": {
+      "message": "מספר כתוביות מקוננות בקובץ m3u8"
+   },
+   "Tm3u8NestMultipleaudio": {
+      "message": "קנן מספר קבצי שמע"
+   },
+   "Tm3u8NestMultipleaudioDesc": {
+      "message": "מספר קבצי שמע מקוננים בקובץ m3u8"
+   },
+   "Tm3u8Nestedfiles": {
+      "message": "קבצים מקוננים"
+   },
+   "Tm3u8NestedfilesDesc": {
+      "message": "מספר קובצי m3u8 מקוננים בתוך קובץ m3u8 זה"
+   },
+   "Tm3u8NoAudio": {
+      "message": "אין שמע"
+   },
+   "Tm3u8NoSupport": {
+      "message": "לא תומך"
+   },
+   "Tm3u8NoVideo": {
+      "message": "אין וידאו"
+   },
+   "Tm3u8OpenDlDir": {
+      "message": "פתח את ספריית ההורדות"
+   },
+   "Tm3u8PlayList": {
+      "message": "רשימת השמעה של m3u8"
+   },
+   "Tm3u8PushingStream": {
+      "message": "דוחף את הזרם, יפסיק להוריד לאחר הסגירה..."
+   },
+   "Tm3u8RangeEnd": {
+      "message": "סוף טווח"
+   },
+   "Tm3u8RangeStart": {
+      "message": "תחילת טווח"
+   },
+   "Tm3u8ReDlErr": {
+      "message": "נסה שוב בעת שגיאת הורדה"
+   },
+   "Tm3u8ReDling": {
+      "message": "מוריד מחדש..."
+   },
+   "Tm3u8RecLive": {
+      "message": "הקלט וידאו חי"
+   },
+   "Tm3u8RecLiveVideo": {
+      "message": "הקלט וידאו חי"
+   },
+   "Tm3u8RecordingTime": {
+      "message": "זמן הקלטה:"
+   },
+   "Tm3u8Redownload": {
+      "message": "הורד מחדש"
+   },
+   "Tm3u8RefererAdd": {
+      "message": "הוסף"
+   },
+   "Tm3u8RefererDelete": {
+      "message": "מחק"
+   },
+   "Tm3u8RefererRetry": {
+      "message": "נסה שוב"
+   },
+   "Tm3u8ReqFfmpegTrans": {
+      "message": "דורש המרת קידוד של ffmpeg"
+   },
+   "Tm3u8Resolution": {
+      "message": "רזולוציה"
+   },
+   "Tm3u8RetryDlErr": {
+      "message": "נסה שוב את כל הפריטים שנכשלו"
+   },
+   "Tm3u8SaveAs": {
+      "message": "שמור בשם"
+   },
+   "Tm3u8SaveAsMp4": {
+      "message": "שמור בפורמט mp4"
+   },
+   "Tm3u8SaveCusName": {
+      "message": "שמור עם שם קובץ מותאם אישית"
+   },
+   "Tm3u8SaveOnlyAudio": {
+      "message": "שמור רק את פורמט השמע"
+   },
+   "Tm3u8StopDl": {
+      "message": "הפסק הורדה"
+   },
+   "Tm3u8StopDlStream": {
+      "message": "הפסק הורדת זרם"
+   },
+   "Tm3u8StopRec": {
+      "message": "הפסק הקלטה"
+   },
+   "Tm3u8StreamSave": {
+      "message": "שמור בכונן הקשיח בזמן ההורדה"
+   },
+   "Tm3u8TotalFragCount": {
+      "message": "סך כל מקטעי הקבצים:"
+   },
+   "Tm3u8TotalTime": {
+      "message": "זמן כולל:"
+   },
+   "Tm3u8Upload": {
+      "message": "או, העלה"
+   },
+   "Tm3u8VideoResolution": {
+      "message": "רזולוציה"
+   },
+   "Tm3u8VideoTime": {
+      "message": "משך"
+   },
+   "Tm3u8WaitLiveData": {
+      "message": "ממתין לנתונים חיים..."
+   },
+   "Tm3u8WrongKeyType": {
+      "message": "סוג מפתח שגוי"
+   },
+   "Tm3u8downloadOptions": {
+      "message": "אפשרויות הורדה"
+   },
+   "Tm3u8skipDecryption": {
+      "message": "דלג על פענוח"
+   },
+   "Tm3u8stopDl": {
+      "message": "הפסק הורדה"
+   },
+   "TmediaCNormalspeed": {
+      "message": "מהירות רגילה"
+   },
+   "TmediaCSelWebpage": {
+      "message": "בחר דף אינטרנט"
+   },
+   "TmediaCfullscreen": {
+      "message": "מסך מלא"
+   },
+   "TmediaCpause": {
+      "message": "השהה"
+   },
+   "TmediaCpip": {
+      "message": "תמונה בתוך תמונה"
+   },
+   "TmediaCpipQuit": {
+      "message": "צא מתמונה בתוך תמונה"
+   },
+   "TmediaCplay": {
+      "message": "הפעל"
+   },
+   "TmediaCplayTime": {
+      "message": "זמן הפעלה"
+   },
+   "TmediaCscreenshot": {
+      "message": "צילום מסך"
+   },
+   "TmediaCselMedia": {
+      "message": "בחר וידאו"
+   },
+   "TmediaCspeed": {
+      "message": "הפעל במהירות שלך"
+   },
+   "TmediaCvolumn": {
+      "message": "עוצמת קול"
+   },
+   "TmediaLoop": {
+      "message": "לולאה"
+   },
+   "TmedianCMuted": {
+      "message": "השתק"
+   },
+   "TmpdDrmProtect": {
+      "message": "המדיה מוגנת על ידי DRM, וייתכן שלא ניתן יהיה להוריד ולהפעיל אותה. אין לה פונקציית ניתוח ופענוח הצפנה, העתק את כתובת קובץ ה-mpd והשתמש בכלי של צד שלישי כדי להוריד."
+   },
+   "TmpdInitSeg": {
+      "message": "קטע אתחול"
+   },
+   "TmpdMPdFileAddr": {
+      "message": "כתובת קובץ"
+   },
+   "TmpdParser": {
+      "message": "מנתח"
+   },
+   "TmpdSelectAudio": {
+      "message": "בחר שמע"
+   },
+   "TmpdSelectVideo": {
+      "message": "בחר וידאו"
+   },
+   "TmpdTotalFilesCount": {
+      "message": "מספר הקבצים הכולל"
+   },
+   "TmpdVideo": {
+      "message": "וידאו"
+   },
+   "TnoResource": {
+      "message": "לא זוהה קובץ!"
+   },
+   "TopenAdvanceModalDesc": {
+      "message": "מומלץ להשתמש במצב זה כאשר ההורדה נכשלת, הקובץ שהורד שגוי או שגודל הקובץ עולה על 2GB."
+   },
+   "TopenAdvanceModeBtn": {
+      "message": "פתח מצב הורדה מתקדם"
+   },
+   "Tplay": {
+      "message": "הפעל"
+   },
+   "TpopBlockDomain": {
+      "message": "חסום קבצים מדומיין זה מלהופיע ברשימת ההורדות"
+   },
+   "TpopBlockedDomainNotify": {
+      "message": "קבצים מהדומיין שלהלן לא יוצגו ברשימת ההורדות."
+   },
+   "TpopDlDash": {
+      "message": "הורד DASH/MPD"
+   },
+   "TpopGetProBtn": {
+      "message": "קבל פונקציות מתקדמות כגון \"הורדה מואצת\"."
+   },
+   "TpopHomePageBtn": {
+      "message": "דף הבית של CocoCut"
+   },
+   "TpopM3u8Des": {
+      "message": "זרם"
+   },
+   "TpopNeedPlayit": {
+      "message": " ייתכן שיהיה עליך להפעיל את הסרטון תחילה כדי לעזור ל-CocoCut למצוא אותו."
+   },
+   "TpopNeedPlayit2": {
+      "message": "יש להפעיל סרטונים מסוימים לפני שניתן יהיה להוריד אותם. או שתוכל ללחוץ על כפתור \"הורדה בכפייה\"."
+   },
+   "TpopNotSuppWhy": {
+      "message": "לחץ עליי כדי לראות מדוע ופתרון אפשרי."
+   },
+   "TpopNotSupport": {
+      "message": "מצטערים, דף אינטרנט זה אינו נתמך."
+   },
+   "TpopOptionBtn": {
+      "message": "הגדרות הורדה"
+   },
+   "TpopQuestionBtn": {
+      "message": "משוב ושאלות נפוצות"
+   },
+   "TpopRealDlAddr": {
+      "message": "לחץ עליי כדי להפוך לחבר Pro כדי לקבל את קישור ההורדה."
+   },
+   "TpopTab2Desc": {
+      "message": "עבור וידאו ושמע שאינם תואמים לתקני אינטרנט, ניתן לזהות אותם בכמה שיטות אחרות, כגון \"אמולציית טלפון סלולרי\", \"חיפוש עמוק\" וכן הלאה."
+   },
+   "TpopTooManyFiles": {
+      "message": "יותר מדי קבצים להצגה. באפשרותך להגדיר כמה קבצים להציג באמצעות:"
+   },
+   "TpopYTDLdesc": {
+      "message": "אם אתה נמצא בדף צפייה ב-YouTube, תוכל לנסות להוריד סרטון YouTube."
+   },
+   "TpopYTDLdlIt": {
+      "message": "נסה להוריד סרטון YouTube"
+   },
+   "TpopdeepSearch": {
+      "message": "חיפוש עמוק"
+   },
+   "TpopdeepSearchOff": {
+      "message": "כבה חיפוש עמוק"
+   },
+   "TpopdeepSearch_TT": {
+      "message": "חיפוש עמוק אחר קובצי מדיה שאינם סטנדרטיים, מה שמגדיל מאוד את ההסתברות לזיהוי."
+   },
+   "TpopemulateCellphone": {
+      "message": "אמולציית טלפון סלולרי"
+   },
+   "TpopemulateCellphone_TT": {
+      "message": "אתרים מסוימים מספקים קובצי מדיה תואמי אינטרנט למכשירים ניידים."
+   },
+   "TpoprecordScreen": {
+      "message": "מקליט מסך"
+   },
+   "TpoprecordScreenOff": {
+      "message": "כבה מקליט מסך"
+   },
+   "TpoprecordScreen_TT": {
+      "message": "הקלטה ישירה של המסך, בדומה למצלמת וידאו הלוכדת את המסך."
+   },
+   "TpopupTab1": {
+      "message": "רשימת הורדות"
+   },
+   "TpopupTab2": {
+      "message": "תכונות Pro"
+   },
+   "TpopupTab3": {
+      "message": "בקרת וידאו"
+   },
+   "TrevSelected": {
+      "message": "בחירה הפוכה"
+   },
+   "TryHlsDesc": {
+      "message": "CocoCut ינסה להוריד או להקליט את הסרטון. אם לא ניתן לזהות את הסרטון של דף האינטרנט הנוכחי או שקשה להוריד אותו, לחץ כאן כדי לנסות."
+   },
+   "TselectAll": {
+      "message": "בחר הכל"
+   },
+   "TssCloseRecArea": {
+      "message": "כבה מקליט מסך"
+   },
+   "TssDrapRecArea": {
+      "message": "הזזת אזור הקלטה"
+   },
+   "TssNotAllowShare": {
+      "message": "הדף הנוכחי אינו תומך בשיתוף מסך"
+   },
+   "TssStartRec": {
+      "message": "התחל הקלטה"
+   },
+   "TssStartRecord": {
+      "message": "התחל הקלטה"
+   },
+   "TssStopRec": {
+      "message": "הפסק הקלטה"
+   },
+   "TswichtRecMode": {
+      "message": "עבור למצב הקלטת וידאו"
+   },
+   "TtempntcInfoCopied": {
+      "message": "הועתק!"
+   },
+   "TtoFaq": {
+      "message": "עבור לשאלות הנפוצות כדי לראות אם ניתן לפתור את הבעיה."
+   },
+   "TtryHls": {
+      "message": "הורדה בכפייה"
+   },
+   "TtryHlsLabel": {
+      "message": "נתקלת בבעיות בהורדה או שלא זוהה קובץ?"
+   },
+   "TtryPlay": {
+      "message": "נסה להפעיל"
+   },
+   "TtryRecMode": {
+      "message": "לא ניתן למצוא סרטון להורדה, אולי תוכל לנסות אותו במצב הקלטה?"
+   },
+   "UrlDecode": {
+      "message": "פענוח UrlDecode"
+   },
+   "WgetText": {
+      "message": "תבנית Wget"
+   },
+   "customNavIEbtns": {
+      "message": "ייבוא/ייצוא הגדרות"
+   },
+   "exportSettingBtn": {
+      "message": "ייצא לקובץ מקומי"
+   },
+   "extDescription": {
+      "message": "תוסף הורדת הווידאו הטוב ביותר של Chrome, הורדת וידאו זו עבור Chrome יכולה להוריד וידאו, מוזיקה בחינם, בטוח בלחיצה אחת."
+   },
+   "extName": {
+      "message": "הורדת וידאו - CocoCut"
+   },
+   "importSettingBtn": {
+      "message": "ייבא מקובץ מקומי"
+   },
+   "importSettingsCancelBtn": {
+      "message": "בטל"
+   },
+   "importSettingsFilelabel": {
+      "message": "בחר קובץ הגדרות של CocoCut…"
+   },
+   "importSettingsFilename": {
+      "message": "לא נבחר קובץ"
+   },
+   "importSettingsOkBtn": {
+      "message": "אישור"
+   },
+   "importSettingsWarning": {
+      "message": "אזהרה: פעולה זו תחליף את כל ההגדרות הנוכחיות."
+   },
+   "modalCancelBtn": {
+      "message": "בטל"
+   },
+   "modalOkBtn": {
+      "message": "אישור"
+   },
+   "popemulateCellphoneOff": {
+      "message": "כבה אמולציית טלפון סלולרי"
+   },
+   "subtitle": {
+      "message": "כתוביות"
+   },
+   "t2_Loading": {
+      "message": "טוען..."
+   },
+   "t2_captureStoped": {
+      "message": "הלכידה הופסקה"
+   },
+   "t2_captureStreamFailed": {
+      "message": "הסרטון עשוי להיות מוגן בזכויות יוצרים והורדה אסורה."
+   },
+   "t2_clickToStartRecording": {
+      "message": "אנא בחר את סרטון היעד ולאחר מכן לחץ על: התחל לכידה."
+   },
+   "t2_detectingVideo": {
+      "message": "מחפש סרטונים... (ייתכן שיהיה צורך להתחיל להפעיל את הסרטונים תחילה כדי לזהות אותם.)"
+   },
+   "t2_dlM3U8_err": {
+      "message": "שגיאה, אנא סגור דף וידאו זה, פתח אותו מחדש ונסה שוב."
+   },
+   "t2_formatNotSupported": {
+      "message": "פורמט וידאו אינו נתמך"
+   },
+   "t2_frameRate": {
+      "message": "קצב פריימים"
+   },
+   "t2_ifCanNotPlay": {
+      "message": "אם אינך מצליח להפעיל את הסרטון שהורדת, לחץ כאן כדי להשתמש במתקן קבצי MP4 כדי לתקן אותו."
+   },
+   "t2_maxTried": {
+      "message": "הסרטון נמצא, אך לא ניתן היה ללכוד אותו. אנא סגור דף זה, עבור לדף הסרטון ונסה שוב."
+   },
+   "t2_noVideoDetected": {
+      "message": "לא זוהה סרטון. ייתכן שיהיה עליך להפעיל את הסרטון תחילה כדי לסייע בגילוי הסרטון."
+   },
+   "t2_noVideoFound": {
+      "message": "לא זוהה סרטון. ייתכן שיהיה עליך להפעיל את הסרטון תחילה כדי לסייע בגילוי הסרטון."
+   },
+   "t2_recordeModeTip": {
+      "message": "\u003Cstrong>מצב הקלטה\u003C/strong> מאפשר לך להקליט ישירות סרטונים המאוחסנים במטמון בדף וידאו. \u003Ch4>יתרונות\u003C/h4> \u003Cul>\u003Cli>מהירות הקלטה מהירה.\u003C/li>\u003Cli>תומך בהרצה קדימה במהלך ההקלטה.\u003C/li>\u003C/ul> \u003Ch4>חסרונות\u003C/h4> \u003Cul>\u003Cli>לא ניתן להקליט סרטונים מסוימים.\u003C/li>\u003Cli>בעיות מזדמנות עם קטעי וידאו או שמע חסרים.\u003C/li>\u003C/ul>"
+   },
+   "t2_recording": {
+      "message": "הלכידה מתבצעת"
+   },
+   "t2_recordingChangeEncoding": {
+      "message": "לא ניתן לשנות את קידוד הווידאו במהלך הלכידה."
+   },
+   "t2_recordingFailed": {
+      "message": "הלכידה נכשלה"
+   },
+   "t2_recordingNotSupported": {
+      "message": "הלכידה אינה נתמכת"
+   },
+   "t2_showSuperRecorderContainerBtn": {
+      "message": "כאשר מצב ההורדה או ההקלטה נכשל, באפשרותך לנסות להשתמש במצב לכידה:"
+   },
+   "t2_stopRecording": {
+      "message": "הפסק לכידה"
+   },
+   "t2_superRecorderInjectJsBtn": {
+      "message": "מצב לכידה"
+   },
+   "t2_superRecorderInjectJsBtnTip": {
+      "message": "\u003Cstrong>מצב לכידה\u003C/strong> מאפשר לך ללכוד סרטונים מדפי אינטרנט, מה שמקל על שמירת המועדפים שלך. \u003Ch4>יתרונות\u003C/h4> \u003Cul>\u003Cli>לוכד את רוב הסרטונים (למעט סרטונים המוגנים בזכויות יוצרים).\u003C/li>\u003C/ul> \u003Ch4>חסרונות\u003C/h4> \u003Cul>\u003Cli>גדלי קבצים גדולים.\u003C/li>\u003Cli>אין הרצה קדימה בעת הלכידה.\u003C/li>\u003Cli>דרישות חומרה גבוהות יחסית, עלולות להיתקל בפיגור. (ניתן להפחית את הרזולוציה של סרטון היעד המוקלט כדי להפחית את הפיגור.)\u003C/li>\u003C/ul>"
+   },
+   "t2_video": {
+      "message": "וידאו"
+   },
+   "t2_webrtcStream": {
+      "message": "זרם וידאו WebRTC"
+   },
+   "t3_LimitCaptureDurationNotice": {
+      "message": "לגרסת הלא-Pro יש מגבלת זמן הקלטה. שדרג לגרסת ה-Pro לזמן הקלטה בלתי מוגבל. לחץ כאן כדי לשדרג לגרסת ה-Pro."
+   },
+   "t3_LimitSuperRecordDurationNotice": {
+      "message": "לגרסת הלא-Pro יש מגבלת זמן לכידה. שדרג לגרסת ה-Pro לזמן לכידה בלתי מוגבל. לחץ כאן כדי לשדרג לגרסת ה-Pro."
+   },
+   "t3_alt_downloader_desc": {
+      "message": "אם ההורדה נכשלת, נסה להשתמש במוריד מדיה חלופי זה כדי להוריד מחדש."
+   },
+   "t3_alt_media_downloader": {
+      "message": "מוריד מדיה חלופי"
+   },
+   "t3_closeAndRetry": {
+      "message": "אנא סגור דף זה, חזור לדף הפעלת הווידאו ונסה שוב."
+   },
+   "t3_dlSpeedNotice": {
+      "message": "\u003Ch4>רוצה להאיץ את ההורדות? \u003C/h4>מומלץ להתחיל להשתמש בטכנולוגיית ההורדה המהירה והרב-הליכי המתקדמת של CocoCut, שעשויה להגביר את המהירות עד פי 6."
+   },
+   "t3_dlSpeedNoticeBtn": {
+      "message": "הפעל הורדה במהירות גבוהה"
+   },
+   "t3_dlVaccelerateNotPro": {
+      "message": "להשתמש בטכנולוגיית ריבוי הליכים כדי להאיץ את מהירות ההורדה?"
+   },
+   "t3_dlVforceSaveBtn": {
+      "message": "שמור חלקים שנאגרו ישירות"
+   },
+   "t3_dlVsaveBtn": {
+      "message": "שמור"
+   },
+   "t3_dlVstartBtn": {
+      "message": "המשך"
+   },
+   "t3_dlVstopAndSaveBtn": {
+      "message": "הפסק את ההורדה ושמור"
+   },
+   "t3_dlVstopBtn": {
+      "message": "השהה"
+   },
+   "t3_download_complete": {
+      "message": "ההורדה הושלמה"
+   },
+   "t3_downloading": {
+      "message": "מוריד..."
+   },
+   "t3_failed_download": {
+      "message": "הורדת הקובץ נכשלה:"
+   },
+   "t3_failed_get_info": {
+      "message": "קבלת מידע על הסרטון נכשלה."
+   },
+   "t3_file_name": {
+      "message": "שם קובץ:"
+   },
+   "t3_file_size": {
+      "message": "גודל קובץ:"
+   },
+   "t3_loginBtn": {
+      "message": "התחבר"
+   },
+   "t3_proLogined": {
+      "message": "אתה כבר מחובר כחבר Pro, כדי לא להפריע להתקדמותך בהורדה זו, תכונת ה-Pro שלך תופעל בהורדה הבאה שלך."
+   },
+   "t3_proNoticeContent": {
+      "message": "\u003Cp>שלום, עליך להתחבר כמשתמש Pro כדי להשתמש בתכונה זו.\u003C/p>\u003Cp>(אם אתה כבר מחובר כמשתמש Pro, תוכל להתחיל להשתמש בה בפעם הבאה.)\u003C/p>"
+   },
+   "t3_proNoticeTitle": {
+      "message": "זוהי תכונת Pro"
+   },
+   "t3_ready_to_download": {
+      "message": "מוכן להורדה"
+   },
+   "t3_save2gdrive": {
+      "message": "שמור ב-Google Drive"
+   },
+   "t3_start_download": {
+      "message": "התחל הורדה"
+   },
+   "t3_triedSpeedo": {
+      "message": "סוף תקופת הניסיון להורדה במהירות גבוהה של משתמש Pro."
+   },
+   "t3_tringSpeedo": {
+      "message": "מנסה הורדה במהירות גבוהה עבור משתמש Pro"
+   },
+   "t3_tringSpeedyTech": {
+      "message": "מנסה להשתמש בטכנולוגיית הורדה במהירות גבוהה כדי להאיץ את ההורדה!"
+   },
+   "t3_trySpeedo": {
+      "message": "לחץ כאן כדי לנסות"
+   },
+   "t3_webpage_title": {
+      "message": "כותרת דף אינטרנט:"
+   },
+   "t4_Cached": {
+      "message": "נשמר במטמון"
+   },
+   "t4_Downloaded": {
+      "message": "הורד!"
+   },
+   "t4_Fetching": {
+      "message": "מאחזר מידע על קבצים ..."
+   },
+   "t4_ProThreads": {
+      "message": "משתמש במספר הליכי משנה מרבי עבור משתמש Pro"
+   },
+   "t4_Profile": {
+      "message": "פרופיל"
+   },
+   "t4_Retries": {
+      "message": "ניסיונות חוזרים"
+   },
+   "t4_Size": {
+      "message": "גודל"
+   },
+   "t4_Speed": {
+      "message": "מהירות"
+   },
+   "t4_Threads": {
+      "message": "הליכי משנה"
+   },
+   "t4_Timeleft": {
+      "message": "זמן שנותר"
+   },
+   "t4_askReviewTitle": {
+      "message": "אם אתה אוהב את התוסף הזה, אנא תן לנו הצבעה של 5 כוכבים בחנות התוספים כדי לעזור לנו להשתפר :), זה יעזור לנו מאוד!"
+   },
+   "t4_askShare": {
+      "message": "אם אתה אוהב את התוסף הזה, אנא שתף אותו עם חבריך ועמיתיך!"
+   },
+   "t4_autoSaveLabel": {
+      "message": "שמור אוטומטית"
+   },
+   "t4_autoSaveTitle": {
+      "message": "שמור אוטומטית בסיום החציצה"
+   },
+   "t4_btnClose": {
+      "message": "סגור"
+   },
+   "t4_bufferedLabel": {
+      "message": "חלקים שנאגרו (לחץ על \"שמור\" לאחר סיום החציצה כדי לשמור בדיסק שלך):"
+   },
+   "t4_cachedone": {
+      "message": "המטמון הושלם, לחץ על כפתור \"שמור\" כדי לשמור את הקובץ שנשמר במטמון בכונן הקשיח שלך."
+   },
+   "t4_cancelBtn": {
+      "message": "בטל"
+   },
+   "t4_directDlLable": {
+      "message": "בפעם הבאה הורד ישירות עם הדפדפן"
+   },
+   "t4_disclaimDesc": {
+      "message": "CocoCut מיועד לשימוש אישי בלבד ואינו אחראי לקבצים שהורדו על ידי משתמשים. אנו מציעים לאשר את זכויות היוצרים לפני השימוש."
+   },
+   "t4_dlHlsInfo": {
+      "message": "מנסה לקבל אינדקס קבצי ts. אם מצב זה נמשך זמן רב, נסה להשתמש ב: "
+   },
+   "t4_dlVaccelerate": {
+      "message": "מנסה להאיץ את ההורדה עבור משתמש Pro."
+   },
+   "t4_failedDlModalContent": {
+      "message": "\u003Cp>לא ניתן להוריד או למזג כראוי חלקים מסוימים של הווידאו שהורד כעת, מה שעלול לגרום ל-Cococut להיכשל בהורדת הווידאו הנוכחי.\u003C/p>\u003Cp>אתה עדיין יכול לנסות את \"מצב הקלטה\" בפינה השמאלית העליונה של דף האינטרנט, אך הוא אינו יכול להבטיח הצלחה.\u003C/p>"
+   },
+   "t4_failedDlModalTitle": {
+      "message": "יש בעיה בהורדה שלך."
+   },
+   "t4_filesaved": {
+      "message": "הקובץ נשמר בדיסק שלך, ימחק את הנתונים שנשמרו במטמון."
+   },
+   "t4_goToIndexShare": {
+      "message": "שתף אותה עכשיו."
+   },
+   "t4_hlsBottomVote": {
+      "message": "אם אתה אוהב את האפליקציה הזו, אנא תן לנו הצבעה של 5 כוכבים בחנות התוספים כדי לעזור לנו להשתפר :)"
+   },
+   "t4_hlsBottomVoteBtn": {
+      "message": "הצבע עכשיו"
+   },
+   "t4_hlsBottomeShare": {
+      "message": "אם אתה אוהב את האפליקציה הזו, שתף אותה עם חבריך :) "
+   },
+   "t4_important": {
+      "message": "חשוב"
+   },
+   "t4_importantDesc": {
+      "message": "אל תסגור דף זה בזמן ההורדה."
+   },
+   "t4_importantDesc2": {
+      "message": "הקלטת הווידאו החלה, נא לא לסגור את דף הפעלת הווידאו ולשמור על הפעלת הווידאו."
+   },
+   "t4_incache": {
+      "message": "שומר במטמון"
+   },
+   "t4_loadingNotice": {
+      "message": "טוען..."
+   },
+   "t4_maxRecTimeLimit": {
+      "message": "מצטערים, אך הגעת למגבלת זמן ההקלטה המרבית. אנא לחץ עליי כדי להתחבר כמשתמש Pro כדי להסיר את המגבלה."
+   },
+   "t4_maxRecTimeLimitAware": {
+      "message": "שים לב שיש מגבלת זמן הקלטה למשתמשים שאינם Pro."
+   },
+   "t4_nxtTReview": {
+      "message": "אולי בפעם הבאה"
+   },
+   "t4_oauth2gDrive": {
+      "message": "הרשאת Google Drive"
+   },
+   "t4_oauth2gDriveContent": {
+      "message": "כדי לשמור את הווידאו שהורד ב-Google Drive שלך, עליך לאשר לתוסף לגשת לחשבון Google Drive שלך. "
+   },
+   "t4_oauth2gDriveNote": {
+      "message": "ודא שהרשת שלך יכולה לגשת לשירות של Google Drive."
+   },
+   "t4_okBtn": {
+      "message": "אישור"
+   },
+   "t4_okReview": {
+      "message": "בטח!"
+   },
+   "t4_recModeForProAware": {
+      "message": "מצב הקלטה הוא תכונת Pro שניתן לנסות בחינם לזמן מוגבל."
+   },
+   "t4_recordCached": {
+      "message": "במצב הקלטה, כל החלקים שנאגרו של הווידאו הוקלטו, באפשרותך לנסות להריץ קדימה בדף הפעלת הווידאו, או לגרור את סרגל ההתקדמות לסוף החציצה כדי להאיץ את ההקלטה."
+   },
+   "t4_recordInfo": {
+      "message": "מנסה להקליט, אך עדיין לא התקבלו נתוני וידאו. ייתכן שיהיה צורך להמתין לתחילת הפעלת הווידאו."
+   },
+   "t4_recordingMode": {
+      "message": "מצב הקלטה"
+   },
+   "t4_removeAds": {
+      "message": "אני לא רוצה לראות את המודעה"
+   },
+   "t4_save2diskLabel": {
+      "message": "שמור ישירות בכונן הקשיח"
+   },
+   "t4_save2diskTitle": {
+      "message": "בעת ההורדה, הקובץ נשמר ישירות בכונן הקשיח שלך, אינו תופס זיכרון ועוקף את מגבלת הזיכרון של 2GB של הדפדפן. הוא מתאים להורדת קבצים גדולים או סרטוני סטרימינג בשידור חי."
+   },
+   "t4_setAutoFixMp4": {
+      "message": "תקן קובץ וידאו אוטומטית"
+   },
+   "t4_setAutoFixMp4Div": {
+      "message": "תקן אוטומטית קובצי וידאו ש'לא ניתן להפעיל/להריץ קדימה'"
+   },
+   "t4_speedUpLabel": {
+      "message": "האץ את ההקלטה"
+   },
+   "t4_speedUpTitle": {
+      "message": "האץ את הווידאו במצב הקלטה במידת האפשר כדי להאיץ את ההקלטה. המקלדת 'Ctr + >' ו-'Ctr + \u003C' בדף הפעלת הווידאו תשנה את מהירות ההפעלה"
+   },
+   "t4_switchRecMode": {
+      "message": "החלף מצב הורדת וידאו"
+   },
+   "t4_switchRecModeContent": {
+      "message": "\u003Cp>לחץ על אישור כדי לעבור למצב הקלטה.\u003C/p>\u003Cp> שים לב: 1. השאר דף זה פתוח. 2 השאר את דף הווידאו שלך פתוח והווידאו מתנגן.\u003C/p>"
+   },
+   "t4_title": {
+      "message": "הרחבת הורדות CocoCut"
+   },
+   "t4_vSavedToLoc": {
+      "message": "קובץ הווידאו נשמר במיקום ההורדה המוגדר כברירת מחדל של הדפדפן שלך."
+   },
+   "t5_ConfirmSelectAudio": {
+      "message": "הסרטון עדיין לא נשמר. האם אתה בטוח שברצונך להוריד את השמע תחילה?"
+   },
+   "t5_Tm3u8EstimateSize": {
+      "message": "הערכת גודל"
+   },
+   "t5_allocateErrorContent": {
+      "message": "הדפדפן אינו יכול להקצות מספיק מקום באחסון הפנימי כדי לשמור את הקובץ. נסה לפנות קצת מקום בכונן הקשיח ולהפעיל מחדש את ההורדה."
+   },
+   "t5_allocateErrorTitle": {
+      "message": "לא ניתן להקצות מקום באחסון הפנימי"
+   },
+   "t5_highestResSelected": {
+      "message": "סרטון הרזולוציה הגבוהה ביותר נבחר באופן אוטומטי."
+   },
+   "t5_needUseHighDlBtn": {
+      "message": "הגבר את מהירות ההורדה"
+   },
+   "t5_over2g": {
+      "message": "הקובץ חורג מ-2GB. מגבלות הזיכרון של הדפדפן עלולות לגרום להורדות לא שלמות או כושלות. נסה: $1. מכיוון שזוהי הגבלה שהוטלה על ידי הדפדפן ולא ניתן לעקוף אותה, אם הבעיה נמשכת, שקול שיטות חלופיות."
+   },
+   "t5_selectHighestResAuto": {
+      "message": "הורד את סרטון הרזולוציה הגבוהה ביותר כברירת מחדל"
+   },
+   "t5_streamDownloader_failed": {
+      "message": "השמירה בכונן הקשיח נכשלה. הודעת שגיאה: $1. רענן דף אינטרנט זה ונסה שוב."
+   },
+   "videoIndexTips": {
+      "message": "לא נבחר וידאו שניתן לתפעל"
+   },
+   "videoTabTips": {
+      "message": "לא זוהו דפי אינטרנט עם וידאו"
+   }
+}
