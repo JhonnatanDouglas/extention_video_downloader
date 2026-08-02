@@ -11,6 +11,11 @@ DSL - VIDEO DOWNLOADER EXTENSION
 9. Confirme a abertura no Windows e aguarde o winget instalar o FFmpeg.
 10. Quando o FFmpeg for detectado, o indicador mudara para FFmpeg instalado, ficara verde e o botao do Windows desaparecera.
 
+Ao atualizar uma instalacao existente:
+- Recarregue a extensao em chrome://extensions.
+- Se o popup informar que o componente local esta desatualizado, baixe e
+  execute novamente o instalador pelo mesmo indicador.
+
 COMO BAIXAR VIDEOS
 
 1. Reproduza o video na pagina para a extensao identificar a midia ativa.
@@ -21,7 +26,9 @@ COMO BAIXAR VIDEOS
 
 FLUXOS DISPONIVEIS
 
-- HLS m3u8: escolhe a maior qualidade da playlist e gera um MP4.
+- HLS m3u8: escolhe a maior qualidade, baixa os segmentos VOD com ate quatro
+  conexoes simultaneas e gera um MP4. Playlists incompativeis usam
+  automaticamente o modo tradicional do FFmpeg.
 - Video direto: baixa a URL ativa do player e remuxa para MP4.
 - Instagram e Facebook: escolhe as melhores faixas do video ativo, baixa
   video e audio separadamente e une os dois no MP4 final.

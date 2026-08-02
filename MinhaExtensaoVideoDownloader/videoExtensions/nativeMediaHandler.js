@@ -25,9 +25,10 @@ async function connectDownloadJob(dependencies, job, payload) {
 
       if (message.type === "progress") {
         const percent = Number.isFinite(message.percent) ? message.percent : null;
+        const finalizing = message.phase === "Finalizando MP4" || (percent != null && percent >= 99);
         await updateJob(job.id, {
-          status: percent != null && percent >= 99 ? "finalizing" : "downloading",
-          phase: percent != null && percent >= 99 ? "Finalizando MP4" : "Baixando e processando",
+          status: finalizing ? "finalizing" : "downloading",
+          phase: message.phase || (finalizing ? "Finalizando MP4" : "Baixando e processando"),
           percent,
           elapsedSeconds: message.elapsedSeconds || 0,
           remainingSeconds: message.remainingSeconds ?? null,
