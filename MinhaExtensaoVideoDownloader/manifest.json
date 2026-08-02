@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "DSL - Video Downloader Extension",
   "description": "Detector pessoal de midia com download HLS, midia direta e faixas separadas de video e audio.",
-  "version": "1.5.7",
+  "version": "1.6.0",
   "minimum_chrome_version": "122",
   "icons": {
     "16": "icon-extension.png",

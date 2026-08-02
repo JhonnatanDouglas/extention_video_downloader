@@ -10,7 +10,7 @@ const tabMetaTracks = new Map();
 const mediaUpdateTimers = new Map();
 const mediaUpdateSignatures = new Map();
 const NATIVE_HOST = "com.dsl.video_downloader";
-const REQUIRED_NATIVE_HOST_API = 2;
+const REQUIRED_NATIVE_HOST_API = 3;
 
 const MEDIA_EXTENSIONS = /\.(m3u8|mpd|mp4|webm|mov|m4v|mkv|avi|flv|ts|m4s|mp3|m4a|aac|ogg|opus|wav)(?:[?#].*)?$/i;
 const MEDIA_CONTENT_TYPE = /(?:video|audio)\/|application\/(?:vnd\.apple\.mpegurl|x-mpegurl|dash\+xml|octet-stream)/i;

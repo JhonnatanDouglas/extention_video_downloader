@@ -18,7 +18,11 @@ nativeMediaHandler.js
 
 m3u8/index.js
 - Contem download, qualidade maxima, leitura de playlist, headers,
-  progresso, integracao com FFmpeg, repeticao e limpeza do formato m3u8.
+  progresso, repeticao e limpeza do formato m3u8.
+- Envia a playlist VOD final ao host API 3, que baixa ate quatro segmentos
+  em paralelo e usa o FFmpeg local para montar o MP4.
+- Playlists ao vivo, de baixa latencia ou incompativeis usam o fluxo remoto
+  tradicional do FFmpeg como fallback.
 
 m3u8/presentation.js
 - Contem nome do botao, recomendacao e prioridade visual do formato m3u8.

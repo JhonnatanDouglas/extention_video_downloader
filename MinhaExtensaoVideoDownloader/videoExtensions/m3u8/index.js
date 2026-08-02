@@ -124,10 +124,11 @@ export function createM3u8Handler(dependencies) {
     let lastError;
     for (let attempt = 1; attempt <= 3; attempt += 1) {
       try {
+        const requestHeaders = await Promise.resolve(getReplayHeaders(tabId, url)).catch(() => ({}));
         const response = await fetch(url, {
           credentials: "include",
           cache: "no-store",
-          headers: getReplayHeaders(tabId, url)
+          headers: requestHeaders
         });
         if (!response.ok) throw new Error(`HTTP ${response.status}`);
         return await response.text();
@@ -150,6 +151,7 @@ export function createM3u8Handler(dependencies) {
       if (!summary.variants.length) {
         return {
           url: currentUrl,
+          playlistText: text,
           resolution: resolution || inferM3u8Resolution(currentUrl),
           bitrateKbps,
           durationSeconds: summary.durationSeconds
@@ -165,7 +167,9 @@ export function createM3u8Handler(dependencies) {
     throw new Error("A playlist possui variantes aninhadas demais.");
   }
 
-  function connectDownloadJob(job, media) {
+  async function connectDownloadJob(job, media) {
+    const requestHeaders = await Promise.resolve(getReplayHeaders(job.sourceTabId, media.url)).catch(() => ({}));
+    const userAgentHeader = Object.entries(requestHeaders).find(([name]) => name.toLowerCase() === "user-agent");
     const port = chrome.runtime.connectNative(nativeHost);
     activeJobPorts.set(job.id, port);
     let finished = false;
@@ -186,9 +190,10 @@ export function createM3u8Handler(dependencies) {
 
         if (message.type === "progress") {
           const percent = Number.isFinite(message.percent) ? message.percent : null;
+          const finalizing = message.phase === "Finalizando MP4" || (percent != null && percent >= 99);
           await updateJob(job.id, {
-            status: percent != null && percent >= 99 ? "finalizing" : "downloading",
-            phase: percent != null && percent >= 99 ? "Finalizando MP4" : "Baixando e processando",
+            status: finalizing ? "finalizing" : "downloading",
+            phase: message.phase || (finalizing ? "Finalizando MP4" : "Baixando e processando"),
             percent,
             elapsedSeconds: message.elapsedSeconds || 0,
             remainingSeconds: message.remainingSeconds ?? null,
@@ -247,7 +252,11 @@ export function createM3u8Handler(dependencies) {
       pageUrl: job.pageUrl,
       pageOrigin,
       filenameBase: job.filenameBase,
-      durationSeconds: media.durationSeconds || 0
+      durationSeconds: media.durationSeconds || 0,
+      playlistText: media.playlistText || "",
+      parallelConnections: 4,
+      userAgent: userAgentHeader?.[1] || "",
+      requestHeaders
     });
   }
 
@@ -306,7 +315,7 @@ export function createM3u8Handler(dependencies) {
       });
       await persistJobs(jobs);
       broadcastJob(job);
-      connectDownloadJob(job, media);
+      await connectDownloadJob(job, media);
       return { ok: true, job: { ...job } };
     } catch (error) {
       await updateJob(job.id, {
