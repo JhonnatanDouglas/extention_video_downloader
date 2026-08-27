@@ -1,1 +1,0 @@
-navigator.serviceWorker.onmessage=e=>{const t=URL.createObjectURL(e.data);e.ports[0].postMessage(t),setTimeout((()=>URL.revokeObjectURL(t)),6e4)};
